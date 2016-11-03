@@ -7,7 +7,22 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "EventCell.h"
+#import "Event.h"
 
-@interface TagReviewController : UIViewController
+@protocol TagReviewDelegate <NSObject>
 
+-(void)PushEditEventController: (Event*)event;
+-(void)UpdateBankAndSettings;
+-(void)DeleteEvent: (Event*) event;
+@end
+
+@interface TagReviewController : UIViewController <UITableViewDataSource,UITableViewDelegate>
+@property CGFloat hundredRelativePts;
+@property UIScreen *screen;
+@property NSMutableArray *arrayOfEventsToReview;
+
+
+@property UITableView *tableView;
+@property (weak,nonatomic) id<TagReviewDelegate> delegate;
 @end

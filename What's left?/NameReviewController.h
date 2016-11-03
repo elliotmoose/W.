@@ -1,3 +1,4 @@
+
 //
 //  NameReviewController.h
 //  What's left?
@@ -9,5 +10,7 @@
 #import <UIKit/UIKit.h>
 
 @interface NameReviewController : UIViewController
-
+@property CGFloat hundredRelativePts;
+@property UIScreen *screen;
+@property NSMutableArray *arrayOfEventsToReview;
 @end

@@ -7,7 +7,14 @@
 //
 
 #import "ViewControllersLink.h"
-
+static ViewControllersLink *singleton;
 @implementation ViewControllersLink
-
+-(id)init
+{
+    if (singleton == nil) {
+        singleton = [ViewControllersLink alloc];
+    }
+    
+    return singleton;
+}
 @end

@@ -1,0 +1,1854 @@
+BCSymbolMap Version: 1.0
++[JBShapeLineLayer initialize]
+-[JBShapeLineLayer initWithTag:filled:smoothedLine:lineStyle:currentPath:]
+-[JBShapeLineLayer tag]
+-[JBShapeLineLayer filled]
+-[JBShapeLineLayer currentPath]
+-[JBShapeLineLayer setCurrentPath:]
+-[JBShapeLineLayer .cxx_destruct]
+kJBShapeLineLayerDefaultDashPattern
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_CLASSLIST_REFERENCES_$_1
+OBJC_METH_VAR_NAME_2
+OBJC_SELECTOR_REFERENCES_3
+OBJC_CLASSLIST_REFERENCES_$_4
+OBJC_METH_VAR_NAME_5
+OBJC_SELECTOR_REFERENCES_6
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_7
+OBJC_SELECTOR_REFERENCES_8
+OBJC_IVAR_$_JBShapeLineLayer._tag
+OBJC_IVAR_$_JBShapeLineLayer._filled
+OBJC_METH_VAR_NAME_9
+OBJC_SELECTOR_REFERENCES_10
+OBJC_IVAR_$_JBShapeLineLayer._currentPath
+OBJC_METH_VAR_NAME_11
+OBJC_SELECTOR_REFERENCES_12
+OBJC_CLASSLIST_REFERENCES_$_13
+OBJC_METH_VAR_NAME_14
+OBJC_SELECTOR_REFERENCES_15
+OBJC_METH_VAR_NAME_16
+OBJC_SELECTOR_REFERENCES_17
+OBJC_METH_VAR_NAME_18
+OBJC_SELECTOR_REFERENCES_19
+OBJC_METH_VAR_NAME_20
+OBJC_SELECTOR_REFERENCES_21
+OBJC_METH_VAR_NAME_22
+OBJC_SELECTOR_REFERENCES_23
+OBJC_METH_VAR_NAME_24
+OBJC_SELECTOR_REFERENCES_25
+OBJC_METH_VAR_NAME_26
+OBJC_SELECTOR_REFERENCES_27
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_28
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_CLASS_METHODS_JBShapeLineLayer
+l_OBJC_METACLASS_RO_$_JBShapeLineLayer
+OBJC_CLASS_NAME_29
+OBJC_METH_VAR_NAME_30
+OBJC_METH_VAR_TYPE_31
+OBJC_METH_VAR_NAME_32
+OBJC_METH_VAR_NAME_33
+OBJC_METH_VAR_TYPE_34
+OBJC_METH_VAR_NAME_35
+OBJC_METH_VAR_TYPE_36
+OBJC_METH_VAR_NAME_37
+OBJC_METH_VAR_TYPE_38
+OBJC_METH_VAR_NAME_39
+OBJC_METH_VAR_TYPE_40
+l_OBJC_$_INSTANCE_METHODS_JBShapeLineLayer
+OBJC_METH_VAR_NAME_41
+OBJC_METH_VAR_TYPE_42
+OBJC_METH_VAR_NAME_43
+OBJC_METH_VAR_TYPE_44
+OBJC_METH_VAR_NAME_45
+OBJC_METH_VAR_TYPE_46
+l_OBJC_$_INSTANCE_VARIABLES_JBShapeLineLayer
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_47
+OBJC_PROP_NAME_ATTR_48
+OBJC_PROP_NAME_ATTR_49
+OBJC_PROP_NAME_ATTR_50
+OBJC_PROP_NAME_ATTR_51
+l_OBJC_$_PROP_LIST_JBShapeLineLayer
+l_OBJC_CLASS_RO_$_JBShapeLineLayer
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.0.2 (clang-700.1.81)
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/1WQ7A71Y8Z1KR/QuartzCore-3I7S0M4UEAD0U.pcm
+QuartzCore
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/QuartzCore.framework
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/1WQ7A71Y8Z1KR/UIKit-2LM3EQU7VVY4O.pcm
+UIKit
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/1WQ7A71Y8Z1KR/Foundation-A3SOD99KJ0S9.pcm
+Foundation
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework
+-[JBShapeLineLayer .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Layers/JBShapeLineLayer.m
+/Users/sweeharng/Desktop/What's left?
+-[JBShapeLineLayer setCurrentPath:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Layers/JBShapeLineLayer.h
+-[JBShapeLineLayer currentPath]
+-[JBShapeLineLayer filled]
+-[JBShapeLineLayer tag]
+-[JBShapeLineLayer initWithTag:filled:smoothedLine:lineStyle:currentPath:]
++[JBShapeLineLayer initialize]
+-[JBLineChartLinesView initWithFrame:]
+-[JBLineChartLinesView dealloc]
+-[JBLineChartLinesView drawRect:]
+-[JBLineChartLinesView reloadDataAnimated:callback:]
+__52-[JBLineChartLinesView reloadDataAnimated:callback:]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+__52-[JBLineChartLinesView reloadDataAnimated:callback:]_block_invoke149
+__copy_helper_block_152
+__destroy_helper_block_153
+-[JBLineChartLinesView reloadDataAnimated:]
+-[JBLineChartLinesView reloadData]
+-[JBLineChartLinesView setSelectedLineIndex:animated:]
+__54-[JBLineChartLinesView setSelectedLineIndex:animated:]_block_invoke
+__copy_helper_block_193
+__destroy_helper_block_194
+__54-[JBLineChartLinesView setSelectedLineIndex:animated:]_block_invoke197
+__copy_helper_block_198
+__destroy_helper_block_199
+-[JBLineChartLinesView setSelectedLineIndex:]
+-[JBLineChartLinesView bezierPathForLineChartLine:filled:]
+-[JBLineChartLinesView shapeLineLayerForLineIndex:filled:]
+-[JBLineChartLinesView gradientLineLayerForLineIndex:filled:]
+-[JBLineChartLinesView basicPathAnimationFromBezierPath:toBezierPath:]
+-[JBLineChartLinesView fireCallback:]
+-[JBLineChartLinesView dataSource]
+-[JBLineChartLinesView setDataSource:]
+-[JBLineChartLinesView selectedLineIndex]
+-[JBLineChartLinesView animated]
+-[JBLineChartLinesView setAnimated:]
+OBJC_METH_VAR_NAME_1
+OBJC_SELECTOR_REFERENCES_2
+OBJC_METH_VAR_NAME_3
+OBJC_SELECTOR_REFERENCES_4
+OBJC_CLASSLIST_REFERENCES_$_5
+OBJC_METH_VAR_NAME_6
+OBJC_SELECTOR_REFERENCES_7
+OBJC_METH_VAR_NAME_8
+OBJC_SELECTOR_REFERENCES_9
+OBJC_METH_VAR_NAME_10
+OBJC_SELECTOR_REFERENCES_11
+OBJC_METH_VAR_NAME_12
+OBJC_SELECTOR_REFERENCES_13
+OBJC_CLASSLIST_REFERENCES_$_24
+OBJC_METH_VAR_NAME_25
+OBJC_SELECTOR_REFERENCES_26
+OBJC_METH_VAR_NAME_27
+OBJC_SELECTOR_REFERENCES_28
+OBJC_METH_VAR_NAME_29
+OBJC_SELECTOR_REFERENCES_30
+OBJC_METH_VAR_NAME_31
+OBJC_SELECTOR_REFERENCES_32
+OBJC_SELECTOR_REFERENCES_34
+OBJC_SELECTOR_REFERENCES_36
+OBJC_SELECTOR_REFERENCES_38
+OBJC_SELECTOR_REFERENCES_40
+OBJC_SELECTOR_REFERENCES_42
+OBJC_SELECTOR_REFERENCES_44
+OBJC_SELECTOR_REFERENCES_46
+OBJC_METH_VAR_NAME_47
+OBJC_SELECTOR_REFERENCES_48
+OBJC_METH_VAR_NAME_49
+OBJC_SELECTOR_REFERENCES_50
+OBJC_METH_VAR_NAME_51
+OBJC_SELECTOR_REFERENCES_52
+OBJC_METH_VAR_NAME_53
+OBJC_SELECTOR_REFERENCES_54
+OBJC_METH_VAR_NAME_55
+OBJC_SELECTOR_REFERENCES_56
+OBJC_METH_VAR_NAME_57
+OBJC_SELECTOR_REFERENCES_58
+OBJC_METH_VAR_NAME_59
+OBJC_SELECTOR_REFERENCES_60
+OBJC_METH_VAR_NAME_61
+OBJC_SELECTOR_REFERENCES_62
+OBJC_CLASSLIST_REFERENCES_$_63
+OBJC_METH_VAR_NAME_64
+OBJC_SELECTOR_REFERENCES_65
+OBJC_METH_VAR_NAME_66
+OBJC_SELECTOR_REFERENCES_67
+OBJC_METH_VAR_NAME_68
+OBJC_SELECTOR_REFERENCES_69
+OBJC_METH_VAR_NAME_70
+OBJC_SELECTOR_REFERENCES_71
+OBJC_METH_VAR_NAME_72
+OBJC_SELECTOR_REFERENCES_73
+OBJC_METH_VAR_NAME_74
+OBJC_SELECTOR_REFERENCES_75
+OBJC_METH_VAR_NAME_76
+OBJC_SELECTOR_REFERENCES_77
+OBJC_METH_VAR_NAME_78
+OBJC_SELECTOR_REFERENCES_79
+OBJC_METH_VAR_NAME_80
+OBJC_SELECTOR_REFERENCES_81
+OBJC_METH_VAR_NAME_82
+OBJC_SELECTOR_REFERENCES_83
+OBJC_METH_VAR_NAME_84
+OBJC_SELECTOR_REFERENCES_85
+.str
+_unnamed_cfstring_
+OBJC_METH_VAR_NAME_86
+OBJC_SELECTOR_REFERENCES_87
+OBJC_METH_VAR_NAME_88
+OBJC_SELECTOR_REFERENCES_89
+OBJC_METH_VAR_NAME_90
+OBJC_SELECTOR_REFERENCES_91
+OBJC_METH_VAR_NAME_92
+OBJC_SELECTOR_REFERENCES_93
+OBJC_METH_VAR_NAME_94
+OBJC_SELECTOR_REFERENCES_95
+.str96
+_unnamed_cfstring_97
+OBJC_METH_VAR_NAME_98
+OBJC_SELECTOR_REFERENCES_99
+OBJC_METH_VAR_NAME_100
+OBJC_SELECTOR_REFERENCES_101
+.str102
+__block_descriptor_tmp
+OBJC_CLASSLIST_REFERENCES_$_103
+OBJC_METH_VAR_NAME_104
+OBJC_SELECTOR_REFERENCES_105
+OBJC_METH_VAR_NAME_106
+OBJC_SELECTOR_REFERENCES_107
+OBJC_METH_VAR_NAME_108
+OBJC_SELECTOR_REFERENCES_109
+OBJC_METH_VAR_NAME_110
+OBJC_SELECTOR_REFERENCES_111
+OBJC_METH_VAR_NAME_112
+OBJC_SELECTOR_REFERENCES_113
+OBJC_METH_VAR_NAME_114
+OBJC_SELECTOR_REFERENCES_115
+OBJC_METH_VAR_NAME_116
+OBJC_SELECTOR_REFERENCES_117
+OBJC_CLASSLIST_REFERENCES_$_118
+OBJC_METH_VAR_NAME_119
+OBJC_SELECTOR_REFERENCES_120
+OBJC_CLASSLIST_REFERENCES_$_121
+OBJC_METH_VAR_NAME_122
+OBJC_SELECTOR_REFERENCES_123
+OBJC_CLASSLIST_REFERENCES_$_124
+.str125
+_unnamed_cfstring_126
+OBJC_METH_VAR_NAME_127
+OBJC_SELECTOR_REFERENCES_128
+OBJC_CLASSLIST_REFERENCES_$_129
+OBJC_METH_VAR_NAME_130
+OBJC_SELECTOR_REFERENCES_131
+OBJC_METH_VAR_NAME_132
+OBJC_SELECTOR_REFERENCES_133
+OBJC_METH_VAR_NAME_134
+OBJC_SELECTOR_REFERENCES_135
+OBJC_METH_VAR_NAME_136
+OBJC_SELECTOR_REFERENCES_137
+OBJC_CLASSLIST_REFERENCES_$_138
+.str139
+_unnamed_cfstring_140
+OBJC_METH_VAR_NAME_141
+OBJC_SELECTOR_REFERENCES_142
+OBJC_METH_VAR_NAME_143
+OBJC_SELECTOR_REFERENCES_144
+OBJC_METH_VAR_NAME_145
+OBJC_SELECTOR_REFERENCES_146
+OBJC_METH_VAR_NAME_147
+OBJC_SELECTOR_REFERENCES_148
+OBJC_METH_VAR_NAME_150
+OBJC_SELECTOR_REFERENCES_151
+__block_descriptor_tmp154
+OBJC_METH_VAR_NAME_155
+OBJC_SELECTOR_REFERENCES_156
+.str157
+_unnamed_cfstring_158
+OBJC_METH_VAR_NAME_159
+OBJC_SELECTOR_REFERENCES_160
+OBJC_METH_VAR_NAME_161
+OBJC_SELECTOR_REFERENCES_162
+OBJC_METH_VAR_NAME_163
+OBJC_SELECTOR_REFERENCES_164
+OBJC_IVAR_$_JBLineChartLinesView._selectedLineIndex
+.str165
+_unnamed_cfstring_166
+.str167
+_unnamed_cfstring_168
+OBJC_METH_VAR_NAME_169
+OBJC_SELECTOR_REFERENCES_170
+OBJC_METH_VAR_NAME_171
+OBJC_SELECTOR_REFERENCES_172
+OBJC_METH_VAR_NAME_173
+OBJC_SELECTOR_REFERENCES_174
+OBJC_METH_VAR_NAME_175
+OBJC_SELECTOR_REFERENCES_176
+OBJC_METH_VAR_NAME_177
+OBJC_SELECTOR_REFERENCES_178
+OBJC_METH_VAR_NAME_179
+OBJC_SELECTOR_REFERENCES_180
+OBJC_CLASSLIST_REFERENCES_$_181
+OBJC_METH_VAR_NAME_182
+OBJC_SELECTOR_REFERENCES_183
+OBJC_CLASSLIST_REFERENCES_$_184
+OBJC_METH_VAR_NAME_185
+OBJC_SELECTOR_REFERENCES_186
+OBJC_METH_VAR_NAME_187
+OBJC_SELECTOR_REFERENCES_188
+OBJC_METH_VAR_NAME_189
+OBJC_SELECTOR_REFERENCES_190
+OBJC_METH_VAR_NAME_191
+OBJC_SELECTOR_REFERENCES_192
+__block_descriptor_tmp195
+OBJC_CLASSLIST_REFERENCES_$_196
+__block_descriptor_tmp200
+OBJC_METH_VAR_NAME_201
+OBJC_SELECTOR_REFERENCES_202
+OBJC_METH_VAR_NAME_203
+OBJC_SELECTOR_REFERENCES_204
+OBJC_METH_VAR_NAME_205
+OBJC_SELECTOR_REFERENCES_206
+OBJC_CLASSLIST_REFERENCES_$_207
+OBJC_METH_VAR_NAME_208
+OBJC_SELECTOR_REFERENCES_209
+OBJC_METH_VAR_NAME_210
+OBJC_SELECTOR_REFERENCES_211
+OBJC_METH_VAR_NAME_212
+OBJC_SELECTOR_REFERENCES_213
+OBJC_METH_VAR_NAME_214
+OBJC_SELECTOR_REFERENCES_215
+OBJC_METH_VAR_NAME_216
+OBJC_SELECTOR_REFERENCES_217
+OBJC_METH_VAR_NAME_218
+OBJC_SELECTOR_REFERENCES_219
+OBJC_METH_VAR_NAME_220
+OBJC_SELECTOR_REFERENCES_221
+OBJC_METH_VAR_NAME_222
+OBJC_SELECTOR_REFERENCES_223
+OBJC_METH_VAR_NAME_224
+OBJC_SELECTOR_REFERENCES_225
+.str226
+_unnamed_cfstring_227
+OBJC_IVAR_$_JBLineChartLinesView._dataSource
+OBJC_IVAR_$_JBLineChartLinesView._animated
+l_OBJC_METACLASS_RO_$_JBLineChartLinesView
+OBJC_METH_VAR_TYPE_228
+OBJC_METH_VAR_TYPE_229
+OBJC_METH_VAR_TYPE_230
+OBJC_METH_VAR_TYPE_231
+OBJC_METH_VAR_NAME_232
+OBJC_METH_VAR_TYPE_233
+OBJC_METH_VAR_NAME_234
+OBJC_METH_VAR_TYPE_235
+OBJC_METH_VAR_TYPE_236
+OBJC_METH_VAR_TYPE_237
+OBJC_METH_VAR_TYPE_238
+OBJC_METH_VAR_NAME_239
+OBJC_METH_VAR_TYPE_240
+OBJC_METH_VAR_TYPE_241
+OBJC_METH_VAR_NAME_242
+OBJC_METH_VAR_TYPE_243
+OBJC_METH_VAR_TYPE_244
+OBJC_METH_VAR_TYPE_245
+l_OBJC_$_INSTANCE_METHODS_JBLineChartLinesView
+OBJC_METH_VAR_NAME_246
+OBJC_METH_VAR_TYPE_247
+OBJC_METH_VAR_NAME_248
+OBJC_METH_VAR_TYPE_249
+OBJC_METH_VAR_NAME_250
+OBJC_METH_VAR_TYPE_251
+l_OBJC_$_INSTANCE_VARIABLES_JBLineChartLinesView
+OBJC_PROP_NAME_ATTR_252
+OBJC_PROP_NAME_ATTR_253
+OBJC_PROP_NAME_ATTR_254
+OBJC_PROP_NAME_ATTR_255
+OBJC_PROP_NAME_ATTR_256
+l_OBJC_$_PROP_LIST_JBLineChartLinesView
+l_OBJC_CLASS_RO_$_JBLineChartLinesView
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/1WQ7A71Y8Z1KR/ObjectiveC-2CD0WTQVXITO7.pcm
+ObjectiveC
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/objc
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/1WQ7A71Y8Z1KR/CoreGraphics-1YQ59ILDR3NYI.pcm
+CoreGraphics
+CGPointMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+-[JBLineChartLinesView setAnimated:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartLinesView.m
+-[JBLineChartLinesView animated]
+-[JBLineChartLinesView selectedLineIndex]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartLinesView.h
+-[JBLineChartLinesView setDataSource:]
+-[JBLineChartLinesView dataSource]
+-[JBLineChartLinesView fireCallback:]
+-[JBLineChartLinesView basicPathAnimationFromBezierPath:toBezierPath:]
+-[JBLineChartLinesView gradientLineLayerForLineIndex:filled:]
+-[JBLineChartLinesView shapeLineLayerForLineIndex:filled:]
+-[JBLineChartLinesView bezierPathForLineChartLine:filled:]
+-[JBLineChartLinesView setSelectedLineIndex:]
+-[JBLineChartLinesView setSelectedLineIndex:animated:]
+-[JBLineChartLinesView reloadData]
+-[JBLineChartLinesView reloadDataAnimated:]
+-[JBLineChartLinesView reloadDataAnimated:callback:]
+-[JBLineChartLinesView drawRect:]
+-[JBLineChartLinesView dealloc]
+-[JBLineChartLinesView initWithFrame:]
+-[JBLineChartDotsView initWithFrame:]
+-[JBLineChartDotsView reloadDataAnimated:callback:]
+__Block_byref_object_copy_
+__Block_byref_object_dispose_
+__51-[JBLineChartDotsView reloadDataAnimated:callback:]_block_invoke
+__51-[JBLineChartDotsView reloadDataAnimated:callback:]_block_invoke45
+__copy_helper_block_46
+__destroy_helper_block_47
+-[JBLineChartDotsView reloadDataAnimated:]
+-[JBLineChartDotsView reloadData]
+-[JBLineChartDotsView setSelectedLineIndex:animated:]
+__53-[JBLineChartDotsView setSelectedLineIndex:animated:]_block_invoke
+__53-[JBLineChartDotsView setSelectedLineIndex:animated:]_block_invoke_2
+__copy_helper_block_98
+__destroy_helper_block_99
+__copy_helper_block_104
+__destroy_helper_block_105
+__53-[JBLineChartDotsView setSelectedLineIndex:animated:]_block_invoke107
+__copy_helper_block_108
+__destroy_helper_block_109
+-[JBLineChartDotsView setSelectedLineIndex:]
+-[JBLineChartDotsView dotViewForHorizontalIndex:atLineIndex:]
+-[JBLineChartDotsView dataSource]
+-[JBLineChartDotsView setDataSource:]
+-[JBLineChartDotsView selectedLineIndex]
+-[JBLineChartDotsView dotViewsDict]
+-[JBLineChartDotsView setDotViewsDict:]
+-[JBLineChartDotsView .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_9
+OBJC_SELECTOR_REFERENCES_29
+OBJC_SELECTOR_REFERENCES_31
+OBJC_SELECTOR_REFERENCES_33
+OBJC_METH_VAR_NAME_34
+OBJC_SELECTOR_REFERENCES_35
+OBJC_METH_VAR_NAME_36
+OBJC_SELECTOR_REFERENCES_37
+OBJC_CLASSLIST_REFERENCES_$_38
+__block_descriptor_tmp48
+OBJC_CLASSLIST_REFERENCES_$_53
+OBJC_METH_VAR_NAME_54
+OBJC_SELECTOR_REFERENCES_55
+OBJC_METH_VAR_NAME_56
+OBJC_SELECTOR_REFERENCES_57
+OBJC_METH_VAR_NAME_58
+OBJC_SELECTOR_REFERENCES_59
+OBJC_METH_VAR_NAME_60
+OBJC_SELECTOR_REFERENCES_61
+OBJC_CLASSLIST_REFERENCES_$_62
+OBJC_METH_VAR_NAME_63
+OBJC_SELECTOR_REFERENCES_64
+OBJC_CLASSLIST_REFERENCES_$_65
+OBJC_CLASSLIST_REFERENCES_$_70
+OBJC_METH_VAR_NAME_71
+OBJC_SELECTOR_REFERENCES_72
+OBJC_METH_VAR_NAME_73
+OBJC_SELECTOR_REFERENCES_74
+OBJC_METH_VAR_NAME_75
+OBJC_SELECTOR_REFERENCES_76
+OBJC_METH_VAR_NAME_77
+OBJC_SELECTOR_REFERENCES_78
+OBJC_IVAR_$_JBLineChartDotsView._selectedLineIndex
+OBJC_METH_VAR_NAME_79
+OBJC_SELECTOR_REFERENCES_80
+OBJC_METH_VAR_NAME_81
+OBJC_SELECTOR_REFERENCES_82
+OBJC_METH_VAR_NAME_83
+OBJC_SELECTOR_REFERENCES_84
+OBJC_CLASSLIST_REFERENCES_$_85
+OBJC_METH_VAR_NAME_96
+OBJC_SELECTOR_REFERENCES_97
+.str100
+__block_descriptor_tmp101
+OBJC_METH_VAR_NAME_102
+OBJC_SELECTOR_REFERENCES_103
+__block_descriptor_tmp106
+__block_descriptor_tmp110
+OBJC_METH_VAR_NAME_111
+OBJC_SELECTOR_REFERENCES_112
+OBJC_METH_VAR_NAME_113
+OBJC_SELECTOR_REFERENCES_114
+OBJC_METH_VAR_NAME_115
+OBJC_SELECTOR_REFERENCES_116
+OBJC_METH_VAR_NAME_117
+OBJC_SELECTOR_REFERENCES_118
+OBJC_METH_VAR_NAME_121
+OBJC_SELECTOR_REFERENCES_122
+OBJC_IVAR_$_JBLineChartDotsView._dataSource
+OBJC_IVAR_$_JBLineChartDotsView._dotViewsDict
+l_OBJC_METACLASS_RO_$_JBLineChartDotsView
+OBJC_CLASS_NAME_123
+OBJC_METH_VAR_TYPE_124
+OBJC_METH_VAR_TYPE_125
+OBJC_METH_VAR_NAME_126
+OBJC_METH_VAR_TYPE_127
+OBJC_METH_VAR_TYPE_128
+OBJC_METH_VAR_NAME_129
+OBJC_METH_VAR_TYPE_130
+OBJC_METH_VAR_TYPE_131
+OBJC_METH_VAR_TYPE_133
+OBJC_METH_VAR_TYPE_135
+OBJC_METH_VAR_TYPE_136
+l_OBJC_$_INSTANCE_METHODS_JBLineChartDotsView
+OBJC_METH_VAR_NAME_137
+OBJC_METH_VAR_TYPE_138
+OBJC_METH_VAR_NAME_139
+OBJC_METH_VAR_TYPE_140
+OBJC_METH_VAR_TYPE_142
+l_OBJC_$_INSTANCE_VARIABLES_JBLineChartDotsView
+OBJC_PROP_NAME_ATTR_143
+OBJC_PROP_NAME_ATTR_144
+OBJC_PROP_NAME_ATTR_145
+OBJC_PROP_NAME_ATTR_146
+OBJC_PROP_NAME_ATTR_147
+l_OBJC_$_PROP_LIST_JBLineChartDotsView
+l_OBJC_CLASS_RO_$_JBLineChartDotsView
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/dispatch/queue.h
+-[JBLineChartDotsView .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartDotsView.m
+-[JBLineChartDotsView setDotViewsDict:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartDotsView.h
+-[JBLineChartDotsView dotViewsDict]
+-[JBLineChartDotsView selectedLineIndex]
+-[JBLineChartDotsView setDataSource:]
+-[JBLineChartDotsView dataSource]
+-[JBLineChartDotsView dotViewForHorizontalIndex:atLineIndex:]
+-[JBLineChartDotsView setSelectedLineIndex:]
+-[JBLineChartDotsView setSelectedLineIndex:animated:]
+-[JBLineChartDotsView reloadData]
+-[JBLineChartDotsView reloadDataAnimated:]
+-[JBLineChartDotsView reloadDataAnimated:callback:]
+-[JBLineChartDotsView initWithFrame:]
++[JBLineChartView initialize]
+-[JBLineChartView initWithCoder:]
+-[JBLineChartView initWithFrame:]
+-[JBLineChartView init]
+-[JBLineChartView construct]
+-[JBLineChartView reloadDataAnimated:]
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke34
+__copy_helper_block_91
+__destroy_helper_block_92
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke94
+__copy_helper_block_118
+__destroy_helper_block_119
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke121
+__copy_helper_block_127
+__destroy_helper_block_128
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke130
+__copy_helper_block_148
+__destroy_helper_block_149
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke151
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke157
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke_2
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke_3
+__copy_helper_block_159
+__destroy_helper_block_160
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke164
+__copy_helper_block_165
+__destroy_helper_block_166
+__38-[JBLineChartView reloadDataAnimated:]_block_invoke168
+__copy_helper_block_169
+__destroy_helper_block_170
+__copy_helper_block_175
+__destroy_helper_block_176
+__copy_helper_block_180
+__destroy_helper_block_181
+-[JBLineChartView reloadData]
+-[JBLineChartView normalizedHeightForRawHeight:]
+-[JBLineChartView availableHeight]
+-[JBLineChartView padding]
+-[JBLineChartView dataCount]
+-[JBLineChartView lineWidthForLineIndex:]
+-[JBLineChartView lineChartLinesForLineChartLinesView:]
+-[JBLineChartView lineChartLinesView:dimmedSelectionOpacityAtLineIndex:]
+-[JBLineChartView lineChartLinesView:colorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:gradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:fillColorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:fillGradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:widthForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionColorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionGradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionFillColorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionFillGradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesForLineChartDotsView:]
+-[JBLineChartView lineChartDotsView:colorForDotAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:selectedColorForDotAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:dotRadiusForLineAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:dotViewAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:shouldHideDotViewOnSelectionAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:showsDotsForLineAtLineIndex:]
+-[JBLineChartView lineChartDotsView:dimmedSelectionDotOpacityAtLineIndex:]
+-[JBLineChartView setState:animated:force:callback:]
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke
+__copy_helper_block_247
+__destroy_helper_block_248
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke250
+__copy_helper_block_251
+__destroy_helper_block_252
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke254
+__copy_helper_block_255
+__destroy_helper_block_256
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke258
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke_2
+__copy_helper_block_259
+__destroy_helper_block_260
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke262
+__copy_helper_block_263
+__destroy_helper_block_264
+__copy_helper_block_266
+__destroy_helper_block_267
+__52-[JBLineChartView setState:animated:force:callback:]_block_invoke269
+__copy_helper_block_270
+__destroy_helper_block_271
+-[JBLineChartView setState:animated:callback:]
+-[JBLineChartView setVerticalSelectionViewVisible:animated:]
+__60-[JBLineChartView setVerticalSelectionViewVisible:animated:]_block_invoke
+__copy_helper_block_275
+__destroy_helper_block_276
+-[JBLineChartView setVerticalSelectionViewVisible:]
+-[JBLineChartView setShowsVerticalSelection:]
+-[JBLineChartView cachedMinHeight]
+-[JBLineChartView cachedMaxHeight]
+-[JBLineChartView minimumValue]
+-[JBLineChartView maximumValue]
+-[JBLineChartView dotViewAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView defaultGradientLayer]
+-[JBLineChartView defaultFillGradientLayer]
+-[JBLineChartView clampPoint:toBounds:padding:]
+-[JBLineChartView horizontalIndexForPoint:indexClamp:lineChartLine:]
+-[JBLineChartView horizontalIndexForPoint:indexClamp:]
+-[JBLineChartView horizontalIndexForPoint:]
+-[JBLineChartView lineIndexForPoint:]
+-[JBLineChartView touchesBeganOrMovedWithTouches:]
+-[JBLineChartView touchesEndedOrCancelledWithTouches:]
+-[JBLineChartView touchesBegan:withEvent:]
+-[JBLineChartView touchesMoved:withEvent:]
+-[JBLineChartView touchesEnded:withEvent:]
+-[JBLineChartView touchesCancelled:withEvent:]
+-[JBLineChartView reloading]
+-[JBLineChartView setReloading:]
+-[JBLineChartView showsVerticalSelection]
+-[JBLineChartView showsLineSelection]
+-[JBLineChartView setShowsLineSelection:]
+-[JBLineChartView lineChartLines]
+-[JBLineChartView setLineChartLines:]
+-[JBLineChartView linesView]
+-[JBLineChartView setLinesView:]
+-[JBLineChartView dotsView]
+-[JBLineChartView setDotsView:]
+-[JBLineChartView verticalSelectionView]
+-[JBLineChartView setVerticalSelectionView:]
+-[JBLineChartView setCachedMaxHeight:]
+-[JBLineChartView setCachedMinHeight:]
+-[JBLineChartView verticalSelectionViewVisible]
+-[JBLineChartView .cxx_destruct]
+kJBLineChartViewDefaultLineColor
+kJBLineChartViewDefaultLineFillColor
+kJBLineChartViewDefaultDotColor
+kJBLineChartViewDefaultGradientStartColor
+kJBLineChartViewDefaultGradientEndColor
+kJBLineChartViewDefaultFillGradientStartColor
+kJBLineChartViewDefaultFillGradientEndColor
+OBJC_METH_VAR_NAME_4
+OBJC_SELECTOR_REFERENCES_5
+OBJC_IVAR_$_JBLineChartView._showsVerticalSelection
+OBJC_IVAR_$_JBLineChartView._showsLineSelection
+OBJC_IVAR_$_JBLineChartView._cachedMinHeight
+OBJC_IVAR_$_JBLineChartView._cachedMaxHeight
+OBJC_CLASSLIST_REFERENCES_$_37
+OBJC_METH_VAR_NAME_38
+OBJC_SELECTOR_REFERENCES_39
+OBJC_METH_VAR_NAME_40
+OBJC_SELECTOR_REFERENCES_41
+OBJC_METH_VAR_NAME_42
+OBJC_SELECTOR_REFERENCES_43
+OBJC_METH_VAR_NAME_44
+OBJC_SELECTOR_REFERENCES_45
+OBJC_CLASSLIST_REFERENCES_$_46
+OBJC_METH_VAR_NAME_62
+OBJC_SELECTOR_REFERENCES_63
+OBJC_CLASSLIST_REFERENCES_$_86
+OBJC_METH_VAR_NAME_87
+OBJC_SELECTOR_REFERENCES_88
+OBJC_METH_VAR_NAME_89
+OBJC_SELECTOR_REFERENCES_90
+__block_descriptor_tmp93
+OBJC_METH_VAR_NAME_95
+OBJC_SELECTOR_REFERENCES_96
+OBJC_METH_VAR_NAME_97
+OBJC_SELECTOR_REFERENCES_98
+OBJC_METH_VAR_NAME_99
+OBJC_SELECTOR_REFERENCES_100
+OBJC_METH_VAR_NAME_101
+OBJC_SELECTOR_REFERENCES_102
+__block_descriptor_tmp120
+OBJC_METH_VAR_NAME_125
+OBJC_SELECTOR_REFERENCES_126
+__block_descriptor_tmp129
+OBJC_METH_VAR_NAME_131
+OBJC_SELECTOR_REFERENCES_132
+OBJC_METH_VAR_NAME_133
+OBJC_SELECTOR_REFERENCES_134
+OBJC_METH_VAR_NAME_135
+OBJC_SELECTOR_REFERENCES_136
+OBJC_SELECTOR_REFERENCES_138
+OBJC_SELECTOR_REFERENCES_140
+OBJC_CLASSLIST_REFERENCES_$_143
+OBJC_METH_VAR_NAME_144
+OBJC_SELECTOR_REFERENCES_145
+OBJC_METH_VAR_NAME_146
+OBJC_SELECTOR_REFERENCES_147
+__block_descriptor_tmp150
+OBJC_CLASSLIST_REFERENCES_$_158
+__block_descriptor_tmp161
+OBJC_METH_VAR_NAME_162
+OBJC_SELECTOR_REFERENCES_163
+__block_descriptor_tmp167
+.str171
+__block_descriptor_tmp172
+__block_descriptor_tmp177
+OBJC_METH_VAR_NAME_178
+OBJC_SELECTOR_REFERENCES_179
+__block_descriptor_tmp182
+OBJC_METH_VAR_NAME_183
+OBJC_SELECTOR_REFERENCES_184
+OBJC_METH_VAR_NAME_193
+OBJC_SELECTOR_REFERENCES_194
+OBJC_METH_VAR_NAME_195
+OBJC_SELECTOR_REFERENCES_196
+OBJC_METH_VAR_NAME_197
+OBJC_SELECTOR_REFERENCES_198
+OBJC_METH_VAR_NAME_199
+OBJC_SELECTOR_REFERENCES_200
+OBJC_METH_VAR_NAME_207
+OBJC_SELECTOR_REFERENCES_208
+OBJC_METH_VAR_NAME_209
+OBJC_SELECTOR_REFERENCES_210
+OBJC_METH_VAR_NAME_211
+OBJC_SELECTOR_REFERENCES_212
+OBJC_METH_VAR_NAME_213
+OBJC_SELECTOR_REFERENCES_214
+OBJC_METH_VAR_NAME_215
+OBJC_SELECTOR_REFERENCES_216
+OBJC_METH_VAR_NAME_217
+OBJC_SELECTOR_REFERENCES_218
+OBJC_METH_VAR_NAME_219
+OBJC_SELECTOR_REFERENCES_220
+OBJC_METH_VAR_NAME_221
+OBJC_SELECTOR_REFERENCES_222
+OBJC_METH_VAR_NAME_223
+OBJC_SELECTOR_REFERENCES_224
+OBJC_METH_VAR_NAME_225
+OBJC_SELECTOR_REFERENCES_226
+OBJC_METH_VAR_NAME_227
+OBJC_SELECTOR_REFERENCES_228
+OBJC_METH_VAR_NAME_229
+OBJC_SELECTOR_REFERENCES_230
+OBJC_METH_VAR_NAME_231
+OBJC_SELECTOR_REFERENCES_232
+OBJC_METH_VAR_NAME_233
+OBJC_SELECTOR_REFERENCES_234
+OBJC_METH_VAR_NAME_235
+OBJC_SELECTOR_REFERENCES_236
+OBJC_METH_VAR_NAME_237
+OBJC_SELECTOR_REFERENCES_238
+OBJC_SELECTOR_REFERENCES_240
+OBJC_METH_VAR_NAME_241
+OBJC_SELECTOR_REFERENCES_242
+OBJC_METH_VAR_NAME_243
+OBJC_SELECTOR_REFERENCES_244
+OBJC_METH_VAR_NAME_245
+OBJC_SELECTOR_REFERENCES_246
+__block_descriptor_tmp249
+__block_descriptor_tmp253
+__block_descriptor_tmp257
+__block_descriptor_tmp261
+__block_descriptor_tmp265
+__block_descriptor_tmp268
+__block_descriptor_tmp272
+OBJC_IVAR_$_JBLineChartView._verticalSelectionViewVisible
+OBJC_METH_VAR_NAME_273
+OBJC_SELECTOR_REFERENCES_274
+__block_descriptor_tmp277
+OBJC_METH_VAR_NAME_278
+OBJC_SELECTOR_REFERENCES_279
+OBJC_METH_VAR_NAME_280
+OBJC_SELECTOR_REFERENCES_281
+OBJC_METH_VAR_NAME_282
+OBJC_SELECTOR_REFERENCES_283
+OBJC_METH_VAR_NAME_284
+OBJC_SELECTOR_REFERENCES_285
+OBJC_CLASSLIST_REFERENCES_$_286
+OBJC_METH_VAR_NAME_287
+OBJC_SELECTOR_REFERENCES_288
+OBJC_METH_VAR_NAME_289
+OBJC_SELECTOR_REFERENCES_290
+OBJC_METH_VAR_NAME_291
+OBJC_SELECTOR_REFERENCES_292
+OBJC_CLASSLIST_REFERENCES_$_293
+OBJC_METH_VAR_NAME_294
+OBJC_SELECTOR_REFERENCES_295
+OBJC_METH_VAR_NAME_296
+OBJC_SELECTOR_REFERENCES_297
+OBJC_METH_VAR_NAME_298
+OBJC_SELECTOR_REFERENCES_299
+OBJC_METH_VAR_NAME_300
+OBJC_SELECTOR_REFERENCES_301
+OBJC_METH_VAR_NAME_302
+OBJC_SELECTOR_REFERENCES_303
+OBJC_METH_VAR_NAME_304
+OBJC_SELECTOR_REFERENCES_305
+OBJC_METH_VAR_NAME_306
+OBJC_SELECTOR_REFERENCES_307
+OBJC_METH_VAR_NAME_308
+OBJC_SELECTOR_REFERENCES_309
+OBJC_METH_VAR_NAME_310
+OBJC_SELECTOR_REFERENCES_311
+OBJC_METH_VAR_NAME_312
+OBJC_SELECTOR_REFERENCES_313
+OBJC_METH_VAR_NAME_314
+OBJC_SELECTOR_REFERENCES_315
+OBJC_METH_VAR_NAME_316
+OBJC_SELECTOR_REFERENCES_317
+OBJC_METH_VAR_NAME_318
+OBJC_SELECTOR_REFERENCES_319
+OBJC_METH_VAR_NAME_320
+OBJC_SELECTOR_REFERENCES_321
+OBJC_METH_VAR_NAME_322
+OBJC_SELECTOR_REFERENCES_323
+OBJC_METH_VAR_NAME_324
+OBJC_SELECTOR_REFERENCES_325
+OBJC_METH_VAR_NAME_326
+OBJC_SELECTOR_REFERENCES_327
+OBJC_METH_VAR_NAME_328
+OBJC_SELECTOR_REFERENCES_329
+OBJC_METH_VAR_NAME_330
+OBJC_SELECTOR_REFERENCES_331
+OBJC_METH_VAR_NAME_332
+OBJC_SELECTOR_REFERENCES_333
+OBJC_METH_VAR_NAME_334
+OBJC_SELECTOR_REFERENCES_335
+OBJC_METH_VAR_NAME_336
+OBJC_SELECTOR_REFERENCES_337
+OBJC_METH_VAR_NAME_338
+OBJC_SELECTOR_REFERENCES_339
+OBJC_METH_VAR_NAME_340
+OBJC_SELECTOR_REFERENCES_341
+OBJC_METH_VAR_NAME_342
+OBJC_SELECTOR_REFERENCES_343
+OBJC_IVAR_$_JBLineChartView._reloading
+OBJC_IVAR_$_JBLineChartView._lineChartLines
+OBJC_IVAR_$_JBLineChartView._linesView
+OBJC_IVAR_$_JBLineChartView._dotsView
+OBJC_IVAR_$_JBLineChartView._verticalSelectionView
+OBJC_METH_VAR_NAME_344
+l_OBJC_$_CLASS_METHODS_JBLineChartView
+OBJC_METH_VAR_NAME_345
+OBJC_METH_VAR_TYPE_346
+OBJC_METH_VAR_TYPE_347
+OBJC_METH_VAR_NAME_348
+OBJC_METH_VAR_TYPE_349
+OBJC_METH_VAR_TYPE_350
+OBJC_METH_VAR_TYPE_351
+OBJC_METH_VAR_TYPE_352
+OBJC_METH_VAR_TYPE_353
+OBJC_METH_VAR_NAME_354
+OBJC_METH_VAR_NAME_355
+OBJC_METH_VAR_NAME_356
+OBJC_METH_VAR_NAME_357
+OBJC_METH_VAR_NAME_358
+OBJC_CLASS_NAME_359
+OBJC_METH_VAR_NAME_360
+OBJC_METH_VAR_TYPE_361
+OBJC_METH_VAR_TYPE_362
+OBJC_METH_VAR_NAME_363
+OBJC_METH_VAR_TYPE_364
+OBJC_METH_VAR_NAME_365
+OBJC_METH_VAR_TYPE_366
+OBJC_METH_VAR_NAME_367
+OBJC_METH_VAR_TYPE_368
+OBJC_METH_VAR_NAME_369
+OBJC_METH_VAR_TYPE_370
+OBJC_METH_VAR_NAME_371
+OBJC_METH_VAR_TYPE_372
+OBJC_METH_VAR_NAME_373
+OBJC_METH_VAR_TYPE_374
+OBJC_METH_VAR_NAME_375
+OBJC_METH_VAR_NAME_376
+OBJC_METH_VAR_TYPE_377
+OBJC_METH_VAR_TYPE_378
+OBJC_METH_VAR_NAME_379
+OBJC_METH_VAR_NAME_380
+OBJC_METH_VAR_TYPE_381
+OBJC_METH_VAR_NAME_382
+OBJC_METH_VAR_NAME_383
+OBJC_METH_VAR_TYPE_384
+OBJC_METH_VAR_NAME_385
+OBJC_METH_VAR_TYPE_386
+OBJC_METH_VAR_NAME_387
+OBJC_METH_VAR_NAME_388
+OBJC_METH_VAR_NAME_389
+OBJC_METH_VAR_TYPE_390
+OBJC_METH_VAR_NAME_391
+OBJC_CLASS_NAME_392
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_393
+OBJC_PROP_NAME_ATTR_394
+OBJC_PROP_NAME_ATTR_395
+OBJC_PROP_NAME_ATTR_396
+OBJC_PROP_NAME_ATTR_397
+OBJC_PROP_NAME_ATTR_398
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_JBLineChartLinesViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_JBLineChartLinesViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JBLineChartLinesViewDataSource
+l_OBJC_PROTOCOL_$_JBLineChartLinesViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_JBLineChartLinesViewDataSource
+OBJC_METH_VAR_NAME_399
+OBJC_METH_VAR_TYPE_400
+OBJC_METH_VAR_TYPE_401
+OBJC_METH_VAR_TYPE_402
+OBJC_METH_VAR_NAME_403
+OBJC_METH_VAR_NAME_404
+OBJC_METH_VAR_TYPE_405
+OBJC_METH_VAR_TYPE_406
+OBJC_METH_VAR_NAME_407
+OBJC_METH_VAR_TYPE_408
+OBJC_METH_VAR_NAME_409
+OBJC_METH_VAR_TYPE_410
+OBJC_METH_VAR_TYPE_411
+OBJC_METH_VAR_NAME_412
+OBJC_METH_VAR_TYPE_413
+OBJC_METH_VAR_TYPE_414
+OBJC_METH_VAR_NAME_415
+OBJC_METH_VAR_TYPE_416
+OBJC_CLASS_NAME_417
+l_OBJC_$_PROTOCOL_REFS_JBLineChartDotsViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_JBLineChartDotsViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JBLineChartDotsViewDataSource
+l_OBJC_PROTOCOL_$_JBLineChartDotsViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_JBLineChartDotsViewDataSource
+l_OBJC_CLASS_PROTOCOLS_$_JBLineChartView
+l_OBJC_METACLASS_RO_$_JBLineChartView
+OBJC_CLASS_NAME_418
+OBJC_METH_VAR_TYPE_419
+OBJC_METH_VAR_TYPE_420
+OBJC_METH_VAR_TYPE_421
+OBJC_METH_VAR_TYPE_422
+OBJC_METH_VAR_TYPE_423
+OBJC_METH_VAR_TYPE_424
+OBJC_METH_VAR_NAME_425
+OBJC_METH_VAR_TYPE_426
+OBJC_METH_VAR_TYPE_427
+OBJC_METH_VAR_NAME_428
+OBJC_METH_VAR_NAME_429
+OBJC_METH_VAR_NAME_430
+OBJC_METH_VAR_TYPE_431
+OBJC_METH_VAR_TYPE_432
+OBJC_METH_VAR_TYPE_433
+OBJC_METH_VAR_TYPE_434
+OBJC_METH_VAR_NAME_435
+OBJC_METH_VAR_TYPE_436
+OBJC_METH_VAR_TYPE_437
+OBJC_METH_VAR_NAME_438
+OBJC_METH_VAR_TYPE_439
+OBJC_METH_VAR_NAME_440
+OBJC_METH_VAR_NAME_441
+OBJC_METH_VAR_NAME_442
+OBJC_METH_VAR_NAME_443
+OBJC_METH_VAR_NAME_444
+OBJC_METH_VAR_TYPE_445
+l_OBJC_$_INSTANCE_METHODS_JBLineChartView
+OBJC_METH_VAR_NAME_446
+OBJC_METH_VAR_TYPE_447
+OBJC_METH_VAR_NAME_448
+OBJC_METH_VAR_NAME_449
+OBJC_METH_VAR_NAME_450
+OBJC_METH_VAR_NAME_451
+OBJC_METH_VAR_TYPE_452
+OBJC_METH_VAR_NAME_453
+OBJC_METH_VAR_TYPE_454
+OBJC_METH_VAR_NAME_455
+OBJC_METH_VAR_TYPE_456
+OBJC_METH_VAR_NAME_457
+OBJC_METH_VAR_TYPE_458
+OBJC_METH_VAR_NAME_459
+OBJC_METH_VAR_TYPE_460
+OBJC_METH_VAR_NAME_461
+l_OBJC_$_INSTANCE_VARIABLES_JBLineChartView
+OBJC_PROP_NAME_ATTR_462
+OBJC_PROP_NAME_ATTR_463
+OBJC_PROP_NAME_ATTR_464
+OBJC_PROP_NAME_ATTR_465
+OBJC_PROP_NAME_ATTR_466
+OBJC_PROP_NAME_ATTR_467
+OBJC_PROP_NAME_ATTR_468
+OBJC_PROP_NAME_ATTR_469
+OBJC_PROP_NAME_ATTR_470
+OBJC_PROP_NAME_ATTR_471
+OBJC_PROP_NAME_ATTR_472
+OBJC_PROP_NAME_ATTR_473
+OBJC_PROP_NAME_ATTR_474
+OBJC_PROP_NAME_ATTR_475
+OBJC_PROP_NAME_ATTR_476
+OBJC_PROP_NAME_ATTR_477
+OBJC_PROP_NAME_ATTR_478
+OBJC_PROP_NAME_ATTR_479
+OBJC_PROP_NAME_ATTR_480
+OBJC_PROP_NAME_ATTR_481
+OBJC_PROP_NAME_ATTR_482
+OBJC_PROP_NAME_ATTR_483
+OBJC_PROP_NAME_ATTR_484
+OBJC_PROP_NAME_ATTR_485
+l_OBJC_$_PROP_LIST_JBLineChartView
+l_OBJC_CLASS_RO_$_JBLineChartView
+__inline_isnanl
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/math.h
+__inline_isnand
+__inline_isnanf
+CGRectMake
+-[JBLineChartView .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/JBLineChartView.m
+-[JBLineChartView verticalSelectionViewVisible]
+-[JBLineChartView setCachedMinHeight:]
+-[JBLineChartView setCachedMaxHeight:]
+-[JBLineChartView setVerticalSelectionView:]
+-[JBLineChartView verticalSelectionView]
+-[JBLineChartView setDotsView:]
+-[JBLineChartView dotsView]
+-[JBLineChartView setLinesView:]
+-[JBLineChartView linesView]
+-[JBLineChartView setLineChartLines:]
+-[JBLineChartView lineChartLines]
+-[JBLineChartView setShowsLineSelection:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/JBLineChartView.h
+-[JBLineChartView showsLineSelection]
+-[JBLineChartView showsVerticalSelection]
+-[JBLineChartView setReloading:]
+-[JBLineChartView reloading]
+-[JBLineChartView touchesCancelled:withEvent:]
+-[JBLineChartView touchesEnded:withEvent:]
+-[JBLineChartView touchesMoved:withEvent:]
+-[JBLineChartView touchesBegan:withEvent:]
+-[JBLineChartView touchesEndedOrCancelledWithTouches:]
+-[JBLineChartView touchesBeganOrMovedWithTouches:]
+-[JBLineChartView lineIndexForPoint:]
+-[JBLineChartView horizontalIndexForPoint:]
+-[JBLineChartView horizontalIndexForPoint:indexClamp:]
+-[JBLineChartView horizontalIndexForPoint:indexClamp:lineChartLine:]
+-[JBLineChartView clampPoint:toBounds:padding:]
+-[JBLineChartView defaultFillGradientLayer]
+-[JBLineChartView defaultGradientLayer]
+-[JBLineChartView dotViewAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView maximumValue]
+-[JBLineChartView minimumValue]
+-[JBLineChartView cachedMaxHeight]
+-[JBLineChartView cachedMinHeight]
+-[JBLineChartView setShowsVerticalSelection:]
+-[JBLineChartView setVerticalSelectionViewVisible:]
+-[JBLineChartView setVerticalSelectionViewVisible:animated:]
+-[JBLineChartView setState:animated:callback:]
+-[JBLineChartView setState:animated:force:callback:]
+-[JBLineChartView lineChartDotsView:dimmedSelectionDotOpacityAtLineIndex:]
+-[JBLineChartView lineChartDotsView:showsDotsForLineAtLineIndex:]
+-[JBLineChartView lineChartDotsView:shouldHideDotViewOnSelectionAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:dotViewAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:dotRadiusForLineAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:selectedColorForDotAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartDotsView:colorForDotAtHorizontalIndex:atLineIndex:]
+-[JBLineChartView lineChartLinesForLineChartDotsView:]
+-[JBLineChartView lineChartLinesView:selectionFillGradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionFillColorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionGradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:selectionColorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:widthForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:fillGradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:fillColorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:gradientForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:colorForLineAtLineIndex:]
+-[JBLineChartView lineChartLinesView:dimmedSelectionOpacityAtLineIndex:]
+-[JBLineChartView lineChartLinesForLineChartLinesView:]
+-[JBLineChartView lineWidthForLineIndex:]
+-[JBLineChartView dataCount]
+-[JBLineChartView padding]
+-[JBLineChartView availableHeight]
+-[JBLineChartView normalizedHeightForRawHeight:]
+-[JBLineChartView reloadData]
+-[JBLineChartView reloadDataAnimated:]
+-[JBLineChartView construct]
+-[JBLineChartView init]
+-[JBLineChartView initWithFrame:]
+-[JBLineChartView initWithCoder:]
++[JBLineChartView initialize]
+-[JBLineChartLine init]
+-[JBLineChartLine lineChartPoints]
+-[JBLineChartLine setLineChartPoints:]
+-[JBLineChartLine smoothedLine]
+-[JBLineChartLine setSmoothedLine:]
+-[JBLineChartLine lineStyle]
+-[JBLineChartLine setLineStyle:]
+-[JBLineChartLine colorStyle]
+-[JBLineChartLine setColorStyle:]
+-[JBLineChartLine fillColorStyle]
+-[JBLineChartLine setFillColorStyle:]
+-[JBLineChartLine .cxx_destruct]
+OBJC_IVAR_$_JBLineChartLine._lineChartPoints
+OBJC_IVAR_$_JBLineChartLine._smoothedLine
+OBJC_IVAR_$_JBLineChartLine._lineStyle
+OBJC_IVAR_$_JBLineChartLine._colorStyle
+OBJC_IVAR_$_JBLineChartLine._fillColorStyle
+l_OBJC_METACLASS_RO_$_JBLineChartLine
+OBJC_CLASS_NAME_3
+OBJC_METH_VAR_TYPE_5
+OBJC_METH_VAR_TYPE_8
+OBJC_METH_VAR_TYPE_10
+OBJC_METH_VAR_TYPE_12
+OBJC_METH_VAR_NAME_13
+OBJC_METH_VAR_TYPE_14
+OBJC_METH_VAR_NAME_15
+OBJC_METH_VAR_TYPE_16
+OBJC_METH_VAR_NAME_17
+OBJC_METH_VAR_NAME_19
+l_OBJC_$_INSTANCE_METHODS_JBLineChartLine
+OBJC_METH_VAR_NAME_21
+OBJC_METH_VAR_TYPE_22
+OBJC_METH_VAR_NAME_23
+OBJC_METH_VAR_TYPE_24
+OBJC_METH_VAR_TYPE_26
+l_OBJC_$_INSTANCE_VARIABLES_JBLineChartLine
+OBJC_PROP_NAME_ATTR_29
+OBJC_PROP_NAME_ATTR_30
+OBJC_PROP_NAME_ATTR_31
+OBJC_PROP_NAME_ATTR_32
+OBJC_PROP_NAME_ATTR_33
+OBJC_PROP_NAME_ATTR_34
+OBJC_PROP_NAME_ATTR_35
+OBJC_PROP_NAME_ATTR_36
+OBJC_PROP_NAME_ATTR_37
+l_OBJC_$_PROP_LIST_JBLineChartLine
+l_OBJC_CLASS_RO_$_JBLineChartLine
+-[JBLineChartLine .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Models/JBLineChartLine.m
+-[JBLineChartLine setFillColorStyle:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Models/JBLineChartLine.h
+-[JBLineChartLine fillColorStyle]
+-[JBLineChartLine setColorStyle:]
+-[JBLineChartLine colorStyle]
+-[JBLineChartLine setLineStyle:]
+-[JBLineChartLine lineStyle]
+-[JBLineChartLine setSmoothedLine:]
+-[JBLineChartLine smoothedLine]
+-[JBLineChartLine setLineChartPoints:]
+-[JBLineChartLine lineChartPoints]
+-[JBLineChartLine init]
+-[NSMutableArray(JBStack) jb_push:]
+-[NSMutableArray(JBStack) jb_pop]
+OBJC_METH_VAR_TYPE_7
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSMutableArray_$_JBStack
+l_OBJC_$_CATEGORY_NSMutableArray_$_JBStack
+OBJC_LABEL_CATEGORY_$
+-[NSMutableArray(JBStack) jb_pop]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Additions/NSMutableArray+JBStack.m
+-[NSMutableArray(JBStack) jb_push:]
+-[JBLineChartPoint init]
+-[JBLineChartPoint compare:]
+-[JBLineChartPoint position]
+-[JBLineChartPoint setPosition:]
+-[JBLineChartPoint hidden]
+-[JBLineChartPoint setHidden:]
+OBJC_IVAR_$_JBLineChartPoint._position
+OBJC_IVAR_$_JBLineChartPoint._hidden
+l_OBJC_METACLASS_RO_$_JBLineChartPoint
+OBJC_METH_VAR_TYPE_4
+OBJC_METH_VAR_TYPE_9
+OBJC_METH_VAR_TYPE_11
+l_OBJC_$_INSTANCE_METHODS_JBLineChartPoint
+OBJC_METH_VAR_TYPE_13
+OBJC_METH_VAR_TYPE_15
+l_OBJC_$_INSTANCE_VARIABLES_JBLineChartPoint
+OBJC_PROP_NAME_ATTR_16
+OBJC_PROP_NAME_ATTR_17
+OBJC_PROP_NAME_ATTR_18
+l_OBJC_$_PROP_LIST_JBLineChartPoint
+l_OBJC_CLASS_RO_$_JBLineChartPoint
+-[JBLineChartPoint setHidden:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Models/JBLineChartPoint.h
+-[JBLineChartPoint hidden]
+-[JBLineChartPoint setPosition:]
+-[JBLineChartPoint position]
+-[JBLineChartPoint compare:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Models/JBLineChartPoint.m
+-[JBLineChartPoint init]
+-[JBChartView initWithCoder:]
+-[JBChartView initWithFrame:]
+-[JBChartView init]
+-[JBChartView constructChartView]
+-[JBChartView reloadData]
+-[JBChartView validateHeaderAndFooterHeights]
+-[JBChartView setHeaderView:]
+-[JBChartView setFooterView:]
+-[JBChartView setState:animated:force:callback:]
+-[JBChartView setState:animated:callback:]
+-[JBChartView setState:animated:]
+-[JBChartView setState:]
+-[JBChartView setMinimumValue:]
+-[JBChartView setMaximumValue:]
+-[JBChartView resetMinimumValue]
+-[JBChartView resetMaximumValue]
+-[JBChartView dataSource]
+-[JBChartView setDataSource:]
+-[JBChartView delegate]
+-[JBChartView setDelegate:]
+-[JBChartView footerView]
+-[JBChartView headerView]
+-[JBChartView headerPadding]
+-[JBChartView setHeaderPadding:]
+-[JBChartView footerPadding]
+-[JBChartView setFooterPadding:]
+-[JBChartView minimumValue]
+-[JBChartView maximumValue]
+-[JBChartView state]
+-[JBChartView hasMaximumValue]
+-[JBChartView setHasMaximumValue:]
+-[JBChartView hasMinimumValue]
+-[JBChartView setHasMinimumValue:]
+-[JBChartView .cxx_destruct]
++[JBChartVerticalSelectionView initialize]
+-[JBChartVerticalSelectionView initWithFrame:]
+-[JBChartVerticalSelectionView drawRect:]
+-[JBChartVerticalSelectionView setBgColor:]
+-[JBChartVerticalSelectionView bgColor]
+-[JBChartVerticalSelectionView .cxx_destruct]
+kJBChartVerticalSelectionViewDefaultBgColor
+OBJC_IVAR_$_JBChartView._headerView
+OBJC_SELECTOR_REFERENCES_14
+OBJC_IVAR_$_JBChartView._footerView
+OBJC_IVAR_$_JBChartView._state
+OBJC_SELECTOR_REFERENCES_16
+OBJC_SELECTOR_REFERENCES_18
+OBJC_SELECTOR_REFERENCES_20
+OBJC_IVAR_$_JBChartView._minimumValue
+OBJC_IVAR_$_JBChartView._hasMinimumValue
+OBJC_IVAR_$_JBChartView._maximumValue
+OBJC_IVAR_$_JBChartView._hasMaximumValue
+OBJC_IVAR_$_JBChartView._dataSource
+OBJC_IVAR_$_JBChartView._delegate
+OBJC_IVAR_$_JBChartView._headerPadding
+OBJC_IVAR_$_JBChartView._footerPadding
+l_OBJC_METACLASS_RO_$_JBChartView
+OBJC_CLASS_NAME_21
+OBJC_METH_VAR_TYPE_25
+OBJC_METH_VAR_TYPE_27
+OBJC_METH_VAR_TYPE_29
+OBJC_METH_VAR_TYPE_30
+OBJC_METH_VAR_TYPE_33
+OBJC_METH_VAR_TYPE_35
+OBJC_METH_VAR_NAME_46
+OBJC_METH_VAR_TYPE_47
+OBJC_METH_VAR_NAME_48
+OBJC_METH_VAR_NAME_50
+OBJC_METH_VAR_NAME_52
+OBJC_METH_VAR_TYPE_54
+OBJC_METH_VAR_TYPE_56
+OBJC_METH_VAR_TYPE_58
+l_OBJC_$_INSTANCE_METHODS_JBChartView
+OBJC_METH_VAR_TYPE_62
+OBJC_METH_VAR_TYPE_65
+OBJC_METH_VAR_TYPE_67
+OBJC_METH_VAR_TYPE_69
+OBJC_METH_VAR_TYPE_72
+OBJC_METH_VAR_TYPE_77
+l_OBJC_$_INSTANCE_VARIABLES_JBChartView
+OBJC_CLASS_NAME_78
+OBJC_PROP_NAME_ATTR_79
+OBJC_PROP_NAME_ATTR_80
+OBJC_PROP_NAME_ATTR_81
+OBJC_PROP_NAME_ATTR_82
+OBJC_PROP_NAME_ATTR_83
+OBJC_PROP_NAME_ATTR_84
+OBJC_PROP_NAME_ATTR_85
+OBJC_PROP_NAME_ATTR_86
+OBJC_PROP_NAME_ATTR_87
+OBJC_PROP_NAME_ATTR_88
+OBJC_PROP_NAME_ATTR_89
+OBJC_PROP_NAME_ATTR_90
+OBJC_PROP_NAME_ATTR_91
+OBJC_PROP_NAME_ATTR_92
+OBJC_PROP_NAME_ATTR_93
+OBJC_PROP_NAME_ATTR_94
+OBJC_PROP_NAME_ATTR_95
+OBJC_PROP_NAME_ATTR_96
+OBJC_PROP_NAME_ATTR_97
+OBJC_PROP_NAME_ATTR_98
+OBJC_PROP_NAME_ATTR_99
+l_OBJC_$_PROP_LIST_JBChartView
+l_OBJC_CLASS_RO_$_JBChartView
+OBJC_CLASSLIST_REFERENCES_$_102
+OBJC_METH_VAR_NAME_103
+OBJC_SELECTOR_REFERENCES_104
+OBJC_CLASSLIST_SUP_REFS_$_105
+drawRect:.locations
+OBJC_IVAR_$_JBChartVerticalSelectionView._bgColor
+OBJC_METH_VAR_NAME_124
+l_OBJC_$_CLASS_METHODS_JBChartVerticalSelectionView
+l_OBJC_METACLASS_RO_$_JBChartVerticalSelectionView
+OBJC_CLASS_NAME_125
+OBJC_METH_VAR_NAME_128
+l_OBJC_$_INSTANCE_METHODS_JBChartVerticalSelectionView
+l_OBJC_$_INSTANCE_VARIABLES_JBChartVerticalSelectionView
+OBJC_PROP_NAME_ATTR_131
+OBJC_PROP_NAME_ATTR_132
+l_OBJC_$_PROP_LIST_JBChartVerticalSelectionView
+l_OBJC_CLASS_RO_$_JBChartVerticalSelectionView
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/1WQ7A71Y8Z1KR/CoreFoundation-10I2D2XL7L7X9.pcm
+CoreFoundation
+-[JBChartVerticalSelectionView .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Base/JBChartView.m
+-[JBChartVerticalSelectionView bgColor]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Base/JBChartView.h
+-[JBChartVerticalSelectionView setBgColor:]
+-[JBChartVerticalSelectionView drawRect:]
+-[JBChartVerticalSelectionView initWithFrame:]
++[JBChartVerticalSelectionView initialize]
+-[JBChartView .cxx_destruct]
+-[JBChartView setHasMinimumValue:]
+-[JBChartView hasMinimumValue]
+-[JBChartView setHasMaximumValue:]
+-[JBChartView hasMaximumValue]
+-[JBChartView state]
+-[JBChartView maximumValue]
+-[JBChartView minimumValue]
+-[JBChartView setFooterPadding:]
+-[JBChartView footerPadding]
+-[JBChartView setHeaderPadding:]
+-[JBChartView headerPadding]
+-[JBChartView headerView]
+-[JBChartView footerView]
+-[JBChartView setDelegate:]
+-[JBChartView delegate]
+-[JBChartView setDataSource:]
+-[JBChartView dataSource]
+-[JBChartView resetMaximumValue]
+-[JBChartView resetMinimumValue]
+-[JBChartView setMaximumValue:]
+-[JBChartView setMinimumValue:]
+-[JBChartView setState:]
+-[JBChartView setState:animated:]
+-[JBChartView setState:animated:callback:]
+-[JBChartView setState:animated:force:callback:]
+-[JBChartView setFooterView:]
+-[JBChartView setHeaderView:]
+-[JBChartView validateHeaderAndFooterHeights]
+-[JBChartView reloadData]
+-[JBChartView constructChartView]
+-[JBChartView init]
+-[JBChartView initWithFrame:]
+-[JBChartView initWithCoder:]
++[JBBarChartView initialize]
+-[JBBarChartView initWithCoder:]
+-[JBBarChartView initWithFrame:]
+-[JBBarChartView init]
+-[JBBarChartView construct]
+-[JBBarChartView dealloc]
+-[JBBarChartView reloadDataAnimated:]
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_2
+__copy_helper_block_57
+__destroy_helper_block_58
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke61
+__copy_helper_block_77
+__destroy_helper_block_78
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke80
+__copy_helper_block_89
+__destroy_helper_block_90
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke92
+__copy_helper_block_134
+__destroy_helper_block_135
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke137
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_2140
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_3
+__copy_helper_block_145
+__destroy_helper_block_146
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke151
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_2152
+__copy_helper_block_155
+__destroy_helper_block_156
+__copy_helper_block_158
+__destroy_helper_block_159
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke161
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_2162
+__copy_helper_block_163
+__destroy_helper_block_164
+__copy_helper_block_166
+__destroy_helper_block_167
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke169
+__copy_helper_block_170
+__destroy_helper_block_171
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke173
+__copy_helper_block_176
+__destroy_helper_block_177
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke179
+__copy_helper_block_184
+__destroy_helper_block_185
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke188
+__copy_helper_block_189
+__destroy_helper_block_190
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke192
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke199
+__copy_helper_block_200
+__destroy_helper_block_201
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke203
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_2204
+__copy_helper_block_205
+__destroy_helper_block_206
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke208
+__copy_helper_block_209
+__destroy_helper_block_210
+__copy_helper_block_214
+__destroy_helper_block_215
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke217
+__copy_helper_block_218
+__destroy_helper_block_219
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke221
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke_2222
+__copy_helper_block_223
+__destroy_helper_block_224
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke226
+__copy_helper_block_227
+__destroy_helper_block_228
+__copy_helper_block_230
+__destroy_helper_block_231
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke233
+__copy_helper_block_234
+__destroy_helper_block_235
+__copy_helper_block_237
+__destroy_helper_block_238
+__37-[JBBarChartView reloadDataAnimated:]_block_invoke240
+__copy_helper_block_241
+__destroy_helper_block_242
+-[JBBarChartView reloadData]
+-[JBBarChartView availableHeight]
+-[JBBarChartView normalizedHeightForRawHeight:]
+-[JBBarChartView barWidth]
+-[JBBarChartView getBarSpacingWidth]
+-[JBBarChartView setState:animated:force:callback:]
+__51-[JBBarChartView setState:animated:force:callback:]_block_invoke
+__copy_helper_block_256
+__destroy_helper_block_257
+__51-[JBBarChartView setState:animated:force:callback:]_block_invoke262
+__51-[JBBarChartView setState:animated:force:callback:]_block_invoke266
+__copy_helper_block_267
+__destroy_helper_block_268
+__51-[JBBarChartView setState:animated:force:callback:]_block_invoke270
+__51-[JBBarChartView setState:animated:force:callback:]_block_invoke_2
+__copy_helper_block_271
+__destroy_helper_block_272
+__51-[JBBarChartView setState:animated:force:callback:]_block_invoke274
+__copy_helper_block_278
+__destroy_helper_block_279
+-[JBBarChartView setState:animated:callback:]
+-[JBBarChartView setVerticalSelectionViewVisible:animated:]
+__59-[JBBarChartView setVerticalSelectionViewVisible:animated:]_block_invoke
+__copy_helper_block_283
+__destroy_helper_block_284
+-[JBBarChartView setVerticalSelectionViewVisible:]
+-[JBBarChartView setShowsVerticalSelection:]
+-[JBBarChartView cachedMinHeight]
+-[JBBarChartView cachedMaxHeight]
+-[JBBarChartView minimumValue]
+-[JBBarChartView maximumValue]
+-[JBBarChartView barViewAtIndex:]
+-[JBBarChartView createBarViewForIndex:]
+-[JBBarChartView insertBarView:]
+-[JBBarChartView barViewIndexForPoint:]
+-[JBBarChartView barViewForForPoint:]
+-[JBBarChartView touchesBeganOrMovedWithTouches:]
+-[JBBarChartView touchesEndedOrCancelledWithTouches:]
+-[JBBarChartView touchesBegan:withEvent:]
+-[JBBarChartView touchesMoved:withEvent:]
+-[JBBarChartView touchesEnded:withEvent:]
+-[JBBarChartView touchesCancelled:withEvent:]
+-[JBBarChartView chartViewBoundsForGradientBarView:]
+-[JBBarChartView barSpacingWidth]
+-[JBBarChartView setBarSpacingWidth:]
+-[JBBarChartView CustomBarWidth]
+-[JBBarChartView setCustomBarWidth:]
+-[JBBarChartView barViews]
+-[JBBarChartView setBarViews:]
+-[JBBarChartView isInverted]
+-[JBBarChartView setInverted:]
+-[JBBarChartView reloading]
+-[JBBarChartView setReloading:]
+-[JBBarChartView showsVerticalSelection]
+-[JBBarChartView chartData]
+-[JBBarChartView setChartData:]
+-[JBBarChartView cachedBarViewHeights]
+-[JBBarChartView setCachedBarViewHeights:]
+-[JBBarChartView barPadding]
+-[JBBarChartView setBarPadding:]
+-[JBBarChartView setCachedMaxHeight:]
+-[JBBarChartView setCachedMinHeight:]
+-[JBBarChartView verticalSelectionView]
+-[JBBarChartView setVerticalSelectionView:]
+-[JBBarChartView verticalSelectionViewVisible]
+-[JBBarChartView .cxx_destruct]
+kJBBarChartViewDefaultBarColor
+OBJC_CLASSLIST_REFERENCES_$_12
+OBJC_IVAR_$_JBBarChartView._chartData
+OBJC_IVAR_$_JBBarChartView._barViews
+OBJC_IVAR_$_JBBarChartView._cachedBarViewHeights
+OBJC_IVAR_$_JBBarChartView._showsVerticalSelection
+OBJC_IVAR_$_JBBarChartView._cachedMinHeight
+OBJC_IVAR_$_JBBarChartView._cachedMaxHeight
+OBJC_IVAR_$_JBBarChartView.barSpacingWidth
+OBJC_CLASSLIST_REFERENCES_$_15
+.str59
+__block_descriptor_tmp60
+__block_descriptor_tmp79
+OBJC_METH_VAR_NAME_85
+OBJC_SELECTOR_REFERENCES_86
+__block_descriptor_tmp91
+OBJC_METH_VAR_NAME_93
+OBJC_SELECTOR_REFERENCES_94
+OBJC_METH_VAR_NAME_105
+OBJC_SELECTOR_REFERENCES_106
+OBJC_METH_VAR_NAME_107
+OBJC_SELECTOR_REFERENCES_108
+OBJC_METH_VAR_NAME_109
+OBJC_SELECTOR_REFERENCES_110
+OBJC_CLASSLIST_REFERENCES_$_111
+OBJC_METH_VAR_NAME_118
+OBJC_SELECTOR_REFERENCES_119
+OBJC_METH_VAR_NAME_120
+OBJC_SELECTOR_REFERENCES_121
+OBJC_SELECTOR_REFERENCES_125
+OBJC_SELECTOR_REFERENCES_127
+OBJC_SELECTOR_REFERENCES_129
+__block_descriptor_tmp136
+OBJC_METH_VAR_NAME_138
+OBJC_SELECTOR_REFERENCES_139
+__block_descriptor_tmp147
+OBJC_METH_VAR_NAME_153
+OBJC_SELECTOR_REFERENCES_154
+__block_descriptor_tmp157
+__block_descriptor_tmp160
+__block_descriptor_tmp165
+__block_descriptor_tmp168
+OBJC_METH_VAR_NAME_174
+OBJC_SELECTOR_REFERENCES_175
+__block_descriptor_tmp178
+OBJC_METH_VAR_NAME_180
+OBJC_SELECTOR_REFERENCES_181
+__block_descriptor_tmp186
+OBJC_CLASSLIST_REFERENCES_$_187
+__block_descriptor_tmp191
+.str195
+__block_descriptor_tmp196
+__block_descriptor_tmp202
+__block_descriptor_tmp207
+__block_descriptor_tmp211
+__block_descriptor_tmp216
+__block_descriptor_tmp220
+__block_descriptor_tmp225
+__block_descriptor_tmp229
+__block_descriptor_tmp232
+__block_descriptor_tmp236
+__block_descriptor_tmp239
+__block_descriptor_tmp243
+OBJC_METH_VAR_NAME_244
+OBJC_SELECTOR_REFERENCES_245
+OBJC_SELECTOR_REFERENCES_247
+OBJC_SELECTOR_REFERENCES_249
+OBJC_SELECTOR_REFERENCES_251
+OBJC_METH_VAR_NAME_252
+OBJC_SELECTOR_REFERENCES_253
+OBJC_IVAR_$_JBBarChartView.CustomBarWidth
+OBJC_METH_VAR_NAME_254
+OBJC_SELECTOR_REFERENCES_255
+.str258
+__block_descriptor_tmp259
+OBJC_METH_VAR_NAME_260
+OBJC_SELECTOR_REFERENCES_261
+__block_descriptor_tmp269
+__block_descriptor_tmp273
+__block_descriptor_tmp280
+OBJC_IVAR_$_JBBarChartView._verticalSelectionViewVisible
+OBJC_METH_VAR_NAME_281
+OBJC_SELECTOR_REFERENCES_282
+__block_descriptor_tmp285
+OBJC_METH_VAR_NAME_286
+OBJC_SELECTOR_REFERENCES_287
+OBJC_METH_VAR_NAME_288
+OBJC_SELECTOR_REFERENCES_289
+OBJC_METH_VAR_NAME_290
+OBJC_SELECTOR_REFERENCES_291
+OBJC_METH_VAR_NAME_292
+OBJC_SELECTOR_REFERENCES_293
+OBJC_CLASSLIST_REFERENCES_$_312
+OBJC_METH_VAR_NAME_313
+OBJC_SELECTOR_REFERENCES_314
+OBJC_METH_VAR_NAME_315
+OBJC_SELECTOR_REFERENCES_316
+OBJC_METH_VAR_NAME_317
+OBJC_SELECTOR_REFERENCES_318
+OBJC_METH_VAR_NAME_319
+OBJC_SELECTOR_REFERENCES_320
+OBJC_METH_VAR_NAME_321
+OBJC_SELECTOR_REFERENCES_322
+OBJC_METH_VAR_NAME_323
+OBJC_SELECTOR_REFERENCES_324
+OBJC_METH_VAR_NAME_325
+OBJC_SELECTOR_REFERENCES_326
+OBJC_METH_VAR_NAME_327
+OBJC_SELECTOR_REFERENCES_328
+OBJC_METH_VAR_NAME_329
+OBJC_SELECTOR_REFERENCES_330
+OBJC_METH_VAR_NAME_331
+OBJC_SELECTOR_REFERENCES_332
+OBJC_METH_VAR_NAME_333
+OBJC_SELECTOR_REFERENCES_334
+OBJC_METH_VAR_NAME_335
+OBJC_SELECTOR_REFERENCES_336
+OBJC_METH_VAR_NAME_337
+OBJC_SELECTOR_REFERENCES_338
+OBJC_IVAR_$_JBBarChartView._inverted
+OBJC_IVAR_$_JBBarChartView._reloading
+OBJC_IVAR_$_JBBarChartView._barPadding
+OBJC_IVAR_$_JBBarChartView._verticalSelectionView
+OBJC_METH_VAR_NAME_339
+l_OBJC_$_CLASS_METHODS_JBBarChartView
+OBJC_METH_VAR_TYPE_341
+OBJC_METH_VAR_TYPE_342
+OBJC_CLASS_NAME_343
+OBJC_METH_VAR_TYPE_345
+OBJC_METH_VAR_NAME_347
+OBJC_METH_VAR_TYPE_348
+OBJC_METH_VAR_NAME_349
+OBJC_METH_VAR_NAME_351
+OBJC_METH_VAR_NAME_353
+OBJC_METH_VAR_TYPE_354
+OBJC_METH_VAR_TYPE_356
+OBJC_METH_VAR_TYPE_358
+OBJC_METH_VAR_NAME_359
+OBJC_METH_VAR_NAME_364
+OBJC_METH_VAR_TYPE_365
+OBJC_METH_VAR_NAME_366
+OBJC_METH_VAR_NAME_372
+OBJC_CLASS_NAME_376
+OBJC_PROP_NAME_ATTR_377
+OBJC_PROP_NAME_ATTR_378
+OBJC_PROP_NAME_ATTR_379
+OBJC_PROP_NAME_ATTR_380
+OBJC_PROP_NAME_ATTR_381
+OBJC_PROP_NAME_ATTR_382
+l_OBJC_$_PROTOCOL_REFS_JBGradientBarViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_JBGradientBarViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JBGradientBarViewDataSource
+l_OBJC_PROTOCOL_$_JBGradientBarViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_JBGradientBarViewDataSource
+l_OBJC_CLASS_PROTOCOLS_$_JBBarChartView
+l_OBJC_METACLASS_RO_$_JBBarChartView
+OBJC_CLASS_NAME_383
+OBJC_METH_VAR_TYPE_385
+OBJC_METH_VAR_TYPE_388
+OBJC_METH_VAR_TYPE_389
+OBJC_METH_VAR_NAME_390
+OBJC_METH_VAR_TYPE_391
+OBJC_METH_VAR_TYPE_392
+OBJC_METH_VAR_NAME_393
+OBJC_METH_VAR_TYPE_394
+OBJC_METH_VAR_TYPE_395
+OBJC_METH_VAR_NAME_396
+OBJC_METH_VAR_NAME_397
+OBJC_METH_VAR_NAME_398
+OBJC_METH_VAR_TYPE_399
+OBJC_METH_VAR_TYPE_404
+OBJC_METH_VAR_NAME_405
+OBJC_METH_VAR_NAME_406
+OBJC_METH_VAR_NAME_408
+OBJC_METH_VAR_NAME_410
+OBJC_METH_VAR_NAME_413
+l_OBJC_$_INSTANCE_METHODS_JBBarChartView
+OBJC_METH_VAR_NAME_416
+OBJC_METH_VAR_TYPE_417
+OBJC_METH_VAR_NAME_418
+OBJC_METH_VAR_NAME_419
+OBJC_METH_VAR_NAME_420
+OBJC_METH_VAR_NAME_423
+OBJC_METH_VAR_NAME_426
+OBJC_METH_VAR_NAME_427
+l_OBJC_$_INSTANCE_VARIABLES_JBBarChartView
+OBJC_PROP_NAME_ATTR_432
+OBJC_PROP_NAME_ATTR_433
+OBJC_PROP_NAME_ATTR_434
+OBJC_PROP_NAME_ATTR_435
+OBJC_PROP_NAME_ATTR_436
+OBJC_PROP_NAME_ATTR_437
+OBJC_PROP_NAME_ATTR_438
+OBJC_PROP_NAME_ATTR_439
+OBJC_PROP_NAME_ATTR_440
+OBJC_PROP_NAME_ATTR_441
+OBJC_PROP_NAME_ATTR_442
+OBJC_PROP_NAME_ATTR_443
+OBJC_PROP_NAME_ATTR_444
+OBJC_PROP_NAME_ATTR_445
+OBJC_PROP_NAME_ATTR_446
+OBJC_PROP_NAME_ATTR_447
+OBJC_PROP_NAME_ATTR_448
+OBJC_PROP_NAME_ATTR_449
+OBJC_PROP_NAME_ATTR_450
+OBJC_PROP_NAME_ATTR_451
+OBJC_PROP_NAME_ATTR_452
+OBJC_PROP_NAME_ATTR_453
+OBJC_PROP_NAME_ATTR_454
+OBJC_PROP_NAME_ATTR_455
+OBJC_PROP_NAME_ATTR_456
+OBJC_PROP_NAME_ATTR_457
+OBJC_PROP_NAME_ATTR_458
+OBJC_PROP_NAME_ATTR_459
+OBJC_PROP_NAME_ATTR_460
+OBJC_PROP_NAME_ATTR_461
+l_OBJC_$_PROP_LIST_JBBarChartView
+l_OBJC_CLASS_RO_$_JBBarChartView
+-[JBBarChartView .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Bar/JBBarChartView.m
+-[JBBarChartView verticalSelectionViewVisible]
+-[JBBarChartView setVerticalSelectionView:]
+-[JBBarChartView verticalSelectionView]
+-[JBBarChartView setCachedMinHeight:]
+-[JBBarChartView setCachedMaxHeight:]
+-[JBBarChartView setBarPadding:]
+-[JBBarChartView barPadding]
+-[JBBarChartView setCachedBarViewHeights:]
+-[JBBarChartView cachedBarViewHeights]
+-[JBBarChartView setChartData:]
+-[JBBarChartView chartData]
+-[JBBarChartView showsVerticalSelection]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Bar/JBBarChartView.h
+-[JBBarChartView setReloading:]
+-[JBBarChartView reloading]
+-[JBBarChartView setInverted:]
+-[JBBarChartView isInverted]
+-[JBBarChartView setBarViews:]
+-[JBBarChartView barViews]
+-[JBBarChartView setCustomBarWidth:]
+-[JBBarChartView CustomBarWidth]
+-[JBBarChartView setBarSpacingWidth:]
+-[JBBarChartView barSpacingWidth]
+-[JBBarChartView chartViewBoundsForGradientBarView:]
+-[JBBarChartView touchesCancelled:withEvent:]
+-[JBBarChartView touchesEnded:withEvent:]
+-[JBBarChartView touchesMoved:withEvent:]
+-[JBBarChartView touchesBegan:withEvent:]
+-[JBBarChartView touchesEndedOrCancelledWithTouches:]
+-[JBBarChartView touchesBeganOrMovedWithTouches:]
+-[JBBarChartView barViewForForPoint:]
+-[JBBarChartView barViewIndexForPoint:]
+-[JBBarChartView insertBarView:]
+-[JBBarChartView createBarViewForIndex:]
+-[JBBarChartView barViewAtIndex:]
+-[JBBarChartView maximumValue]
+-[JBBarChartView minimumValue]
+-[JBBarChartView cachedMaxHeight]
+-[JBBarChartView cachedMinHeight]
+-[JBBarChartView setShowsVerticalSelection:]
+-[JBBarChartView setVerticalSelectionViewVisible:]
+-[JBBarChartView setVerticalSelectionViewVisible:animated:]
+-[JBBarChartView setState:animated:callback:]
+-[JBBarChartView setState:animated:force:callback:]
+-[JBBarChartView getBarSpacingWidth]
+-[JBBarChartView barWidth]
+-[JBBarChartView normalizedHeightForRawHeight:]
+-[JBBarChartView availableHeight]
+-[JBBarChartView reloadData]
+-[JBBarChartView reloadDataAnimated:]
+-[JBBarChartView dealloc]
+-[JBBarChartView construct]
+-[JBBarChartView init]
+-[JBBarChartView initWithFrame:]
+-[JBBarChartView initWithCoder:]
++[JBBarChartView initialize]
+-[JBGradientBarView init]
+-[JBGradientBarView initWithFrame:]
+-[JBGradientBarView setGradientLayer:]
+-[JBGradientBarView construct]
+-[JBGradientBarView setFrame:]
+-[JBGradientBarView dataSource]
+-[JBGradientBarView setDataSource:]
+-[JBGradientBarView gradientLayer]
+-[JBGradientBarView .cxx_destruct]
+OBJC_IVAR_$_JBGradientBarView._gradientLayer
+OBJC_SELECTOR_REFERENCES_22
+OBJC_SELECTOR_REFERENCES_24
+OBJC_IVAR_$_JBGradientBarView._dataSource
+l_OBJC_METACLASS_RO_$_JBGradientBarView
+OBJC_CLASS_NAME_27
+OBJC_METH_VAR_TYPE_28
+OBJC_METH_VAR_TYPE_32
+l_OBJC_$_INSTANCE_METHODS_JBGradientBarView
+OBJC_METH_VAR_TYPE_37
+OBJC_METH_VAR_TYPE_39
+l_OBJC_$_INSTANCE_VARIABLES_JBGradientBarView
+OBJC_CLASS_NAME_40
+OBJC_PROP_NAME_ATTR_41
+OBJC_PROP_NAME_ATTR_42
+OBJC_PROP_NAME_ATTR_43
+l_OBJC_$_PROP_LIST_JBGradientBarView
+l_OBJC_CLASS_RO_$_JBGradientBarView
+-[JBGradientBarView .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Bar/Views/JBGradientBarView.m
+-[JBGradientBarView gradientLayer]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Bar/Views/JBGradientBarView.h
+-[JBGradientBarView setDataSource:]
+-[JBGradientBarView dataSource]
+-[JBGradientBarView setFrame:]
+-[JBGradientBarView construct]
+-[JBGradientBarView setGradientLayer:]
+-[JBGradientBarView initWithFrame:]
+-[JBGradientBarView init]
+-[JBLineChartDotView initWithRadius:]
+l_OBJC_METACLASS_RO_$_JBLineChartDotView
+l_OBJC_$_INSTANCE_METHODS_JBLineChartDotView
+l_OBJC_CLASS_RO_$_JBLineChartDotView
+-[JBLineChartDotView initWithRadius:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartDotView.m
+-[JBGradientLineLayer initWithGradientLayer:tag:filled:currentPath:]
+-[JBGradientLineLayer alpha]
+-[JBGradientLineLayer tag]
+-[JBGradientLineLayer filled]
+-[JBGradientLineLayer currentPath]
+-[JBGradientLineLayer setCurrentPath:]
+-[JBGradientLineLayer .cxx_destruct]
+OBJC_IVAR_$_JBGradientLineLayer._tag
+OBJC_IVAR_$_JBGradientLineLayer._filled
+OBJC_IVAR_$_JBGradientLineLayer._currentPath
+l_OBJC_METACLASS_RO_$_JBGradientLineLayer
+OBJC_CLASS_NAME_25
+l_OBJC_$_INSTANCE_METHODS_JBGradientLineLayer
+l_OBJC_$_INSTANCE_VARIABLES_JBGradientLineLayer
+OBJC_PROP_NAME_ATTR_45
+OBJC_PROP_NAME_ATTR_46
+l_OBJC_$_PROP_LIST_JBGradientLineLayer
+l_OBJC_CLASS_RO_$_JBGradientLineLayer
+-[JBGradientLineLayer .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Layers/JBGradientLineLayer.m
+-[JBGradientLineLayer setCurrentPath:]
+/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Layers/JBGradientLineLayer.h
+-[JBGradientLineLayer currentPath]
+-[JBGradientLineLayer filled]
+-[JBGradientLineLayer tag]
+-[JBGradientLineLayer alpha]
+-[JBGradientLineLayer initWithGradientLayer:tag:filled:currentPath:]
+/Users/sweeharng/Desktop/What's left?/DerivedData/W.allet/Build/Intermediates/ArchiveIntermediates/What's left?/IntermediateBuildFilesPath/W.allet.build/Release-iphoneos/JBChart.build/DerivedSources/JBChart_vers.c

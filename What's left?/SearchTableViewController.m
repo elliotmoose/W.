@@ -13,10 +13,11 @@
 @end
 
 @implementation SearchTableViewController
-
+@synthesize hundredRelativePts;
+@synthesize screen;
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    [self SizingMisc];
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
     
@@ -31,16 +32,51 @@
 
 #pragma mark - Table view data source
 
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-#warning Incomplete implementation, return the number of sections
-    return 0;
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+    NSInteger numberOfRows = 0;
+    return numberOfRows;
+}
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
+{
+    return 1;
 }
 
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-#warning Incomplete implementation, return the number of rows
-    return 0;
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    UITableViewCell *cell = [[UITableViewCell alloc]init];
+    if (cell == nil) {
+        cell = [[UITableViewCell alloc] init];
+    }
+    return cell;
 }
 
+- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
+    return YES;
+}
+
+- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
+{
+    
+    return @"";
+}
+
+
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+}
+
+-(void)SizingMisc
+{
+    screen = [UIScreen mainScreen];
+    hundredRelativePts = screen.bounds.size.width/375 * 100;
+    
+    //self.tableView.frame =CGRectMake(0, hundredRelativePts*0.5, screen.bounds.size.width, screen.bounds.size.height - [[[self tabBarController] tabBar] bounds].size.height - hundredRelativePts*0.5);;
+    //self.view.backgroundColor = [UIColor clearColor];
+}
 /*
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:<#@"reuseIdentifier"#> forIndexPath:indexPath];

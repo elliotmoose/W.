@@ -7,7 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "Event.h"
 @interface EventCell : UITableViewCell
+@property (weak, nonatomic) IBOutlet UILabel *NameDisplay;
 
+@property (weak, nonatomic) IBOutlet UILabel *AmountDisplay;
+@property (weak, nonatomic) IBOutlet UILabel *DateDisplay;
+@property Event *thisEvent;
+@property NSString* tagTitle;
+@property float tagValue;
+-(void)UpdateCell: (NSString*) displayMode;
+
+@property CGFloat hundredRelativePts;
+@property UIScreen *screen;
+
+@property BOOL isViewMore;
 @end

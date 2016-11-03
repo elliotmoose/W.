@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "Widget.h"
 @interface WidgetViewController : UIViewController
+
+@property UIScreen *screen;
+@property float hundredRelativePts;
+
+@property Widget *headerWidget;
+@property NSMutableArray *allWidgets;
+
+-(void)UpdateAllWidgets;
 
 @end

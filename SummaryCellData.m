@@ -10,4 +10,19 @@
 
 @implementation SummaryCellData
 
+- (void)encodeWithCoder:(NSCoder *)coder {
+    [coder encodeInt:self.displayMode forKey:@"displayMode"];
+    [coder encodeInt:self.timeFrame forKey:@"timeFrame"];
+
+}
+
+- (id)initWithCoder:(NSCoder *)coder {
+    self = [super init];
+    if (self) {
+        self.displayMode = [coder decodeIntForKey:@"displayMode"];
+        self.timeFrame = [coder decodeIntForKey:@"timeFrame"];
+
+    }
+    return self;
+}
 @end

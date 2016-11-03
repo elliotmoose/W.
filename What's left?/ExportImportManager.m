@@ -7,7 +7,16 @@
 //
 
 #import "ExportImportManager.h"
-
+static ExportImportManager *singleton;
 @implementation ExportImportManager
 
+-(id)init
+{
+    if(singleton == nil)
+    {
+        singleton = self;
+    }
+    
+    return singleton;
+}
 @end

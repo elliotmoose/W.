@@ -7,7 +7,19 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "Settings.h"
+#import <UIKit/UIKit.h>
 @interface IntroController : NSObject
+@property int introStage;
+@property Settings *thisSettings;
+@property UIButton *introMainOverlay;
+@property UILabel *mainLabel;
+@property UIScreen *screen;
+@property float hundredRelativePts;
+
+@property UIButton *skipIntroButton;
+
+-(void)BeginIntro;
+-(void)IntroTrigger: (int)stage;
 
 @end

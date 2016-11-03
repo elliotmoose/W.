@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface SearchTableViewController : UITableViewController
-
+@property CGFloat hundredRelativePts;
+@property UIScreen *screen;
 @end

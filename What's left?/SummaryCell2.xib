@@ -15,39 +15,36 @@
                 <rect key="frame" x="0.0" y="0.0" width="320" height="79"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" misplaced="YES" placeholderIntrinsicWidth="320" placeholderIntrinsicHeight="40" progressViewStyle="bar" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Cgb-NB-cV4">
-                        <rect key="frame" x="0.0" y="26" width="320" height="10"/>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zlC-HJ-3Kd">
+                        <rect key="frame" x="35" y="8" width="250" height="43"/>
                         <constraints>
-                            <constraint firstAttribute="height" constant="9" id="hBT-Zn-QZN"/>
+                            <constraint firstAttribute="width" constant="250" id="0aJ-VV-oZ9"/>
                         </constraints>
-                        <color key="progressTintColor" red="0.25009552969999999" green="0.91931481640000001" blue="0.94901960780000005" alpha="1" colorSpace="calibratedRGB"/>
-                        <color key="trackTintColor" red="0.0" green="0.47450980390000003" blue="0.41960784309999999" alpha="1" colorSpace="calibratedRGB"/>
-                    </progressView>
-                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Focus" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dDo-Pd-kck">
-                        <rect key="frame" x="8" y="0.0" width="274" height="24"/>
                         <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
-                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jaz-XN-fwv">
+                        <rect key="frame" x="142" y="51" width="36" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="sQ8-se-dmY"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                         <nil key="highlightedColor"/>
                     </label>
                 </subviews>
                 <constraints>
-                    <constraint firstAttribute="trailingMargin" secondItem="Cgb-NB-cV4" secondAttribute="trailing" constant="10" id="40V-fm-cwV"/>
-                    <constraint firstItem="Cgb-NB-cV4" firstAttribute="bottom" secondItem="H2p-sc-9uM" secondAttribute="bottomMargin" constant="-20" id="4AV-Z1-y0H"/>
-                    <constraint firstItem="Cgb-NB-cV4" firstAttribute="top" secondItem="dDo-Pd-kck" secondAttribute="bottom" constant="2" id="8b2-sm-16z"/>
-                    <constraint firstAttribute="trailingMargin" secondItem="dDo-Pd-kck" secondAttribute="trailing" constant="30" id="DTR-MH-eBl"/>
-                    <constraint firstItem="dDo-Pd-kck" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="QuJ-HF-qH1"/>
-                    <constraint firstItem="dDo-Pd-kck" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-8" id="UFO-Ga-sb0"/>
-                    <constraint firstItem="Cgb-NB-cV4" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="gCH-Vi-zoT"/>
+                    <constraint firstItem="jaz-XN-fwv" firstAttribute="top" secondItem="zlC-HJ-3Kd" secondAttribute="bottom" id="Bbd-8p-3is"/>
+                    <constraint firstItem="zlC-HJ-3Kd" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" id="Cbh-EC-DMi"/>
+                    <constraint firstItem="jaz-XN-fwv" firstAttribute="bottom" secondItem="H2p-sc-9uM" secondAttribute="bottomMargin" id="fvN-vD-TdE"/>
+                    <constraint firstItem="jaz-XN-fwv" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="pLY-zo-Sbh"/>
+                    <constraint firstItem="zlC-HJ-3Kd" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="sXt-Yd-urI"/>
                 </constraints>
-                <variation key="default">
-                    <mask key="constraints">
-                        <exclude reference="UFO-Ga-sb0"/>
-                    </mask>
-                </variation>
             </tableViewCellContentView>
             <connections>
-                <outlet property="CellText" destination="dDo-Pd-kck" id="4hu-BE-t0w"/>
-                <outlet property="progressBar" destination="Cgb-NB-cV4" id="vSt-sd-NhH"/>
+                <outlet property="type2MainLabel" destination="zlC-HJ-3Kd" id="t90-go-fd8"/>
+                <outlet property="type2SecLabel" destination="jaz-XN-fwv" id="Oa3-92-mXu"/>
             </connections>
             <point key="canvasLocation" x="408" y="467"/>
         </tableViewCell>

@@ -1,0 +1,4632 @@
+BCSymbolMap Version: 1.0
+-[IntroController init]
+-[IntroController SizingMisc]
+-[IntroController IntroButtonPressed:]
+-[IntroController SkipIntro]
+-[IntroController BeginIntro]
+-[IntroController LoadStage]
+__28-[IntroController LoadStage]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+__28-[IntroController LoadStage]_block_invoke69
+__copy_helper_block_70
+__destroy_helper_block_71
+__28-[IntroController LoadStage]_block_invoke75
+__copy_helper_block_76
+__destroy_helper_block_77
+__28-[IntroController LoadStage]_block_invoke79
+__28-[IntroController LoadStage]_block_invoke_2
+__copy_helper_block_82
+__destroy_helper_block_83
+__copy_helper_block_85
+__destroy_helper_block_86
+__28-[IntroController LoadStage]_block_invoke89
+__copy_helper_block_90
+__destroy_helper_block_91
+__28-[IntroController LoadStage]_block_invoke93
+__copy_helper_block_94
+__destroy_helper_block_95
+__28-[IntroController LoadStage]_block_invoke97
+__28-[IntroController LoadStage]_block_invoke_2100
+__copy_helper_block_101
+__destroy_helper_block_102
+__copy_helper_block_104
+__destroy_helper_block_105
+__28-[IntroController LoadStage]_block_invoke107
+__copy_helper_block_108
+__destroy_helper_block_109
+__28-[IntroController LoadStage]_block_invoke111
+__copy_helper_block_112
+__destroy_helper_block_113
+__28-[IntroController LoadStage]_block_invoke115
+__28-[IntroController LoadStage]_block_invoke_2118
+__copy_helper_block_119
+__destroy_helper_block_120
+__copy_helper_block_122
+__destroy_helper_block_123
+__28-[IntroController LoadStage]_block_invoke125
+__copy_helper_block_126
+__destroy_helper_block_127
+__28-[IntroController LoadStage]_block_invoke129
+__28-[IntroController LoadStage]_block_invoke_2134
+__copy_helper_block_135
+__destroy_helper_block_136
+__copy_helper_block_138
+__destroy_helper_block_139
+__28-[IntroController LoadStage]_block_invoke141
+__copy_helper_block_142
+__destroy_helper_block_143
+__28-[IntroController LoadStage]_block_invoke145
+__copy_helper_block_146
+__destroy_helper_block_147
+__28-[IntroController LoadStage]_block_invoke149
+__copy_helper_block_150
+__destroy_helper_block_151
+__28-[IntroController LoadStage]_block_invoke153
+__28-[IntroController LoadStage]_block_invoke_2156
+__copy_helper_block_157
+__destroy_helper_block_158
+__copy_helper_block_160
+__destroy_helper_block_161
+__28-[IntroController LoadStage]_block_invoke163
+__copy_helper_block_164
+__destroy_helper_block_165
+__28-[IntroController LoadStage]_block_invoke167
+__copy_helper_block_168
+__destroy_helper_block_169
+-[IntroController IntroTrigger:]
+-[IntroController screen]
+-[IntroController setScreen:]
+-[IntroController hundredRelativePts]
+-[IntroController setHundredRelativePts:]
+-[IntroController mainLabel]
+-[IntroController setMainLabel:]
+-[IntroController introMainOverlay]
+-[IntroController setIntroMainOverlay:]
+-[IntroController introStage]
+-[IntroController setIntroStage:]
+-[IntroController thisSettings]
+-[IntroController setThisSettings:]
+-[IntroController skipIntroButton]
+-[IntroController setSkipIntroButton:]
+-[IntroController .cxx_destruct]
+singleton
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_1
+OBJC_SELECTOR_REFERENCES_2
+OBJC_IVAR_$_IntroController.screen
+OBJC_METH_VAR_NAME_3
+OBJC_SELECTOR_REFERENCES_4
+OBJC_METH_VAR_NAME_5
+OBJC_SELECTOR_REFERENCES_6
+OBJC_IVAR_$_IntroController.introMainOverlay
+OBJC_METH_VAR_NAME_7
+OBJC_SELECTOR_REFERENCES_8
+OBJC_METH_VAR_NAME_9
+OBJC_SELECTOR_REFERENCES_10
+OBJC_CLASSLIST_REFERENCES_$_11
+OBJC_IVAR_$_IntroController.hundredRelativePts
+.str
+_unnamed_cfstring_
+OBJC_METH_VAR_NAME_12
+OBJC_SELECTOR_REFERENCES_13
+OBJC_METH_VAR_NAME_14
+OBJC_SELECTOR_REFERENCES_15
+OBJC_CLASSLIST_REFERENCES_$_16
+.str17
+_unnamed_cfstring_18
+OBJC_METH_VAR_NAME_19
+OBJC_SELECTOR_REFERENCES_20
+OBJC_METH_VAR_NAME_21
+OBJC_SELECTOR_REFERENCES_22
+OBJC_IVAR_$_IntroController.mainLabel
+OBJC_IVAR_$_IntroController.skipIntroButton
+OBJC_CLASSLIST_REFERENCES_$_23
+OBJC_METH_VAR_NAME_24
+OBJC_SELECTOR_REFERENCES_25
+OBJC_METH_VAR_NAME_26
+OBJC_SELECTOR_REFERENCES_27
+OBJC_METH_VAR_NAME_28
+OBJC_SELECTOR_REFERENCES_29
+OBJC_METH_VAR_NAME_30
+OBJC_SELECTOR_REFERENCES_31
+OBJC_METH_VAR_NAME_32
+OBJC_SELECTOR_REFERENCES_33
+.str34
+_unnamed_cfstring_35
+OBJC_METH_VAR_NAME_36
+OBJC_SELECTOR_REFERENCES_37
+OBJC_METH_VAR_NAME_38
+OBJC_SELECTOR_REFERENCES_39
+OBJC_METH_VAR_NAME_40
+OBJC_SELECTOR_REFERENCES_41
+OBJC_METH_VAR_NAME_42
+OBJC_SELECTOR_REFERENCES_43
+OBJC_IVAR_$_IntroController.thisSettings
+OBJC_METH_VAR_NAME_44
+OBJC_SELECTOR_REFERENCES_45
+OBJC_METH_VAR_NAME_46
+OBJC_SELECTOR_REFERENCES_47
+OBJC_METH_VAR_NAME_48
+OBJC_SELECTOR_REFERENCES_49
+OBJC_METH_VAR_NAME_50
+OBJC_SELECTOR_REFERENCES_51
+OBJC_CLASSLIST_REFERENCES_$_52
+OBJC_METH_VAR_NAME_53
+OBJC_SELECTOR_REFERENCES_54
+OBJC_IVAR_$_IntroController.introStage
+OBJC_METH_VAR_NAME_55
+OBJC_SELECTOR_REFERENCES_56
+OBJC_METH_VAR_NAME_57
+OBJC_SELECTOR_REFERENCES_58
+OBJC_METH_VAR_NAME_59
+OBJC_SELECTOR_REFERENCES_60
+.str61
+_unnamed_cfstring_62
+OBJC_METH_VAR_NAME_63
+OBJC_SELECTOR_REFERENCES_64
+OBJC_CLASSLIST_REFERENCES_$_65
+.str66
+__block_descriptor_tmp
+OBJC_METH_VAR_NAME_67
+OBJC_SELECTOR_REFERENCES_68
+__block_descriptor_tmp72
+OBJC_METH_VAR_NAME_73
+OBJC_SELECTOR_REFERENCES_74
+__block_descriptor_tmp78
+.str80
+_unnamed_cfstring_81
+__block_descriptor_tmp84
+.str87
+__block_descriptor_tmp88
+__block_descriptor_tmp92
+__block_descriptor_tmp96
+.str98
+_unnamed_cfstring_99
+__block_descriptor_tmp103
+__block_descriptor_tmp106
+__block_descriptor_tmp110
+__block_descriptor_tmp114
+.str116
+_unnamed_cfstring_117
+__block_descriptor_tmp121
+__block_descriptor_tmp124
+__block_descriptor_tmp128
+OBJC_METH_VAR_NAME_130
+OBJC_SELECTOR_REFERENCES_131
+.str132
+_unnamed_cfstring_133
+__block_descriptor_tmp137
+__block_descriptor_tmp140
+__block_descriptor_tmp144
+__block_descriptor_tmp148
+__block_descriptor_tmp152
+.str154
+_unnamed_cfstring_155
+__block_descriptor_tmp159
+__block_descriptor_tmp162
+__block_descriptor_tmp166
+__block_descriptor_tmp170
+OBJC_METH_VAR_NAME_171
+OBJC_SELECTOR_REFERENCES_172
+OBJC_CLASS_NAME_
+l_OBJC_METACLASS_RO_$_IntroController
+OBJC_METACLASS_$_IntroController
+OBJC_CLASS_NAME_173
+OBJC_METH_VAR_NAME_174
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_TYPE_175
+OBJC_METH_VAR_TYPE_176
+OBJC_METH_VAR_NAME_177
+OBJC_METH_VAR_NAME_178
+OBJC_METH_VAR_TYPE_179
+OBJC_METH_VAR_NAME_180
+OBJC_METH_VAR_NAME_181
+OBJC_METH_VAR_NAME_182
+OBJC_METH_VAR_NAME_183
+OBJC_METH_VAR_TYPE_184
+OBJC_METH_VAR_NAME_185
+OBJC_METH_VAR_TYPE_186
+OBJC_METH_VAR_NAME_187
+OBJC_METH_VAR_NAME_188
+OBJC_METH_VAR_NAME_189
+OBJC_METH_VAR_NAME_190
+OBJC_METH_VAR_NAME_191
+OBJC_METH_VAR_TYPE_192
+OBJC_METH_VAR_NAME_193
+OBJC_METH_VAR_NAME_194
+OBJC_METH_VAR_NAME_195
+OBJC_METH_VAR_NAME_196
+OBJC_METH_VAR_NAME_197
+l_OBJC_$_INSTANCE_METHODS_IntroController
+OBJC_METH_VAR_TYPE_198
+OBJC_METH_VAR_TYPE_199
+OBJC_METH_VAR_TYPE_200
+OBJC_METH_VAR_TYPE_201
+OBJC_METH_VAR_TYPE_202
+OBJC_METH_VAR_TYPE_203
+l_OBJC_$_INSTANCE_VARIABLES_IntroController
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_204
+OBJC_PROP_NAME_ATTR_205
+OBJC_PROP_NAME_ATTR_206
+OBJC_PROP_NAME_ATTR_207
+OBJC_PROP_NAME_ATTR_208
+OBJC_PROP_NAME_ATTR_209
+OBJC_PROP_NAME_ATTR_210
+OBJC_PROP_NAME_ATTR_211
+OBJC_PROP_NAME_ATTR_212
+OBJC_PROP_NAME_ATTR_213
+OBJC_PROP_NAME_ATTR_214
+OBJC_PROP_NAME_ATTR_215
+OBJC_PROP_NAME_ATTR_216
+l_OBJC_$_PROP_LIST_IntroController
+l_OBJC_CLASS_RO_$_IntroController
+OBJC_CLASS_$_IntroController
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.0.2 (clang-700.1.81)
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/CoreGraphics-1YQ59ILDR3NYI.pcm
+CoreGraphics
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/ObjectiveC-2CD0WTQVXITO7.pcm
+ObjectiveC
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/objc
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/UIKit-2LM3EQU7VVY4O.pcm
+UIKit
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/Foundation-A3SOD99KJ0S9.pcm
+Foundation
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework
+CGRectMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+/Users/sweeharng/Desktop/What's left?
+-[IntroController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/IntroController.m
+-[IntroController setSkipIntroButton:]
+/Users/sweeharng/Desktop/What's left?/IntroController.h
+-[IntroController skipIntroButton]
+-[IntroController setThisSettings:]
+-[IntroController thisSettings]
+-[IntroController setIntroStage:]
+-[IntroController introStage]
+-[IntroController setIntroMainOverlay:]
+-[IntroController introMainOverlay]
+-[IntroController setMainLabel:]
+-[IntroController mainLabel]
+-[IntroController setHundredRelativePts:]
+-[IntroController hundredRelativePts]
+-[IntroController setScreen:]
+-[IntroController screen]
+-[IntroController IntroTrigger:]
+-[IntroController LoadStage]
+-[IntroController BeginIntro]
+-[IntroController SkipIntro]
+-[IntroController IntroButtonPressed:]
+-[IntroController SizingMisc]
+-[IntroController init]
+-[EventCell awakeFromNib]
+-[EventCell UpdateCell:]
+-[EventCell SizingMisc]
+-[EventCell setSelected:animated:]
+-[EventCell NameDisplay]
+-[EventCell setNameDisplay:]
+-[EventCell AmountDisplay]
+-[EventCell setAmountDisplay:]
+-[EventCell DateDisplay]
+-[EventCell setDateDisplay:]
+-[EventCell thisEvent]
+-[EventCell setThisEvent:]
+-[EventCell hundredRelativePts]
+-[EventCell setHundredRelativePts:]
+-[EventCell screen]
+-[EventCell setScreen:]
+-[EventCell isViewMore]
+-[EventCell setIsViewMore:]
+-[EventCell tagTitle]
+-[EventCell setTagTitle:]
+-[EventCell tagValue]
+-[EventCell setTagValue:]
+-[EventCell .cxx_destruct]
+.str3
+_unnamed_cfstring_4
+OBJC_IVAR_$_EventCell.DateDisplay
+OBJC_IVAR_$_EventCell.AmountDisplay
+OBJC_IVAR_$_EventCell.NameDisplay
+OBJC_IVAR_$_EventCell.thisEvent
+OBJC_METH_VAR_NAME_11
+OBJC_SELECTOR_REFERENCES_12
+OBJC_IVAR_$_EventCell.screen
+OBJC_METH_VAR_NAME_13
+OBJC_SELECTOR_REFERENCES_14
+OBJC_IVAR_$_EventCell.hundredRelativePts
+OBJC_METH_VAR_NAME_15
+OBJC_SELECTOR_REFERENCES_16
+OBJC_METH_VAR_NAME_17
+OBJC_SELECTOR_REFERENCES_18
+.str23
+_unnamed_cfstring_24
+OBJC_CLASSLIST_REFERENCES_$_25
+.str26
+_unnamed_cfstring_27
+OBJC_CLASSLIST_REFERENCES_$_34
+OBJC_METH_VAR_NAME_35
+OBJC_SELECTOR_REFERENCES_36
+OBJC_METH_VAR_NAME_37
+OBJC_SELECTOR_REFERENCES_38
+OBJC_METH_VAR_NAME_39
+OBJC_SELECTOR_REFERENCES_40
+OBJC_METH_VAR_NAME_41
+OBJC_SELECTOR_REFERENCES_42
+OBJC_METH_VAR_NAME_43
+OBJC_SELECTOR_REFERENCES_44
+OBJC_CLASSLIST_REFERENCES_$_45
+OBJC_METH_VAR_NAME_52
+OBJC_SELECTOR_REFERENCES_53
+OBJC_METH_VAR_NAME_54
+OBJC_SELECTOR_REFERENCES_55
+OBJC_METH_VAR_NAME_56
+OBJC_SELECTOR_REFERENCES_57
+OBJC_METH_VAR_NAME_58
+OBJC_SELECTOR_REFERENCES_59
+.str60
+_unnamed_cfstring_61
+OBJC_METH_VAR_NAME_62
+OBJC_SELECTOR_REFERENCES_63
+OBJC_CLASSLIST_REFERENCES_$_64
+OBJC_METH_VAR_NAME_65
+OBJC_SELECTOR_REFERENCES_66
+OBJC_CLASS_$_EventCell
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_69
+OBJC_SELECTOR_REFERENCES_70
+OBJC_IVAR_$_EventCell.isViewMore
+OBJC_IVAR_$_EventCell._tagTitle
+OBJC_IVAR_$_EventCell._tagValue
+l_OBJC_METACLASS_RO_$_EventCell
+OBJC_METACLASS_$_EventCell
+OBJC_CLASS_NAME_71
+OBJC_METH_VAR_NAME_72
+OBJC_METH_VAR_TYPE_73
+OBJC_METH_VAR_TYPE_74
+OBJC_METH_VAR_NAME_75
+OBJC_METH_VAR_NAME_76
+OBJC_METH_VAR_TYPE_77
+OBJC_METH_VAR_NAME_78
+OBJC_METH_VAR_NAME_79
+OBJC_METH_VAR_NAME_80
+OBJC_METH_VAR_NAME_81
+OBJC_METH_VAR_NAME_82
+OBJC_METH_VAR_NAME_83
+OBJC_METH_VAR_NAME_84
+OBJC_METH_VAR_NAME_85
+OBJC_METH_VAR_TYPE_86
+OBJC_METH_VAR_NAME_87
+OBJC_METH_VAR_TYPE_88
+OBJC_METH_VAR_NAME_89
+OBJC_METH_VAR_NAME_90
+OBJC_METH_VAR_NAME_91
+OBJC_METH_VAR_TYPE_92
+OBJC_METH_VAR_NAME_93
+OBJC_METH_VAR_TYPE_94
+OBJC_METH_VAR_NAME_95
+OBJC_METH_VAR_NAME_96
+l_OBJC_$_INSTANCE_METHODS_EventCell
+OBJC_METH_VAR_TYPE_97
+OBJC_METH_VAR_TYPE_98
+OBJC_METH_VAR_TYPE_99
+OBJC_METH_VAR_TYPE_100
+OBJC_METH_VAR_TYPE_101
+OBJC_METH_VAR_NAME_102
+OBJC_METH_VAR_TYPE_103
+OBJC_METH_VAR_NAME_104
+l_OBJC_$_INSTANCE_VARIABLES_EventCell
+OBJC_CLASS_NAME_105
+OBJC_PROP_NAME_ATTR_106
+OBJC_PROP_NAME_ATTR_107
+OBJC_PROP_NAME_ATTR_108
+OBJC_PROP_NAME_ATTR_109
+OBJC_PROP_NAME_ATTR_110
+OBJC_PROP_NAME_ATTR_111
+OBJC_PROP_NAME_ATTR_112
+OBJC_PROP_NAME_ATTR_113
+OBJC_PROP_NAME_ATTR_114
+OBJC_PROP_NAME_ATTR_115
+OBJC_PROP_NAME_ATTR_116
+OBJC_PROP_NAME_ATTR_117
+OBJC_PROP_NAME_ATTR_118
+OBJC_PROP_NAME_ATTR_119
+OBJC_PROP_NAME_ATTR_120
+OBJC_PROP_NAME_ATTR_121
+OBJC_PROP_NAME_ATTR_122
+l_OBJC_$_PROP_LIST_EventCell
+l_OBJC_CLASS_RO_$_EventCell
+-[EventCell .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/EventCell.m
+-[EventCell setTagValue:]
+/Users/sweeharng/Desktop/What's left?/What's left?/EventCell.h
+-[EventCell tagValue]
+-[EventCell setTagTitle:]
+-[EventCell tagTitle]
+-[EventCell setIsViewMore:]
+-[EventCell isViewMore]
+-[EventCell setScreen:]
+-[EventCell screen]
+-[EventCell setHundredRelativePts:]
+-[EventCell hundredRelativePts]
+-[EventCell setThisEvent:]
+-[EventCell thisEvent]
+-[EventCell setDateDisplay:]
+-[EventCell DateDisplay]
+-[EventCell setAmountDisplay:]
+-[EventCell AmountDisplay]
+-[EventCell setNameDisplay:]
+-[EventCell NameDisplay]
+-[EventCell setSelected:animated:]
+-[EventCell SizingMisc]
+-[EventCell UpdateCell:]
+-[EventCell awakeFromNib]
+-[NameReviewController viewDidLoad]
+-[NameReviewController didReceiveMemoryWarning]
+-[NameReviewController hundredRelativePts]
+-[NameReviewController setHundredRelativePts:]
+-[NameReviewController screen]
+-[NameReviewController setScreen:]
+-[NameReviewController arrayOfEventsToReview]
+-[NameReviewController setArrayOfEventsToReview:]
+-[NameReviewController .cxx_destruct]
+OBJC_CLASS_$_NameReviewController
+OBJC_IVAR_$_NameReviewController._hundredRelativePts
+OBJC_IVAR_$_NameReviewController._screen
+OBJC_IVAR_$_NameReviewController._arrayOfEventsToReview
+l_OBJC_METACLASS_RO_$_NameReviewController
+OBJC_METACLASS_$_NameReviewController
+OBJC_CLASS_NAME_3
+OBJC_METH_VAR_NAME_4
+OBJC_METH_VAR_TYPE_6
+OBJC_METH_VAR_TYPE_8
+OBJC_METH_VAR_TYPE_10
+OBJC_METH_VAR_TYPE_12
+l_OBJC_$_INSTANCE_METHODS_NameReviewController
+OBJC_METH_VAR_TYPE_16
+OBJC_METH_VAR_TYPE_18
+OBJC_METH_VAR_TYPE_20
+l_OBJC_$_INSTANCE_VARIABLES_NameReviewController
+OBJC_PROP_NAME_ATTR_21
+OBJC_PROP_NAME_ATTR_22
+OBJC_PROP_NAME_ATTR_23
+OBJC_PROP_NAME_ATTR_24
+OBJC_PROP_NAME_ATTR_25
+l_OBJC_$_PROP_LIST_NameReviewController
+l_OBJC_CLASS_RO_$_NameReviewController
+-[NameReviewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/NameReviewController.m
+-[NameReviewController setArrayOfEventsToReview:]
+/Users/sweeharng/Desktop/What's left?/What's left?/NameReviewController.h
+-[NameReviewController arrayOfEventsToReview]
+-[NameReviewController setScreen:]
+-[NameReviewController screen]
+-[NameReviewController setHundredRelativePts:]
+-[NameReviewController hundredRelativePts]
+-[NameReviewController didReceiveMemoryWarning]
+-[NameReviewController viewDidLoad]
+-[SecondViewController viewDidLoad]
+-[SecondViewController viewDidAppear:]
+-[SecondViewController didReceiveMemoryWarning]
+-[SecondViewController tableView:numberOfRowsInSection:]
+-[SecondViewController numberOfSectionsInTableView:]
+-[SecondViewController tableView:cellForRowAtIndexPath:]
+-[SecondViewController tableView:canEditRowAtIndexPath:]
+-[SecondViewController tableView:titleForHeaderInSection:]
+-[SecondViewController tableView:didSelectRowAtIndexPath:]
+__58-[SecondViewController tableView:didSelectRowAtIndexPath:]_block_invoke
+__58-[SecondViewController tableView:didSelectRowAtIndexPath:]_block_invoke140
+__copy_helper_block_143
+__destroy_helper_block_144
+__58-[SecondViewController tableView:didSelectRowAtIndexPath:]_block_invoke154
+__copy_helper_block_159
+__destroy_helper_block_160
+__58-[SecondViewController tableView:didSelectRowAtIndexPath:]_block_invoke162
+__copy_helper_block_163
+__destroy_helper_block_164
+__58-[SecondViewController tableView:didSelectRowAtIndexPath:]_block_invoke172
+__copy_helper_block_175
+__destroy_helper_block_176
+__58-[SecondViewController tableView:didSelectRowAtIndexPath:]_block_invoke178
+__copy_helper_block_179
+__destroy_helper_block_180
+-[SecondViewController PushEditSettCont:withsettingInEdit:]
+-[SecondViewController CloseEditSettCon]
+-[SecondViewController SaveAndUpdateDisolay]
+-[SecondViewController SizingMisc]
+-[SecondViewController initialize]
+-[SecondViewController InitWithSettings]
+-[SecondViewController hundredRelativePts]
+-[SecondViewController setHundredRelativePts:]
+-[SecondViewController screen]
+-[SecondViewController setScreen:]
+-[SecondViewController UserPrefEventsCont]
+-[SecondViewController setUserPrefEventsCont:]
+-[SecondViewController thisSettings]
+-[SecondViewController setThisSettings:]
+-[SecondViewController MainSettingsDisplay]
+-[SecondViewController setMainSettingsDisplay:]
+-[SecondViewController viewContLink]
+-[SecondViewController setViewContLink:]
+-[SecondViewController editSettingsCont]
+-[SecondViewController setEditSettingsCont:]
+-[SecondViewController moneyManager]
+-[SecondViewController setMoneyManager:]
+-[SecondViewController .cxx_destruct]
+OBJC_CLASS_$_SecondViewController
+OBJC_CLASS_$_Settings
+OBJC_IVAR_$_SecondViewController.thisSettings
+OBJC_IVAR_$_SecondViewController.MainSettingsDisplay
+OBJC_CLASS_$_ViewControllersLink
+OBJC_CLASSLIST_REFERENCES_$_13
+OBJC_IVAR_$_SecondViewController.viewContLink
+OBJC_CLASS_$_EditSettingsValuesViewController
+OBJC_IVAR_$_SecondViewController.editSettingsCont
+OBJC_METH_VAR_NAME_23
+OBJC_SELECTOR_REFERENCES_24
+OBJC_METH_VAR_NAME_25
+OBJC_SELECTOR_REFERENCES_26
+OBJC_CLASS_$_MoneyManager
+OBJC_CLASSLIST_REFERENCES_$_27
+OBJC_IVAR_$_SecondViewController.moneyManager
+OBJC_IVAR_$_SecondViewController.UserPrefEventsCont
+OBJC_METH_VAR_NAME_34
+OBJC_SELECTOR_REFERENCES_35
+OBJC_CLASSLIST_REFERENCES_$_36
+.str45
+_unnamed_cfstring_46
+OBJC_METH_VAR_NAME_47
+OBJC_SELECTOR_REFERENCES_48
+OBJC_METH_VAR_NAME_49
+OBJC_SELECTOR_REFERENCES_50
+.str51
+_unnamed_cfstring_52
+.str55
+_unnamed_cfstring_56
+.str59
+_unnamed_cfstring_60
+.str63
+_unnamed_cfstring_64
+.str65
+_unnamed_cfstring_66
+.str67
+_unnamed_cfstring_68
+OBJC_METH_VAR_NAME_71
+OBJC_SELECTOR_REFERENCES_72
+.str73
+_unnamed_cfstring_74
+OBJC_CLASSLIST_REFERENCES_$_75
+.str76
+_unnamed_cfstring_77
+OBJC_SELECTOR_REFERENCES_79
+OBJC_SELECTOR_REFERENCES_83
+.str84
+_unnamed_cfstring_85
+.str86
+_unnamed_cfstring_87
+.str88
+_unnamed_cfstring_89
+OBJC_SELECTOR_REFERENCES_91
+.str92
+_unnamed_cfstring_93
+OBJC_METH_VAR_NAME_94
+OBJC_SELECTOR_REFERENCES_95
+OBJC_SELECTOR_REFERENCES_97
+OBJC_METH_VAR_NAME_100
+OBJC_SELECTOR_REFERENCES_101
+OBJC_SELECTOR_REFERENCES_103
+OBJC_CLASSLIST_REFERENCES_$_104
+OBJC_METH_VAR_NAME_105
+OBJC_SELECTOR_REFERENCES_106
+OBJC_METH_VAR_NAME_107
+OBJC_SELECTOR_REFERENCES_108
+OBJC_METH_VAR_NAME_109
+OBJC_SELECTOR_REFERENCES_110
+OBJC_METH_VAR_NAME_111
+OBJC_SELECTOR_REFERENCES_112
+OBJC_METH_VAR_NAME_113
+OBJC_SELECTOR_REFERENCES_114
+OBJC_METH_VAR_NAME_115
+OBJC_SELECTOR_REFERENCES_116
+OBJC_METH_VAR_NAME_117
+OBJC_SELECTOR_REFERENCES_118
+OBJC_METH_VAR_NAME_119
+OBJC_SELECTOR_REFERENCES_120
+OBJC_METH_VAR_NAME_121
+OBJC_SELECTOR_REFERENCES_122
+OBJC_CLASSLIST_REFERENCES_$_123
+.str124
+_unnamed_cfstring_125
+.str126
+_unnamed_cfstring_127
+OBJC_METH_VAR_NAME_128
+OBJC_SELECTOR_REFERENCES_129
+OBJC_CLASSLIST_REFERENCES_$_130
+.str131
+_unnamed_cfstring_132
+OBJC_METH_VAR_NAME_133
+OBJC_SELECTOR_REFERENCES_134
+.str135
+OBJC_METH_VAR_NAME_136
+OBJC_SELECTOR_REFERENCES_137
+.str138
+_unnamed_cfstring_139
+OBJC_METH_VAR_NAME_141
+OBJC_SELECTOR_REFERENCES_142
+__block_descriptor_tmp145
+OBJC_METH_VAR_NAME_146
+OBJC_SELECTOR_REFERENCES_147
+OBJC_METH_VAR_NAME_148
+OBJC_SELECTOR_REFERENCES_149
+.str150
+_unnamed_cfstring_151
+.str152
+_unnamed_cfstring_153
+OBJC_METH_VAR_NAME_155
+OBJC_SELECTOR_REFERENCES_156
+OBJC_METH_VAR_NAME_157
+OBJC_SELECTOR_REFERENCES_158
+__block_descriptor_tmp161
+__block_descriptor_tmp165
+.str166
+_unnamed_cfstring_167
+.str168
+_unnamed_cfstring_169
+.str170
+_unnamed_cfstring_171
+OBJC_METH_VAR_NAME_173
+OBJC_SELECTOR_REFERENCES_174
+__block_descriptor_tmp177
+__block_descriptor_tmp181
+.str182
+_unnamed_cfstring_183
+OBJC_METH_VAR_NAME_184
+OBJC_SELECTOR_REFERENCES_185
+OBJC_METH_VAR_NAME_186
+OBJC_SELECTOR_REFERENCES_187
+OBJC_SELECTOR_REFERENCES_189
+OBJC_SELECTOR_REFERENCES_191
+OBJC_METH_VAR_NAME_192
+OBJC_SELECTOR_REFERENCES_193
+OBJC_SELECTOR_REFERENCES_195
+OBJC_SELECTOR_REFERENCES_197
+OBJC_CLASSLIST_REFERENCES_$_198
+.str199
+_unnamed_cfstring_200
+OBJC_METH_VAR_NAME_201
+OBJC_SELECTOR_REFERENCES_202
+OBJC_METH_VAR_NAME_203
+OBJC_SELECTOR_REFERENCES_204
+.str205
+_unnamed_cfstring_206
+.str207
+_unnamed_cfstring_208
+OBJC_CLASSLIST_REFERENCES_$_209
+OBJC_METH_VAR_NAME_210
+OBJC_SELECTOR_REFERENCES_211
+OBJC_IVAR_$_SecondViewController.screen
+OBJC_METH_VAR_NAME_212
+OBJC_SELECTOR_REFERENCES_213
+OBJC_IVAR_$_SecondViewController.hundredRelativePts
+OBJC_METH_VAR_NAME_214
+OBJC_SELECTOR_REFERENCES_215
+OBJC_CLASS_$_ManageUserPreferredEvents
+OBJC_CLASSLIST_REFERENCES_$_216
+.str217
+_unnamed_cfstring_218
+OBJC_CLASSLIST_REFERENCES_$_219
+OBJC_METH_VAR_NAME_220
+OBJC_SELECTOR_REFERENCES_221
+OBJC_METH_VAR_NAME_222
+OBJC_SELECTOR_REFERENCES_223
+OBJC_METH_VAR_NAME_224
+OBJC_METH_VAR_TYPE_225
+OBJC_METH_VAR_NAME_226
+OBJC_METH_VAR_TYPE_227
+OBJC_METH_VAR_TYPE_228
+OBJC_METH_VAR_NAME_229
+OBJC_METH_VAR_TYPE_230
+OBJC_METH_VAR_TYPE_231
+OBJC_METH_VAR_NAME_232
+OBJC_METH_VAR_TYPE_233
+OBJC_METH_VAR_TYPE_234
+OBJC_METH_VAR_NAME_235
+OBJC_METH_VAR_NAME_236
+OBJC_METH_VAR_TYPE_237
+OBJC_METH_VAR_TYPE_238
+OBJC_METH_VAR_NAME_239
+OBJC_METH_VAR_NAME_240
+OBJC_METH_VAR_TYPE_241
+OBJC_METH_VAR_TYPE_242
+OBJC_METH_VAR_NAME_243
+OBJC_METH_VAR_TYPE_244
+OBJC_METH_VAR_TYPE_245
+OBJC_METH_VAR_NAME_246
+OBJC_METH_VAR_TYPE_247
+OBJC_METH_VAR_TYPE_248
+OBJC_METH_VAR_NAME_249
+OBJC_METH_VAR_TYPE_250
+OBJC_METH_VAR_TYPE_251
+OBJC_CLASS_NAME_252
+OBJC_METH_VAR_NAME_253
+OBJC_METH_VAR_TYPE_254
+OBJC_METH_VAR_NAME_255
+OBJC_METH_VAR_TYPE_256
+OBJC_METH_VAR_NAME_257
+OBJC_METH_VAR_TYPE_258
+OBJC_METH_VAR_NAME_259
+OBJC_METH_VAR_TYPE_260
+OBJC_METH_VAR_NAME_261
+OBJC_METH_VAR_TYPE_262
+OBJC_METH_VAR_NAME_263
+OBJC_METH_VAR_TYPE_264
+OBJC_METH_VAR_NAME_265
+OBJC_METH_VAR_TYPE_266
+OBJC_METH_VAR_NAME_267
+OBJC_METH_VAR_TYPE_268
+OBJC_METH_VAR_NAME_269
+OBJC_METH_VAR_NAME_270
+OBJC_METH_VAR_TYPE_271
+OBJC_METH_VAR_NAME_272
+OBJC_METH_VAR_TYPE_273
+OBJC_METH_VAR_NAME_274
+OBJC_METH_VAR_NAME_275
+OBJC_METH_VAR_TYPE_276
+OBJC_METH_VAR_NAME_277
+OBJC_METH_VAR_NAME_278
+OBJC_METH_VAR_TYPE_279
+OBJC_METH_VAR_NAME_280
+OBJC_METH_VAR_TYPE_281
+OBJC_METH_VAR_NAME_282
+OBJC_METH_VAR_NAME_283
+OBJC_METH_VAR_NAME_284
+OBJC_METH_VAR_TYPE_285
+OBJC_METH_VAR_NAME_286
+OBJC_CLASS_NAME_287
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_288
+OBJC_PROP_NAME_ATTR_289
+OBJC_PROP_NAME_ATTR_290
+OBJC_PROP_NAME_ATTR_291
+OBJC_PROP_NAME_ATTR_292
+OBJC_PROP_NAME_ATTR_293
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_UITableViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_UITableViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UITableViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UITableViewDataSource
+l_OBJC_PROTOCOL_$_UITableViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_UITableViewDataSource
+OBJC_METH_VAR_NAME_294
+OBJC_METH_VAR_TYPE_295
+OBJC_METH_VAR_NAME_296
+OBJC_METH_VAR_TYPE_297
+OBJC_METH_VAR_TYPE_298
+OBJC_METH_VAR_NAME_299
+OBJC_METH_VAR_NAME_300
+OBJC_METH_VAR_NAME_301
+OBJC_METH_VAR_NAME_302
+OBJC_METH_VAR_NAME_303
+OBJC_METH_VAR_TYPE_304
+OBJC_METH_VAR_TYPE_305
+OBJC_METH_VAR_NAME_306
+OBJC_METH_VAR_TYPE_307
+OBJC_METH_VAR_TYPE_308
+OBJC_METH_VAR_NAME_309
+OBJC_METH_VAR_NAME_310
+OBJC_METH_VAR_NAME_311
+OBJC_METH_VAR_NAME_312
+OBJC_METH_VAR_NAME_313
+OBJC_METH_VAR_TYPE_314
+OBJC_METH_VAR_NAME_315
+OBJC_METH_VAR_NAME_316
+OBJC_METH_VAR_TYPE_317
+OBJC_METH_VAR_TYPE_318
+OBJC_METH_VAR_NAME_319
+OBJC_METH_VAR_TYPE_320
+OBJC_METH_VAR_TYPE_321
+OBJC_METH_VAR_NAME_322
+OBJC_METH_VAR_NAME_323
+OBJC_METH_VAR_NAME_324
+OBJC_METH_VAR_NAME_325
+OBJC_METH_VAR_TYPE_326
+OBJC_METH_VAR_NAME_327
+OBJC_METH_VAR_NAME_328
+OBJC_METH_VAR_NAME_329
+OBJC_METH_VAR_NAME_330
+OBJC_METH_VAR_NAME_331
+OBJC_METH_VAR_TYPE_332
+OBJC_METH_VAR_NAME_333
+OBJC_METH_VAR_TYPE_334
+OBJC_METH_VAR_NAME_335
+OBJC_METH_VAR_NAME_336
+OBJC_METH_VAR_NAME_337
+OBJC_METH_VAR_NAME_338
+OBJC_METH_VAR_TYPE_339
+OBJC_METH_VAR_TYPE_340
+OBJC_METH_VAR_NAME_341
+OBJC_METH_VAR_NAME_342
+OBJC_METH_VAR_NAME_343
+OBJC_METH_VAR_TYPE_344
+OBJC_METH_VAR_TYPE_345
+OBJC_METH_VAR_NAME_346
+OBJC_METH_VAR_TYPE_347
+OBJC_METH_VAR_TYPE_348
+OBJC_METH_VAR_NAME_349
+OBJC_METH_VAR_NAME_350
+OBJC_METH_VAR_TYPE_351
+OBJC_METH_VAR_NAME_352
+OBJC_METH_VAR_TYPE_353
+OBJC_METH_VAR_NAME_354
+OBJC_METH_VAR_TYPE_355
+OBJC_CLASS_NAME_356
+OBJC_METH_VAR_NAME_357
+OBJC_METH_VAR_TYPE_358
+OBJC_METH_VAR_TYPE_359
+OBJC_METH_VAR_NAME_360
+OBJC_METH_VAR_NAME_361
+OBJC_METH_VAR_NAME_362
+OBJC_METH_VAR_TYPE_363
+OBJC_METH_VAR_TYPE_364
+OBJC_METH_VAR_NAME_365
+OBJC_METH_VAR_TYPE_366
+OBJC_METH_VAR_TYPE_367
+OBJC_METH_VAR_NAME_368
+OBJC_METH_VAR_NAME_369
+OBJC_METH_VAR_NAME_370
+OBJC_METH_VAR_NAME_371
+OBJC_METH_VAR_TYPE_372
+OBJC_METH_VAR_NAME_373
+OBJC_METH_VAR_TYPE_374
+OBJC_METH_VAR_NAME_375
+OBJC_METH_VAR_TYPE_376
+OBJC_METH_VAR_TYPE_377
+OBJC_METH_VAR_NAME_378
+OBJC_METH_VAR_TYPE_379
+OBJC_METH_VAR_NAME_380
+OBJC_CLASS_NAME_381
+l_OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+l_OBJC_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_$_PROTOCOL_REFS_UITableViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UITableViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UITableViewDelegate
+l_OBJC_PROTOCOL_$_UITableViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UITableViewDelegate
+OBJC_CLASS_NAME_382
+l_OBJC_$_PROTOCOL_REFS_secondViewContDelegate
+l_OBJC_PROTOCOL_$_secondViewContDelegate
+l_OBJC_LABEL_PROTOCOL_$_secondViewContDelegate
+OBJC_METH_VAR_NAME_383
+OBJC_METH_VAR_TYPE_384
+OBJC_METH_VAR_NAME_385
+OBJC_CLASS_NAME_386
+l_OBJC_$_PROTOCOL_REFS_editSettingsValuesDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_editSettingsValuesDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_editSettingsValuesDelegate
+l_OBJC_PROTOCOL_$_editSettingsValuesDelegate
+l_OBJC_LABEL_PROTOCOL_$_editSettingsValuesDelegate
+l_OBJC_CLASS_PROTOCOLS_$_SecondViewController
+l_OBJC_METACLASS_RO_$_SecondViewController
+OBJC_METACLASS_$_SecondViewController
+OBJC_CLASS_NAME_387
+OBJC_METH_VAR_NAME_388
+OBJC_METH_VAR_TYPE_389
+OBJC_METH_VAR_TYPE_390
+OBJC_METH_VAR_NAME_391
+OBJC_METH_VAR_NAME_392
+OBJC_METH_VAR_NAME_393
+OBJC_METH_VAR_TYPE_394
+OBJC_METH_VAR_NAME_395
+OBJC_METH_VAR_TYPE_396
+OBJC_METH_VAR_NAME_397
+OBJC_METH_VAR_NAME_398
+OBJC_METH_VAR_NAME_399
+OBJC_METH_VAR_NAME_400
+OBJC_METH_VAR_NAME_401
+OBJC_METH_VAR_NAME_402
+OBJC_METH_VAR_NAME_403
+OBJC_METH_VAR_NAME_404
+OBJC_METH_VAR_NAME_405
+OBJC_METH_VAR_NAME_406
+OBJC_METH_VAR_NAME_407
+OBJC_METH_VAR_NAME_408
+OBJC_METH_VAR_NAME_409
+OBJC_METH_VAR_NAME_410
+l_OBJC_$_INSTANCE_METHODS_SecondViewController
+OBJC_METH_VAR_TYPE_411
+OBJC_METH_VAR_TYPE_412
+OBJC_METH_VAR_TYPE_413
+OBJC_METH_VAR_TYPE_414
+OBJC_METH_VAR_TYPE_415
+OBJC_METH_VAR_TYPE_416
+OBJC_METH_VAR_TYPE_417
+OBJC_METH_VAR_TYPE_418
+l_OBJC_$_INSTANCE_VARIABLES_SecondViewController
+OBJC_CLASS_NAME_419
+OBJC_PROP_NAME_ATTR_420
+OBJC_PROP_NAME_ATTR_421
+OBJC_PROP_NAME_ATTR_422
+OBJC_PROP_NAME_ATTR_423
+OBJC_PROP_NAME_ATTR_424
+OBJC_PROP_NAME_ATTR_425
+OBJC_PROP_NAME_ATTR_426
+OBJC_PROP_NAME_ATTR_427
+OBJC_PROP_NAME_ATTR_428
+OBJC_PROP_NAME_ATTR_429
+OBJC_PROP_NAME_ATTR_430
+OBJC_PROP_NAME_ATTR_431
+OBJC_PROP_NAME_ATTR_432
+OBJC_PROP_NAME_ATTR_433
+OBJC_PROP_NAME_ATTR_434
+OBJC_PROP_NAME_ATTR_435
+l_OBJC_$_PROP_LIST_SecondViewController
+l_OBJC_CLASS_RO_$_SecondViewController
+switch.table
+-[SecondViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/SecondViewController.m
+-[SecondViewController setMoneyManager:]
+/Users/sweeharng/Desktop/What's left?/What's left?/SecondViewController.h
+-[SecondViewController moneyManager]
+-[SecondViewController setEditSettingsCont:]
+-[SecondViewController editSettingsCont]
+-[SecondViewController setViewContLink:]
+-[SecondViewController viewContLink]
+-[SecondViewController setMainSettingsDisplay:]
+-[SecondViewController MainSettingsDisplay]
+-[SecondViewController setThisSettings:]
+-[SecondViewController thisSettings]
+-[SecondViewController setUserPrefEventsCont:]
+-[SecondViewController UserPrefEventsCont]
+-[SecondViewController setScreen:]
+-[SecondViewController screen]
+-[SecondViewController setHundredRelativePts:]
+-[SecondViewController hundredRelativePts]
+-[SecondViewController InitWithSettings]
+-[SecondViewController initialize]
+-[SecondViewController SizingMisc]
+-[SecondViewController SaveAndUpdateDisolay]
+-[SecondViewController CloseEditSettCon]
+-[SecondViewController PushEditSettCont:withsettingInEdit:]
+-[SecondViewController tableView:didSelectRowAtIndexPath:]
+-[SecondViewController tableView:titleForHeaderInSection:]
+-[SecondViewController tableView:canEditRowAtIndexPath:]
+-[SecondViewController tableView:cellForRowAtIndexPath:]
+-[SecondViewController numberOfSectionsInTableView:]
+-[SecondViewController tableView:numberOfRowsInSection:]
+-[SecondViewController didReceiveMemoryWarning]
+-[SecondViewController viewDidAppear:]
+-[SecondViewController viewDidLoad]
+-[SummaryTableViewController init]
+-[SummaryTableViewController viewDidLoad]
+-[SummaryTableViewController viewWillAppear:]
+-[SummaryTableViewController didReceiveMemoryWarning]
+-[SummaryTableViewController reloadData]
+-[SummaryTableViewController numberOfSectionsInTableView:]
+-[SummaryTableViewController tableView:numberOfRowsInSection:]
+-[SummaryTableViewController tableView:cellForRowAtIndexPath:]
+-[SummaryTableViewController tableView:didSelectRowAtIndexPath:]
+-[SummaryTableViewController tableView:canEditRowAtIndexPath:]
+-[SummaryTableViewController tableView:commitEditingStyle:forRowAtIndexPath:]
+-[SummaryTableViewController AddSummaryCell]
+-[SummaryTableViewController SizingMisc]
+-[SummaryTableViewController ReplaceCell:withreplacementIndex:]
+-[SummaryTableViewController SaveCells]
+-[SummaryTableViewController LoadCells]
+-[SummaryTableViewController noOfRows]
+-[SummaryTableViewController setNoOfRows:]
+-[SummaryTableViewController screen]
+-[SummaryTableViewController setScreen:]
+-[SummaryTableViewController hundredRelativePts]
+-[SummaryTableViewController setHundredRelativePts:]
+-[SummaryTableViewController allSummaryCells]
+-[SummaryTableViewController setAllSummaryCells:]
+-[SummaryTableViewController allSummaryCellsData]
+-[SummaryTableViewController setAllSummaryCellsData:]
+-[SummaryTableViewController editCellCont]
+-[SummaryTableViewController setEditCellCont:]
+-[SummaryTableViewController thisSettings]
+-[SummaryTableViewController setThisSettings:]
+-[SummaryTableViewController displayTableView]
+-[SummaryTableViewController setDisplayTableView:]
+-[SummaryTableViewController .cxx_destruct]
+OBJC_CLASS_$_SummaryTableViewController
+OBJC_IVAR_$_SummaryTableViewController.maxSummaryCells
+OBJC_IVAR_$_SummaryTableViewController.allSummaryCells
+OBJC_IVAR_$_SummaryTableViewController.allSummaryCellsData
+OBJC_CLASS_$_EditSummaryCellController
+OBJC_CLASSLIST_REFERENCES_$_5
+OBJC_IVAR_$_SummaryTableViewController.editCellCont
+OBJC_METH_VAR_NAME_6
+OBJC_SELECTOR_REFERENCES_7
+OBJC_CLASSLIST_REFERENCES_$_8
+OBJC_IVAR_$_SummaryTableViewController.thisSettings
+OBJC_CLASSLIST_REFERENCES_$_15
+OBJC_METH_VAR_NAME_16
+OBJC_SELECTOR_REFERENCES_17
+OBJC_METH_VAR_NAME_18
+OBJC_SELECTOR_REFERENCES_19
+OBJC_METH_VAR_NAME_20
+OBJC_SELECTOR_REFERENCES_21
+OBJC_METH_VAR_NAME_22
+OBJC_SELECTOR_REFERENCES_23
+OBJC_CLASSLIST_REFERENCES_$_32
+OBJC_METH_VAR_NAME_33
+OBJC_SELECTOR_REFERENCES_34
+.str39
+_unnamed_cfstring_40
+OBJC_METH_VAR_NAME_45
+OBJC_SELECTOR_REFERENCES_46
+.str49
+_unnamed_cfstring_50
+OBJC_METH_VAR_NAME_51
+OBJC_SELECTOR_REFERENCES_52
+OBJC_CLASSLIST_REFERENCES_$_53
+.str58
+_unnamed_cfstring_59
+OBJC_METH_VAR_NAME_60
+OBJC_SELECTOR_REFERENCES_61
+OBJC_METH_VAR_NAME_64
+OBJC_SELECTOR_REFERENCES_65
+OBJC_METH_VAR_NAME_66
+OBJC_SELECTOR_REFERENCES_67
+OBJC_METH_VAR_NAME_68
+OBJC_SELECTOR_REFERENCES_69
+OBJC_METH_VAR_NAME_70
+OBJC_SELECTOR_REFERENCES_71
+OBJC_SELECTOR_REFERENCES_73
+OBJC_METH_VAR_NAME_74
+OBJC_SELECTOR_REFERENCES_75
+OBJC_CLASSLIST_REFERENCES_$_76
+OBJC_METH_VAR_NAME_77
+OBJC_SELECTOR_REFERENCES_78
+OBJC_SELECTOR_REFERENCES_80
+OBJC_SELECTOR_REFERENCES_82
+OBJC_SELECTOR_REFERENCES_84
+OBJC_SELECTOR_REFERENCES_86
+OBJC_SELECTOR_REFERENCES_88
+OBJC_SELECTOR_REFERENCES_90
+OBJC_SELECTOR_REFERENCES_92
+OBJC_CLASS_$_SummaryCellData
+OBJC_CLASSLIST_REFERENCES_$_93
+OBJC_CLASSLIST_REFERENCES_$_94
+OBJC_SELECTOR_REFERENCES_96
+OBJC_IVAR_$_SummaryTableViewController.screen
+OBJC_IVAR_$_SummaryTableViewController.hundredRelativePts
+OBJC_METH_VAR_NAME_97
+OBJC_SELECTOR_REFERENCES_98
+OBJC_CLASSLIST_REFERENCES_$_99
+OBJC_CLASSLIST_REFERENCES_$_102
+OBJC_METH_VAR_NAME_103
+OBJC_SELECTOR_REFERENCES_104
+.str105
+_unnamed_cfstring_106
+OBJC_CLASSLIST_REFERENCES_$_113
+OBJC_METH_VAR_NAME_114
+OBJC_SELECTOR_REFERENCES_115
+OBJC_IVAR_$_SummaryTableViewController.noOfRows
+OBJC_IVAR_$_SummaryTableViewController._displayTableView
+OBJC_METH_VAR_NAME_116
+OBJC_METH_VAR_TYPE_117
+OBJC_METH_VAR_NAME_118
+OBJC_METH_VAR_TYPE_119
+OBJC_METH_VAR_TYPE_120
+OBJC_METH_VAR_TYPE_122
+OBJC_METH_VAR_TYPE_123
+OBJC_METH_VAR_NAME_124
+OBJC_METH_VAR_TYPE_125
+OBJC_METH_VAR_TYPE_126
+OBJC_METH_VAR_NAME_127
+OBJC_METH_VAR_TYPE_129
+OBJC_METH_VAR_TYPE_130
+OBJC_METH_VAR_NAME_131
+OBJC_METH_VAR_NAME_132
+OBJC_METH_VAR_TYPE_133
+OBJC_METH_VAR_TYPE_134
+OBJC_METH_VAR_NAME_135
+OBJC_METH_VAR_TYPE_136
+OBJC_METH_VAR_TYPE_137
+OBJC_METH_VAR_NAME_138
+OBJC_METH_VAR_TYPE_139
+OBJC_METH_VAR_TYPE_140
+OBJC_METH_VAR_TYPE_142
+OBJC_METH_VAR_TYPE_143
+OBJC_CLASS_NAME_144
+OBJC_METH_VAR_NAME_145
+OBJC_METH_VAR_TYPE_146
+OBJC_METH_VAR_NAME_147
+OBJC_METH_VAR_TYPE_148
+OBJC_METH_VAR_NAME_149
+OBJC_METH_VAR_TYPE_150
+OBJC_METH_VAR_NAME_151
+OBJC_METH_VAR_TYPE_152
+OBJC_METH_VAR_NAME_153
+OBJC_METH_VAR_TYPE_154
+OBJC_METH_VAR_TYPE_156
+OBJC_METH_VAR_TYPE_158
+OBJC_METH_VAR_NAME_159
+OBJC_METH_VAR_TYPE_160
+OBJC_METH_VAR_NAME_161
+OBJC_METH_VAR_NAME_162
+OBJC_METH_VAR_TYPE_163
+OBJC_METH_VAR_NAME_164
+OBJC_METH_VAR_TYPE_165
+OBJC_METH_VAR_NAME_166
+OBJC_METH_VAR_NAME_167
+OBJC_METH_VAR_TYPE_168
+OBJC_METH_VAR_NAME_169
+OBJC_METH_VAR_NAME_170
+OBJC_METH_VAR_TYPE_171
+OBJC_METH_VAR_NAME_172
+OBJC_METH_VAR_TYPE_173
+OBJC_METH_VAR_NAME_175
+OBJC_METH_VAR_NAME_176
+OBJC_METH_VAR_TYPE_177
+OBJC_CLASS_NAME_179
+OBJC_PROP_NAME_ATTR_180
+OBJC_PROP_NAME_ATTR_181
+OBJC_PROP_NAME_ATTR_182
+OBJC_PROP_NAME_ATTR_183
+OBJC_PROP_NAME_ATTR_184
+OBJC_PROP_NAME_ATTR_185
+OBJC_METH_VAR_TYPE_187
+OBJC_METH_VAR_TYPE_189
+OBJC_METH_VAR_TYPE_190
+OBJC_METH_VAR_TYPE_196
+OBJC_METH_VAR_TYPE_197
+OBJC_METH_VAR_NAME_198
+OBJC_METH_VAR_NAME_202
+OBJC_METH_VAR_NAME_204
+OBJC_METH_VAR_NAME_205
+OBJC_METH_VAR_TYPE_206
+OBJC_METH_VAR_NAME_207
+OBJC_METH_VAR_NAME_208
+OBJC_METH_VAR_TYPE_209
+OBJC_METH_VAR_TYPE_210
+OBJC_METH_VAR_NAME_211
+OBJC_METH_VAR_TYPE_212
+OBJC_METH_VAR_TYPE_213
+OBJC_METH_VAR_NAME_215
+OBJC_METH_VAR_NAME_216
+OBJC_METH_VAR_NAME_217
+OBJC_METH_VAR_TYPE_218
+OBJC_METH_VAR_NAME_219
+OBJC_METH_VAR_NAME_221
+OBJC_METH_VAR_NAME_223
+OBJC_METH_VAR_TYPE_224
+OBJC_METH_VAR_NAME_225
+OBJC_METH_VAR_TYPE_226
+OBJC_METH_VAR_NAME_227
+OBJC_METH_VAR_NAME_228
+OBJC_METH_VAR_NAME_230
+OBJC_METH_VAR_TYPE_232
+OBJC_METH_VAR_NAME_233
+OBJC_METH_VAR_NAME_234
+OBJC_METH_VAR_TYPE_236
+OBJC_METH_VAR_NAME_238
+OBJC_METH_VAR_TYPE_239
+OBJC_METH_VAR_TYPE_240
+OBJC_METH_VAR_NAME_241
+OBJC_METH_VAR_NAME_242
+OBJC_METH_VAR_TYPE_243
+OBJC_METH_VAR_NAME_244
+OBJC_CLASS_NAME_248
+OBJC_METH_VAR_NAME_252
+OBJC_METH_VAR_NAME_254
+OBJC_METH_VAR_TYPE_255
+OBJC_METH_VAR_TYPE_259
+OBJC_METH_VAR_NAME_260
+OBJC_METH_VAR_NAME_262
+OBJC_METH_VAR_TYPE_269
+OBJC_CLASS_NAME_273
+OBJC_METH_VAR_TYPE_275
+OBJC_CLASS_NAME_277
+l_OBJC_$_PROTOCOL_REFS_cellEdtContDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_cellEdtContDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_cellEdtContDelegate
+l_OBJC_PROTOCOL_$_cellEdtContDelegate
+l_OBJC_LABEL_PROTOCOL_$_cellEdtContDelegate
+l_OBJC_CLASS_PROTOCOLS_$_SummaryTableViewController
+l_OBJC_METACLASS_RO_$_SummaryTableViewController
+OBJC_METACLASS_$_SummaryTableViewController
+OBJC_CLASS_NAME_278
+OBJC_METH_VAR_TYPE_287
+OBJC_METH_VAR_NAME_288
+OBJC_METH_VAR_NAME_289
+OBJC_METH_VAR_NAME_290
+OBJC_METH_VAR_TYPE_291
+OBJC_METH_VAR_NAME_292
+OBJC_METH_VAR_TYPE_293
+OBJC_METH_VAR_NAME_295
+OBJC_METH_VAR_NAME_297
+OBJC_METH_VAR_NAME_298
+l_OBJC_$_INSTANCE_METHODS_SummaryTableViewController
+OBJC_METH_VAR_NAME_304
+OBJC_METH_VAR_TYPE_306
+OBJC_METH_VAR_TYPE_309
+OBJC_METH_VAR_TYPE_310
+OBJC_METH_VAR_TYPE_312
+l_OBJC_$_INSTANCE_VARIABLES_SummaryTableViewController
+OBJC_PROP_NAME_ATTR_313
+OBJC_PROP_NAME_ATTR_314
+OBJC_PROP_NAME_ATTR_315
+OBJC_PROP_NAME_ATTR_316
+OBJC_PROP_NAME_ATTR_317
+OBJC_PROP_NAME_ATTR_318
+OBJC_PROP_NAME_ATTR_319
+OBJC_PROP_NAME_ATTR_320
+OBJC_PROP_NAME_ATTR_321
+OBJC_PROP_NAME_ATTR_322
+OBJC_PROP_NAME_ATTR_323
+OBJC_PROP_NAME_ATTR_324
+OBJC_PROP_NAME_ATTR_325
+OBJC_PROP_NAME_ATTR_326
+OBJC_PROP_NAME_ATTR_327
+OBJC_PROP_NAME_ATTR_328
+l_OBJC_$_PROP_LIST_SummaryTableViewController
+l_OBJC_CLASS_RO_$_SummaryTableViewController
+-[SummaryTableViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/SummaryTableViewController.m
+-[SummaryTableViewController setDisplayTableView:]
+/Users/sweeharng/Desktop/What's left?/What's left?/SummaryTableViewController.h
+-[SummaryTableViewController displayTableView]
+-[SummaryTableViewController setThisSettings:]
+-[SummaryTableViewController thisSettings]
+-[SummaryTableViewController setEditCellCont:]
+-[SummaryTableViewController editCellCont]
+-[SummaryTableViewController setAllSummaryCellsData:]
+-[SummaryTableViewController allSummaryCellsData]
+-[SummaryTableViewController setAllSummaryCells:]
+-[SummaryTableViewController allSummaryCells]
+-[SummaryTableViewController setHundredRelativePts:]
+-[SummaryTableViewController hundredRelativePts]
+-[SummaryTableViewController setScreen:]
+-[SummaryTableViewController screen]
+-[SummaryTableViewController setNoOfRows:]
+-[SummaryTableViewController noOfRows]
+-[SummaryTableViewController LoadCells]
+-[SummaryTableViewController SaveCells]
+-[SummaryTableViewController ReplaceCell:withreplacementIndex:]
+-[SummaryTableViewController SizingMisc]
+-[SummaryTableViewController AddSummaryCell]
+-[SummaryTableViewController tableView:commitEditingStyle:forRowAtIndexPath:]
+-[SummaryTableViewController tableView:canEditRowAtIndexPath:]
+-[SummaryTableViewController tableView:didSelectRowAtIndexPath:]
+-[SummaryTableViewController tableView:cellForRowAtIndexPath:]
+-[SummaryTableViewController tableView:numberOfRowsInSection:]
+-[SummaryTableViewController numberOfSectionsInTableView:]
+-[SummaryTableViewController reloadData]
+-[SummaryTableViewController didReceiveMemoryWarning]
+-[SummaryTableViewController viewWillAppear:]
+-[SummaryTableViewController viewDidLoad]
+-[SummaryTableViewController init]
+-[SliceLayer description]
++[SliceLayer needsDisplayForKey:]
+-[SliceLayer initWithLayer:]
+-[SliceLayer createArcAnimationForKey:fromValue:toValue:Delegate:]
+-[SliceLayer text]
+-[SliceLayer setText:]
+-[SliceLayer value]
+-[SliceLayer setValue:]
+-[SliceLayer percentage]
+-[SliceLayer setPercentage:]
+-[SliceLayer startAngle]
+-[SliceLayer setStartAngle:]
+-[SliceLayer endAngle]
+-[SliceLayer setEndAngle:]
+-[SliceLayer isSelected]
+-[SliceLayer setIsSelected:]
+-[SliceLayer .cxx_destruct]
+-[XYPieChart initWithFrame:]
+-[XYPieChart initWithFrame:Center:Radius:]
+-[XYPieChart initWithCoder:]
+-[XYPieChart setPieCenter:]
+-[XYPieChart setPieRadius:]
+-[XYPieChart setPieBackgroundColor:]
+-[XYPieChart setShowPercentage:]
+-[XYPieChart reloadData]
+__24-[XYPieChart reloadData]_block_invoke
+__Block_byref_object_copy_
+__Block_byref_object_dispose_
+__24-[XYPieChart reloadData]_block_invoke219
+-[XYPieChart updateTimerFired:]
+__31-[XYPieChart updateTimerFired:]_block_invoke
+__copy_helper_block_229
+__destroy_helper_block_230
+-[XYPieChart animationDidStart:]
+-[XYPieChart animationDidStop:finished:]
+-[XYPieChart getCurrentSelectedOnTouch:]
+__40-[XYPieChart getCurrentSelectedOnTouch:]_block_invoke
+__copy_helper_block_255
+__destroy_helper_block_256
+-[XYPieChart touchesBegan:withEvent:]
+-[XYPieChart touchesMoved:withEvent:]
+-[XYPieChart touchesEnded:withEvent:]
+-[XYPieChart touchesCancelled:withEvent:]
+-[XYPieChart notifyDelegateOfSelectionChangeFrom:to:]
+-[XYPieChart setSliceSelectedAtIndex:]
+-[XYPieChart setSliceDeselectedAtIndex:]
+-[XYPieChart createSliceLayer]
+-[XYPieChart updateLabelForLayer:value:]
+-[XYPieChart dataSource]
+-[XYPieChart setDataSource:]
+-[XYPieChart delegate]
+-[XYPieChart setDelegate:]
+-[XYPieChart startPieAngle]
+-[XYPieChart setStartPieAngle:]
+-[XYPieChart animationSpeed]
+-[XYPieChart setAnimationSpeed:]
+-[XYPieChart pieCenter]
+-[XYPieChart pieRadius]
+-[XYPieChart showLabel]
+-[XYPieChart setShowLabel:]
+-[XYPieChart labelFont]
+-[XYPieChart setLabelFont:]
+-[XYPieChart labelColor]
+-[XYPieChart setLabelColor:]
+-[XYPieChart labelShadowColor]
+-[XYPieChart setLabelShadowColor:]
+-[XYPieChart labelRadius]
+-[XYPieChart setLabelRadius:]
+-[XYPieChart selectedSliceStroke]
+-[XYPieChart setSelectedSliceStroke:]
+-[XYPieChart selectedSliceOffsetRadius]
+-[XYPieChart setSelectedSliceOffsetRadius:]
+-[XYPieChart showPercentage]
+-[XYPieChart .cxx_destruct]
+OBJC_IVAR_$_SliceLayer._value
+OBJC_IVAR_$_SliceLayer._percentage
+OBJC_IVAR_$_SliceLayer._startAngle
+OBJC_IVAR_$_SliceLayer._endAngle
+.str1
+_unnamed_cfstring_2
+.str5
+_unnamed_cfstring_6
+OBJC_METACLASS_$_SliceLayer
+OBJC_CLASS_$_SliceLayer
+OBJC_CLASSLIST_SUP_REFS_$_9
+OBJC_METH_VAR_NAME_10
+OBJC_SELECTOR_REFERENCES_11
+OBJC_CLASSLIST_REFERENCES_$_12
+OBJC_CLASSLIST_REFERENCES_$_38
+OBJC_IVAR_$_SliceLayer._text
+OBJC_IVAR_$_SliceLayer._isSelected
+l_OBJC_$_CLASS_METHODS_SliceLayer
+l_OBJC_METACLASS_RO_$_SliceLayer
+OBJC_CLASS_NAME_47
+OBJC_METH_VAR_TYPE_49
+OBJC_METH_VAR_TYPE_50
+OBJC_METH_VAR_TYPE_52
+OBJC_METH_VAR_TYPE_54
+OBJC_METH_VAR_TYPE_57
+OBJC_METH_VAR_TYPE_59
+OBJC_METH_VAR_TYPE_61
+OBJC_METH_VAR_TYPE_64
+OBJC_METH_VAR_TYPE_65
+OBJC_METH_VAR_TYPE_67
+OBJC_METH_VAR_TYPE_69
+l_OBJC_$_INSTANCE_METHODS_SliceLayer
+OBJC_METH_VAR_TYPE_71
+OBJC_METH_VAR_TYPE_75
+OBJC_METH_VAR_TYPE_78
+l_OBJC_$_INSTANCE_VARIABLES_SliceLayer
+OBJC_PROP_NAME_ATTR_80
+OBJC_PROP_NAME_ATTR_81
+OBJC_PROP_NAME_ATTR_82
+OBJC_PROP_NAME_ATTR_83
+OBJC_PROP_NAME_ATTR_84
+OBJC_PROP_NAME_ATTR_85
+OBJC_PROP_NAME_ATTR_86
+OBJC_PROP_NAME_ATTR_87
+OBJC_PROP_NAME_ATTR_88
+OBJC_PROP_NAME_ATTR_89
+OBJC_PROP_NAME_ATTR_90
+l_OBJC_$_PROP_LIST_SliceLayer
+l_OBJC_CLASS_RO_$_SliceLayer
+OBJC_CLASS_$_XYPieChart
+OBJC_CLASSLIST_SUP_REFS_$_91
+OBJC_METH_VAR_NAME_92
+OBJC_SELECTOR_REFERENCES_93
+OBJC_IVAR_$_XYPieChart._pieView
+OBJC_IVAR_$_XYPieChart._selectedSliceIndex
+OBJC_IVAR_$_XYPieChart._animations
+OBJC_IVAR_$_XYPieChart._animationSpeed
+OBJC_IVAR_$_XYPieChart._startPieAngle
+OBJC_IVAR_$_XYPieChart._selectedSliceStroke
+OBJC_CLASSLIST_REFERENCES_$_111
+OBJC_METH_VAR_NAME_112
+OBJC_SELECTOR_REFERENCES_113
+OBJC_SELECTOR_REFERENCES_117
+OBJC_SELECTOR_REFERENCES_119
+OBJC_IVAR_$_XYPieChart._labelColor
+OBJC_IVAR_$_XYPieChart._pieRadius
+OBJC_IVAR_$_XYPieChart._labelRadius
+OBJC_IVAR_$_XYPieChart._selectedSliceOffsetRadius
+OBJC_IVAR_$_XYPieChart._showLabel
+OBJC_IVAR_$_XYPieChart._showPercentage
+OBJC_METH_VAR_NAME_120
+OBJC_SELECTOR_REFERENCES_121
+OBJC_METH_VAR_NAME_122
+OBJC_SELECTOR_REFERENCES_123
+OBJC_SELECTOR_REFERENCES_125
+OBJC_METH_VAR_NAME_126
+OBJC_SELECTOR_REFERENCES_127
+OBJC_IVAR_$_XYPieChart._pieCenter
+OBJC_SELECTOR_REFERENCES_133
+OBJC_METH_VAR_NAME_134
+OBJC_SELECTOR_REFERENCES_135
+OBJC_SELECTOR_REFERENCES_139
+OBJC_METH_VAR_NAME_140
+OBJC_SELECTOR_REFERENCES_141
+OBJC_METH_VAR_NAME_142
+OBJC_SELECTOR_REFERENCES_143
+.str144
+_unnamed_cfstring_145
+OBJC_SELECTOR_REFERENCES_146
+OBJC_SELECTOR_REFERENCES_148
+OBJC_SELECTOR_REFERENCES_150
+OBJC_SELECTOR_REFERENCES_152
+.str153
+_unnamed_cfstring_154
+OBJC_IVAR_$_XYPieChart._dataSource
+OBJC_SELECTOR_REFERENCES_159
+OBJC_METH_VAR_NAME_160
+OBJC_SELECTOR_REFERENCES_161
+.str162
+OBJC_METH_VAR_NAME_163
+OBJC_SELECTOR_REFERENCES_164
+OBJC_METH_VAR_NAME_165
+OBJC_SELECTOR_REFERENCES_166
+OBJC_SELECTOR_REFERENCES_168
+OBJC_CLASSLIST_REFERENCES_$_169
+OBJC_SELECTOR_REFERENCES_171
+OBJC_SELECTOR_REFERENCES_173
+OBJC_SELECTOR_REFERENCES_175
+OBJC_SELECTOR_REFERENCES_177
+OBJC_SELECTOR_REFERENCES_179
+OBJC_SELECTOR_REFERENCES_181
+OBJC_CLASSLIST_REFERENCES_$_182
+OBJC_SELECTOR_REFERENCES_184
+OBJC_SELECTOR_REFERENCES_198
+OBJC_SELECTOR_REFERENCES_199
+OBJC_METH_VAR_NAME_200
+OBJC_SELECTOR_REFERENCES_201
+OBJC_SELECTOR_REFERENCES_203
+OBJC_SELECTOR_REFERENCES_205
+OBJC_METH_VAR_NAME_206
+OBJC_SELECTOR_REFERENCES_207
+OBJC_SELECTOR_REFERENCES_209
+OBJC_SELECTOR_REFERENCES_212
+OBJC_METH_VAR_NAME_213
+OBJC_SELECTOR_REFERENCES_214
+OBJC_SELECTOR_REFERENCES_216
+OBJC_SELECTOR_REFERENCES_218
+__block_descriptor_tmp220
+__block_literal_global
+OBJC_SELECTOR_REFERENCES_222
+OBJC_SELECTOR_REFERENCES_224
+OBJC_SELECTOR_REFERENCES_226
+OBJC_SELECTOR_REFERENCES_228
+.str231
+__block_descriptor_tmp232
+OBJC_IVAR_$_XYPieChart._animationTimer
+OBJC_CLASSLIST_REFERENCES_$_233
+OBJC_SELECTOR_REFERENCES_235
+OBJC_SELECTOR_REFERENCES_237
+OBJC_CLASSLIST_REFERENCES_$_238
+OBJC_SELECTOR_REFERENCES_240
+OBJC_SELECTOR_REFERENCES_242
+OBJC_SELECTOR_REFERENCES_244
+OBJC_METH_VAR_NAME_245
+OBJC_SELECTOR_REFERENCES_246
+OBJC_METH_VAR_NAME_247
+OBJC_SELECTOR_REFERENCES_248
+OBJC_SELECTOR_REFERENCES_250
+OBJC_METH_VAR_NAME_251
+OBJC_SELECTOR_REFERENCES_252
+OBJC_SELECTOR_REFERENCES_254
+__block_descriptor_tmp257
+OBJC_METH_VAR_NAME_258
+OBJC_SELECTOR_REFERENCES_259
+OBJC_SELECTOR_REFERENCES_261
+OBJC_SELECTOR_REFERENCES_263
+OBJC_METH_VAR_NAME_264
+OBJC_SELECTOR_REFERENCES_265
+OBJC_METH_VAR_NAME_266
+OBJC_SELECTOR_REFERENCES_267
+OBJC_METH_VAR_NAME_268
+OBJC_SELECTOR_REFERENCES_269
+OBJC_IVAR_$_XYPieChart._delegate
+OBJC_SELECTOR_REFERENCES_271
+OBJC_SELECTOR_REFERENCES_273
+OBJC_SELECTOR_REFERENCES_275
+OBJC_METH_VAR_NAME_276
+OBJC_SELECTOR_REFERENCES_277
+OBJC_SELECTOR_REFERENCES_279
+OBJC_SELECTOR_REFERENCES_281
+OBJC_SELECTOR_REFERENCES_282
+OBJC_CLASSLIST_REFERENCES_$_283
+OBJC_CLASSLIST_REFERENCES_$_284
+OBJC_METH_VAR_NAME_285
+OBJC_SELECTOR_REFERENCES_286
+OBJC_METH_VAR_NAME_287
+OBJC_SELECTOR_REFERENCES_288
+OBJC_SELECTOR_REFERENCES_290
+OBJC_CLASSLIST_REFERENCES_$_291
+OBJC_SELECTOR_REFERENCES_293
+OBJC_SELECTOR_REFERENCES_295
+OBJC_SELECTOR_REFERENCES_297
+OBJC_SELECTOR_REFERENCES_299
+OBJC_SELECTOR_REFERENCES_301
+OBJC_SELECTOR_REFERENCES_303
+OBJC_SELECTOR_REFERENCES_305
+OBJC_SELECTOR_REFERENCES_307
+OBJC_METH_VAR_NAME_308
+OBJC_SELECTOR_REFERENCES_309
+OBJC_SELECTOR_REFERENCES_311
+OBJC_SELECTOR_REFERENCES_313
+OBJC_METH_VAR_NAME_314
+OBJC_SELECTOR_REFERENCES_315
+OBJC_SELECTOR_REFERENCES_317
+OBJC_METH_VAR_NAME_318
+OBJC_SELECTOR_REFERENCES_319
+OBJC_METH_VAR_NAME_320
+OBJC_SELECTOR_REFERENCES_321
+OBJC_SELECTOR_REFERENCES_323
+.str324
+_unnamed_cfstring_325
+OBJC_IVAR_$_XYPieChart._labelFont
+OBJC_IVAR_$_XYPieChart._labelShadowColor
+OBJC_CLASS_NAME_326
+l_OBJC_METACLASS_RO_$_XYPieChart
+OBJC_METACLASS_$_XYPieChart
+OBJC_CLASS_NAME_327
+OBJC_METH_VAR_TYPE_328
+OBJC_METH_VAR_TYPE_330
+OBJC_METH_VAR_TYPE_331
+OBJC_METH_VAR_NAME_332
+OBJC_METH_VAR_NAME_334
+OBJC_METH_VAR_TYPE_337
+OBJC_METH_VAR_TYPE_338
+OBJC_METH_VAR_NAME_339
+OBJC_METH_VAR_TYPE_342
+OBJC_METH_VAR_TYPE_343
+OBJC_METH_VAR_NAME_345
+OBJC_METH_VAR_NAME_347
+OBJC_METH_VAR_NAME_348
+OBJC_METH_VAR_NAME_351
+OBJC_METH_VAR_NAME_355
+OBJC_METH_VAR_NAME_356
+OBJC_METH_VAR_NAME_358
+OBJC_METH_VAR_NAME_359
+OBJC_METH_VAR_NAME_363
+OBJC_METH_VAR_NAME_364
+l_OBJC_$_INSTANCE_METHODS_XYPieChart
+OBJC_METH_VAR_NAME_367
+OBJC_METH_VAR_TYPE_368
+OBJC_METH_VAR_TYPE_370
+OBJC_METH_VAR_NAME_374
+OBJC_METH_VAR_NAME_377
+OBJC_METH_VAR_TYPE_378
+OBJC_METH_VAR_NAME_379
+OBJC_METH_VAR_NAME_381
+OBJC_METH_VAR_NAME_382
+OBJC_METH_VAR_TYPE_383
+OBJC_METH_VAR_NAME_384
+OBJC_METH_VAR_TYPE_385
+OBJC_METH_VAR_NAME_386
+OBJC_METH_VAR_NAME_387
+OBJC_METH_VAR_NAME_389
+OBJC_METH_VAR_NAME_390
+OBJC_METH_VAR_TYPE_391
+l_OBJC_$_INSTANCE_VARIABLES_XYPieChart
+OBJC_CLASS_NAME_392
+OBJC_PROP_NAME_ATTR_393
+OBJC_PROP_NAME_ATTR_394
+OBJC_PROP_NAME_ATTR_395
+OBJC_PROP_NAME_ATTR_396
+OBJC_PROP_NAME_ATTR_397
+OBJC_PROP_NAME_ATTR_398
+OBJC_PROP_NAME_ATTR_399
+OBJC_PROP_NAME_ATTR_400
+OBJC_PROP_NAME_ATTR_401
+OBJC_PROP_NAME_ATTR_402
+OBJC_PROP_NAME_ATTR_403
+OBJC_PROP_NAME_ATTR_404
+OBJC_PROP_NAME_ATTR_405
+OBJC_PROP_NAME_ATTR_406
+OBJC_PROP_NAME_ATTR_407
+OBJC_PROP_NAME_ATTR_408
+OBJC_PROP_NAME_ATTR_409
+OBJC_PROP_NAME_ATTR_410
+OBJC_PROP_NAME_ATTR_411
+OBJC_PROP_NAME_ATTR_412
+OBJC_PROP_NAME_ATTR_413
+OBJC_PROP_NAME_ATTR_414
+OBJC_PROP_NAME_ATTR_415
+OBJC_PROP_NAME_ATTR_416
+OBJC_PROP_NAME_ATTR_417
+OBJC_PROP_NAME_ATTR_418
+OBJC_PROP_NAME_ATTR_419
+l_OBJC_$_PROP_LIST_XYPieChart
+l_OBJC_CLASS_RO_$_XYPieChart
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/CoreFoundation-10I2D2XL7L7X9.pcm
+CoreFoundation
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/QuartzCore-3I7S0M4UEAD0U.pcm
+QuartzCore
+CGPathCreateArc
+/Users/sweeharng/Desktop/What's left?/What's left?/XYPieChart/XYPieChart.m
+CGPointMake
+-[XYPieChart .cxx_destruct]
+-[XYPieChart showPercentage]
+/Users/sweeharng/Desktop/What's left?/What's left?/XYPieChart/XYPieChart.h
+-[XYPieChart setSelectedSliceOffsetRadius:]
+-[XYPieChart selectedSliceOffsetRadius]
+-[XYPieChart setSelectedSliceStroke:]
+-[XYPieChart selectedSliceStroke]
+-[XYPieChart setLabelRadius:]
+-[XYPieChart labelRadius]
+-[XYPieChart setLabelShadowColor:]
+-[XYPieChart labelShadowColor]
+-[XYPieChart setLabelColor:]
+-[XYPieChart labelColor]
+-[XYPieChart setLabelFont:]
+-[XYPieChart labelFont]
+-[XYPieChart setShowLabel:]
+-[XYPieChart showLabel]
+-[XYPieChart pieRadius]
+-[XYPieChart pieCenter]
+-[XYPieChart setAnimationSpeed:]
+-[XYPieChart animationSpeed]
+-[XYPieChart setStartPieAngle:]
+-[XYPieChart startPieAngle]
+-[XYPieChart setDelegate:]
+-[XYPieChart delegate]
+-[XYPieChart setDataSource:]
+-[XYPieChart dataSource]
+-[XYPieChart updateLabelForLayer:value:]
+-[XYPieChart createSliceLayer]
+-[XYPieChart setSliceDeselectedAtIndex:]
+-[XYPieChart setSliceSelectedAtIndex:]
+-[XYPieChart notifyDelegateOfSelectionChangeFrom:to:]
+-[XYPieChart touchesCancelled:withEvent:]
+-[XYPieChart touchesEnded:withEvent:]
+-[XYPieChart touchesMoved:withEvent:]
+-[XYPieChart touchesBegan:withEvent:]
+-[XYPieChart getCurrentSelectedOnTouch:]
+-[XYPieChart animationDidStop:finished:]
+-[XYPieChart animationDidStart:]
+-[XYPieChart updateTimerFired:]
+-[XYPieChart reloadData]
+-[XYPieChart setShowPercentage:]
+-[XYPieChart setPieBackgroundColor:]
+-[XYPieChart setPieRadius:]
+-[XYPieChart setPieCenter:]
+-[XYPieChart initWithCoder:]
+-[XYPieChart initWithFrame:Center:Radius:]
+-[XYPieChart initWithFrame:]
+-[SliceLayer .cxx_destruct]
+-[SliceLayer setIsSelected:]
+-[SliceLayer isSelected]
+-[SliceLayer setEndAngle:]
+-[SliceLayer endAngle]
+-[SliceLayer setStartAngle:]
+-[SliceLayer startAngle]
+-[SliceLayer setPercentage:]
+-[SliceLayer percentage]
+-[SliceLayer setValue:]
+-[SliceLayer value]
+-[SliceLayer setText:]
+-[SliceLayer text]
+-[SliceLayer createArcAnimationForKey:fromValue:toValue:Delegate:]
+-[SliceLayer initWithLayer:]
++[SliceLayer needsDisplayForKey:]
+-[SliceLayer description]
+-[TagCell awakeFromNib]
+-[TagCell setSelected:animated:]
+OBJC_CLASS_$_TagCell
+l_OBJC_METACLASS_RO_$_TagCell
+OBJC_METACLASS_$_TagCell
+OBJC_METH_VAR_TYPE_2
+l_OBJC_$_INSTANCE_METHODS_TagCell
+l_OBJC_CLASS_RO_$_TagCell
+-[TagCell setSelected:animated:]
+/Users/sweeharng/Desktop/What's left?/What's left?/TagCell.m
+-[TagCell awakeFromNib]
+-[AddEventViewController init]
+-[AddEventViewController viewDidLoad]
+-[AddEventViewController viewWillAppear:]
+-[AddEventViewController didReceiveMemoryWarning]
+-[AddEventViewController SegmentContChange:]
+-[AddEventViewController AddTag:]
+-[AddEventViewController AddEventToBank:]
+-[AddEventViewController touchesBegan:withEvent:]
+-[AddEventViewController EditOrAdd]
+-[AddEventViewController AddEventMode]
+-[AddEventViewController EditEventMode:]
+-[AddEventViewController AddSpecifiedEvent:]
+-[AddEventViewController LoadDisplayTags]
+-[AddEventViewController SizingMisc]
+-[AddEventViewController tableView:numberOfRowsInSection:]
+-[AddEventViewController numberOfSectionsInTableView:]
+-[AddEventViewController tableView:cellForRowAtIndexPath:]
+-[AddEventViewController tableView:canEditRowAtIndexPath:]
+-[AddEventViewController tableView:titleForHeaderInSection:]
+-[AddEventViewController tableView:commitEditingStyle:forRowAtIndexPath:]
+__73-[AddEventViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke
+__73-[AddEventViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke236
+__copy_helper_block_239
+__destroy_helper_block_240
+-[AddEventViewController tableView:didSelectRowAtIndexPath:]
+-[AddEventViewController textField:shouldChangeCharactersInRange:replacementString:]
+-[AddEventViewController textFieldShouldReturn:]
+-[AddEventViewController cancelNumberPad]
+-[AddEventViewController doneWithNumberPad]
+-[AddEventViewController addDoneAndCancelBar]
+-[AddEventViewController ModeControl]
+-[AddEventViewController setModeControl:]
+-[AddEventViewController NameField]
+-[AddEventViewController setNameField:]
+-[AddEventViewController AmountField]
+-[AddEventViewController setAmountField:]
+-[AddEventViewController datePicker]
+-[AddEventViewController setDatePicker:]
+-[AddEventViewController AddTagField]
+-[AddEventViewController setAddTagField:]
+-[AddEventViewController thisSettings]
+-[AddEventViewController setThisSettings:]
+-[AddEventViewController AddTagButton]
+-[AddEventViewController setAddTagButton:]
+-[AddEventViewController hundredRelativePts]
+-[AddEventViewController setHundredRelativePts:]
+-[AddEventViewController screen]
+-[AddEventViewController setScreen:]
+-[AddEventViewController TagsTableView]
+-[AddEventViewController setTagsTableView:]
+-[AddEventViewController editMode]
+-[AddEventViewController setEditMode:]
+-[AddEventViewController tagsToDisplay]
+-[AddEventViewController setTagsToDisplay:]
+-[AddEventViewController eventType]
+-[AddEventViewController setEventType:]
+-[AddEventViewController AddFavMode]
+-[AddEventViewController setAddFavMode:]
+-[AddEventViewController tabBarHeight]
+-[AddEventViewController setTabBarHeight:]
+-[AddEventViewController delegate]
+-[AddEventViewController setDelegate:]
+-[AddEventViewController .cxx_destruct]
+OBJC_IVAR_$_AddEventViewController.thisSettings
+OBJC_IVAR_$_AddEventViewController.eventType
+OBJC_IVAR_$_AddEventViewController.ModeControl
+OBJC_IVAR_$_AddEventViewController.containedTags
+OBJC_IVAR_$_AddEventViewController.tagsToDisplay
+OBJC_IVAR_$_AddEventViewController.editMode
+OBJC_IVAR_$_AddEventViewController.TagsTableView
+OBJC_IVAR_$_AddEventViewController.NameField
+OBJC_IVAR_$_AddEventViewController.AmountField
+OBJC_IVAR_$_AddEventViewController.AddTagField
+OBJC_CLASSLIST_REFERENCES_$_20
+OBJC_CLASSLIST_REFERENCES_$_28
+OBJC_METH_VAR_NAME_29
+OBJC_SELECTOR_REFERENCES_30
+OBJC_CLASSLIST_REFERENCES_$_31
+.str36
+_unnamed_cfstring_37
+.str38
+_unnamed_cfstring_39
+OBJC_IVAR_$_AddEventViewController.datePicker
+.str44
+_unnamed_cfstring_45
+.str48
+_unnamed_cfstring_49
+OBJC_CLASS_$_AddEventViewController
+OBJC_IVAR_$_AddEventViewController.AddFavMode
+.str70
+_unnamed_cfstring_71
+OBJC_SELECTOR_REFERENCES_77
+OBJC_SELECTOR_REFERENCES_81
+OBJC_SELECTOR_REFERENCES_85
+OBJC_METH_VAR_NAME_86
+OBJC_SELECTOR_REFERENCES_87
+OBJC_METH_VAR_NAME_88
+OBJC_SELECTOR_REFERENCES_89
+.str102
+_unnamed_cfstring_103
+OBJC_SELECTOR_REFERENCES_105
+OBJC_METH_VAR_NAME_106
+OBJC_SELECTOR_REFERENCES_107
+OBJC_METH_VAR_NAME_108
+OBJC_SELECTOR_REFERENCES_109
+OBJC_METH_VAR_NAME_110
+OBJC_SELECTOR_REFERENCES_111
+OBJC_IVAR_$_AddEventViewController.EventInEdit
+OBJC_CLASSLIST_REFERENCES_$_136
+OBJC_METH_VAR_NAME_137
+OBJC_SELECTOR_REFERENCES_138
+OBJC_METH_VAR_NAME_139
+OBJC_SELECTOR_REFERENCES_140
+OBJC_METH_VAR_NAME_143
+OBJC_SELECTOR_REFERENCES_144
+OBJC_CLASSLIST_REFERENCES_$_145
+OBJC_CLASSLIST_REFERENCES_$_148
+OBJC_SELECTOR_REFERENCES_154
+OBJC_SELECTOR_REFERENCES_160
+OBJC_CLASSLIST_REFERENCES_$_161
+_unnamed_cfstring_163
+OBJC_SELECTOR_REFERENCES_165
+OBJC_SELECTOR_REFERENCES_167
+OBJC_METH_VAR_NAME_168
+OBJC_SELECTOR_REFERENCES_169
+OBJC_CLASSLIST_REFERENCES_$_174
+OBJC_SELECTOR_REFERENCES_176
+OBJC_IVAR_$_AddEventViewController.screen
+OBJC_SELECTOR_REFERENCES_178
+OBJC_IVAR_$_AddEventViewController.hundredRelativePts
+OBJC_METH_VAR_NAME_179
+OBJC_SELECTOR_REFERENCES_180
+OBJC_SELECTOR_REFERENCES_182
+OBJC_IVAR_$_AddEventViewController.AddTagButton
+OBJC_IVAR_$_AddEventViewController.tabBarHeight
+OBJC_CLASSLIST_REFERENCES_$_183
+.str194
+_unnamed_cfstring_195
+OBJC_METH_VAR_NAME_199
+OBJC_SELECTOR_REFERENCES_200
+OBJC_SELECTOR_REFERENCES_206
+OBJC_SELECTOR_REFERENCES_208
+.str209
+_unnamed_cfstring_210
+OBJC_CLASSLIST_REFERENCES_$_211
+.str212
+_unnamed_cfstring_213
+.str214
+_unnamed_cfstring_215
+OBJC_SELECTOR_REFERENCES_217
+OBJC_CLASSLIST_REFERENCES_$_218
+.str219
+_unnamed_cfstring_220
+OBJC_SELECTOR_REFERENCES_230
+OBJC_SELECTOR_REFERENCES_233
+.str234
+_unnamed_cfstring_235
+OBJC_METH_VAR_NAME_237
+OBJC_SELECTOR_REFERENCES_238
+__block_descriptor_tmp241
+OBJC_SELECTOR_REFERENCES_243
+OBJC_SELECTOR_REFERENCES_245
+OBJC_SELECTOR_REFERENCES_247
+OBJC_CLASSLIST_REFERENCES_$_248
+OBJC_SELECTOR_REFERENCES_256
+OBJC_SELECTOR_REFERENCES_258
+OBJC_SELECTOR_REFERENCES_260
+OBJC_SELECTOR_REFERENCES_262
+OBJC_SELECTOR_REFERENCES_264
+OBJC_SELECTOR_REFERENCES_266
+OBJC_SELECTOR_REFERENCES_268
+OBJC_SELECTOR_REFERENCES_270
+OBJC_METH_VAR_NAME_271
+OBJC_SELECTOR_REFERENCES_272
+OBJC_CLASSLIST_REFERENCES_$_273
+OBJC_SELECTOR_REFERENCES_283
+OBJC_SELECTOR_REFERENCES_285
+.str286
+_unnamed_cfstring_287
+OBJC_SELECTOR_REFERENCES_289
+OBJC_CLASSLIST_REFERENCES_$_290
+OBJC_METH_VAR_NAME_291
+OBJC_SELECTOR_REFERENCES_292
+OBJC_METH_VAR_NAME_293
+OBJC_SELECTOR_REFERENCES_294
+OBJC_SELECTOR_REFERENCES_296
+OBJC_SELECTOR_REFERENCES_298
+OBJC_IVAR_$_AddEventViewController._delegate
+OBJC_METH_VAR_TYPE_300
+OBJC_METH_VAR_TYPE_302
+OBJC_METH_VAR_TYPE_303
+OBJC_METH_VAR_NAME_307
+OBJC_METH_VAR_TYPE_313
+OBJC_METH_VAR_TYPE_316
+OBJC_METH_VAR_TYPE_319
+OBJC_METH_VAR_NAME_321
+OBJC_METH_VAR_TYPE_322
+OBJC_METH_VAR_TYPE_323
+OBJC_METH_VAR_TYPE_325
+OBJC_METH_VAR_TYPE_329
+OBJC_METH_VAR_TYPE_333
+OBJC_METH_VAR_TYPE_335
+OBJC_METH_VAR_NAME_340
+OBJC_METH_VAR_TYPE_341
+OBJC_METH_VAR_NAME_344
+OBJC_METH_VAR_TYPE_346
+OBJC_METH_VAR_TYPE_350
+OBJC_CLASS_NAME_361
+OBJC_PROP_NAME_ATTR_362
+OBJC_PROP_NAME_ATTR_363
+OBJC_PROP_NAME_ATTR_364
+OBJC_PROP_NAME_ATTR_365
+OBJC_PROP_NAME_ATTR_366
+OBJC_PROP_NAME_ATTR_367
+OBJC_METH_VAR_TYPE_369
+OBJC_METH_VAR_TYPE_371
+OBJC_METH_VAR_NAME_376
+OBJC_METH_VAR_TYPE_381
+OBJC_METH_VAR_TYPE_382
+OBJC_METH_VAR_TYPE_388
+OBJC_METH_VAR_TYPE_392
+OBJC_METH_VAR_TYPE_395
+OBJC_METH_VAR_NAME_396
+OBJC_METH_VAR_TYPE_400
+OBJC_METH_VAR_TYPE_406
+OBJC_METH_VAR_TYPE_408
+OBJC_METH_VAR_NAME_411
+OBJC_METH_VAR_NAME_412
+OBJC_METH_VAR_NAME_415
+OBJC_METH_VAR_NAME_416
+OBJC_METH_VAR_NAME_417
+OBJC_METH_VAR_TYPE_419
+OBJC_METH_VAR_NAME_420
+OBJC_METH_VAR_TYPE_421
+OBJC_METH_VAR_TYPE_422
+OBJC_METH_VAR_NAME_423
+OBJC_METH_VAR_NAME_424
+OBJC_METH_VAR_TYPE_425
+OBJC_METH_VAR_NAME_426
+OBJC_METH_VAR_TYPE_427
+OBJC_METH_VAR_NAME_428
+OBJC_METH_VAR_TYPE_429
+OBJC_CLASS_NAME_430
+OBJC_METH_VAR_NAME_431
+OBJC_METH_VAR_TYPE_432
+OBJC_METH_VAR_TYPE_433
+OBJC_METH_VAR_NAME_434
+OBJC_METH_VAR_NAME_435
+OBJC_METH_VAR_NAME_436
+OBJC_METH_VAR_TYPE_437
+OBJC_METH_VAR_TYPE_438
+OBJC_METH_VAR_NAME_439
+OBJC_METH_VAR_TYPE_440
+OBJC_METH_VAR_TYPE_441
+OBJC_METH_VAR_NAME_442
+OBJC_METH_VAR_NAME_443
+OBJC_METH_VAR_NAME_444
+OBJC_METH_VAR_NAME_445
+OBJC_METH_VAR_TYPE_446
+OBJC_METH_VAR_NAME_447
+OBJC_METH_VAR_TYPE_448
+OBJC_METH_VAR_NAME_449
+OBJC_METH_VAR_TYPE_450
+OBJC_METH_VAR_TYPE_451
+OBJC_METH_VAR_NAME_452
+OBJC_METH_VAR_TYPE_453
+OBJC_METH_VAR_NAME_454
+OBJC_CLASS_NAME_455
+OBJC_METH_VAR_NAME_456
+OBJC_METH_VAR_TYPE_457
+OBJC_METH_VAR_NAME_458
+OBJC_METH_VAR_TYPE_459
+OBJC_METH_VAR_NAME_460
+OBJC_METH_VAR_NAME_461
+OBJC_METH_VAR_NAME_462
+OBJC_METH_VAR_TYPE_463
+OBJC_METH_VAR_TYPE_464
+OBJC_METH_VAR_NAME_465
+OBJC_METH_VAR_NAME_466
+OBJC_CLASS_NAME_467
+l_OBJC_$_PROTOCOL_REFS_UITextFieldDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UITextFieldDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UITextFieldDelegate
+l_OBJC_PROTOCOL_$_UITextFieldDelegate
+l_OBJC_LABEL_PROTOCOL_$_UITextFieldDelegate
+l_OBJC_CLASS_PROTOCOLS_$_AddEventViewController
+l_OBJC_METACLASS_RO_$_AddEventViewController
+OBJC_METACLASS_$_AddEventViewController
+OBJC_CLASS_NAME_468
+OBJC_METH_VAR_TYPE_469
+OBJC_METH_VAR_NAME_470
+OBJC_METH_VAR_TYPE_471
+OBJC_METH_VAR_NAME_472
+OBJC_METH_VAR_NAME_473
+OBJC_METH_VAR_NAME_474
+OBJC_METH_VAR_NAME_475
+OBJC_METH_VAR_NAME_476
+OBJC_METH_VAR_NAME_477
+OBJC_METH_VAR_NAME_478
+OBJC_METH_VAR_NAME_479
+OBJC_METH_VAR_NAME_480
+OBJC_METH_VAR_NAME_481
+OBJC_METH_VAR_NAME_482
+OBJC_METH_VAR_NAME_483
+OBJC_METH_VAR_NAME_484
+OBJC_METH_VAR_NAME_485
+OBJC_METH_VAR_NAME_486
+OBJC_METH_VAR_NAME_487
+OBJC_METH_VAR_NAME_488
+OBJC_METH_VAR_NAME_489
+OBJC_METH_VAR_NAME_490
+OBJC_METH_VAR_NAME_491
+OBJC_METH_VAR_NAME_492
+OBJC_METH_VAR_TYPE_493
+OBJC_METH_VAR_NAME_494
+OBJC_METH_VAR_TYPE_495
+OBJC_METH_VAR_NAME_496
+OBJC_METH_VAR_NAME_497
+OBJC_METH_VAR_NAME_498
+OBJC_METH_VAR_NAME_499
+OBJC_METH_VAR_NAME_500
+OBJC_METH_VAR_NAME_501
+OBJC_METH_VAR_NAME_502
+OBJC_METH_VAR_NAME_503
+OBJC_METH_VAR_NAME_504
+OBJC_METH_VAR_NAME_505
+OBJC_METH_VAR_NAME_506
+OBJC_METH_VAR_NAME_507
+OBJC_METH_VAR_NAME_508
+l_OBJC_$_INSTANCE_METHODS_AddEventViewController
+OBJC_METH_VAR_NAME_509
+OBJC_METH_VAR_TYPE_510
+OBJC_METH_VAR_NAME_511
+OBJC_METH_VAR_TYPE_512
+OBJC_METH_VAR_TYPE_513
+OBJC_METH_VAR_TYPE_514
+OBJC_METH_VAR_TYPE_515
+OBJC_METH_VAR_TYPE_516
+OBJC_METH_VAR_TYPE_517
+OBJC_METH_VAR_TYPE_518
+OBJC_METH_VAR_TYPE_519
+OBJC_METH_VAR_TYPE_520
+OBJC_METH_VAR_TYPE_521
+OBJC_METH_VAR_NAME_522
+OBJC_METH_VAR_TYPE_523
+l_OBJC_$_INSTANCE_VARIABLES_AddEventViewController
+OBJC_CLASS_NAME_524
+OBJC_PROP_NAME_ATTR_525
+OBJC_PROP_NAME_ATTR_526
+OBJC_PROP_NAME_ATTR_527
+OBJC_PROP_NAME_ATTR_528
+OBJC_PROP_NAME_ATTR_529
+OBJC_PROP_NAME_ATTR_530
+OBJC_PROP_NAME_ATTR_531
+OBJC_PROP_NAME_ATTR_532
+OBJC_PROP_NAME_ATTR_533
+OBJC_PROP_NAME_ATTR_534
+OBJC_PROP_NAME_ATTR_535
+OBJC_PROP_NAME_ATTR_536
+OBJC_PROP_NAME_ATTR_537
+OBJC_PROP_NAME_ATTR_538
+OBJC_PROP_NAME_ATTR_539
+OBJC_PROP_NAME_ATTR_540
+OBJC_PROP_NAME_ATTR_541
+OBJC_PROP_NAME_ATTR_542
+OBJC_PROP_NAME_ATTR_543
+OBJC_PROP_NAME_ATTR_544
+OBJC_PROP_NAME_ATTR_545
+OBJC_PROP_NAME_ATTR_546
+OBJC_PROP_NAME_ATTR_547
+OBJC_PROP_NAME_ATTR_548
+OBJC_PROP_NAME_ATTR_549
+OBJC_PROP_NAME_ATTR_550
+OBJC_PROP_NAME_ATTR_551
+OBJC_PROP_NAME_ATTR_552
+OBJC_PROP_NAME_ATTR_553
+OBJC_PROP_NAME_ATTR_554
+OBJC_PROP_NAME_ATTR_555
+OBJC_PROP_NAME_ATTR_556
+l_OBJC_$_PROP_LIST_AddEventViewController
+l_OBJC_CLASS_RO_$_AddEventViewController
+-[AddEventViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/AddEventViewController.m
+-[AddEventViewController setDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/AddEventViewController.h
+-[AddEventViewController delegate]
+-[AddEventViewController setTabBarHeight:]
+-[AddEventViewController tabBarHeight]
+-[AddEventViewController setAddFavMode:]
+-[AddEventViewController AddFavMode]
+-[AddEventViewController setEventType:]
+-[AddEventViewController eventType]
+-[AddEventViewController setTagsToDisplay:]
+-[AddEventViewController tagsToDisplay]
+-[AddEventViewController setEditMode:]
+-[AddEventViewController editMode]
+-[AddEventViewController setTagsTableView:]
+-[AddEventViewController TagsTableView]
+-[AddEventViewController setScreen:]
+-[AddEventViewController screen]
+-[AddEventViewController setHundredRelativePts:]
+-[AddEventViewController hundredRelativePts]
+-[AddEventViewController setAddTagButton:]
+-[AddEventViewController AddTagButton]
+-[AddEventViewController setThisSettings:]
+-[AddEventViewController thisSettings]
+-[AddEventViewController setAddTagField:]
+-[AddEventViewController AddTagField]
+-[AddEventViewController setDatePicker:]
+-[AddEventViewController datePicker]
+-[AddEventViewController setAmountField:]
+-[AddEventViewController AmountField]
+-[AddEventViewController setNameField:]
+-[AddEventViewController NameField]
+-[AddEventViewController setModeControl:]
+-[AddEventViewController ModeControl]
+-[AddEventViewController addDoneAndCancelBar]
+-[AddEventViewController doneWithNumberPad]
+-[AddEventViewController cancelNumberPad]
+-[AddEventViewController textFieldShouldReturn:]
+-[AddEventViewController textField:shouldChangeCharactersInRange:replacementString:]
+-[AddEventViewController tableView:didSelectRowAtIndexPath:]
+-[AddEventViewController tableView:commitEditingStyle:forRowAtIndexPath:]
+-[AddEventViewController tableView:titleForHeaderInSection:]
+-[AddEventViewController tableView:canEditRowAtIndexPath:]
+-[AddEventViewController tableView:cellForRowAtIndexPath:]
+-[AddEventViewController numberOfSectionsInTableView:]
+-[AddEventViewController tableView:numberOfRowsInSection:]
+-[AddEventViewController SizingMisc]
+-[AddEventViewController LoadDisplayTags]
+-[AddEventViewController AddSpecifiedEvent:]
+-[AddEventViewController EditEventMode:]
+-[AddEventViewController AddEventMode]
+-[AddEventViewController EditOrAdd]
+-[AddEventViewController touchesBegan:withEvent:]
+-[AddEventViewController AddEventToBank:]
+-[AddEventViewController AddTag:]
+-[AddEventViewController SegmentContChange:]
+-[AddEventViewController didReceiveMemoryWarning]
+-[AddEventViewController viewWillAppear:]
+-[AddEventViewController viewDidLoad]
+-[AddEventViewController init]
+-[SearchTableViewController viewDidLoad]
+-[SearchTableViewController didReceiveMemoryWarning]
+-[SearchTableViewController tableView:numberOfRowsInSection:]
+-[SearchTableViewController numberOfSectionsInTableView:]
+-[SearchTableViewController tableView:cellForRowAtIndexPath:]
+-[SearchTableViewController tableView:canEditRowAtIndexPath:]
+-[SearchTableViewController tableView:titleForHeaderInSection:]
+-[SearchTableViewController tableView:didSelectRowAtIndexPath:]
+-[SearchTableViewController SizingMisc]
+-[SearchTableViewController hundredRelativePts]
+-[SearchTableViewController setHundredRelativePts:]
+-[SearchTableViewController screen]
+-[SearchTableViewController setScreen:]
+-[SearchTableViewController .cxx_destruct]
+OBJC_CLASS_$_SearchTableViewController
+OBJC_IVAR_$_SearchTableViewController.screen
+OBJC_IVAR_$_SearchTableViewController.hundredRelativePts
+l_OBJC_METACLASS_RO_$_SearchTableViewController
+OBJC_METACLASS_$_SearchTableViewController
+OBJC_CLASS_NAME_16
+OBJC_METH_VAR_TYPE_22
+OBJC_METH_VAR_TYPE_24
+OBJC_METH_VAR_TYPE_26
+OBJC_METH_VAR_NAME_27
+OBJC_METH_VAR_TYPE_28
+OBJC_METH_VAR_TYPE_31
+OBJC_METH_VAR_TYPE_33
+OBJC_METH_VAR_TYPE_35
+OBJC_METH_VAR_TYPE_37
+l_OBJC_$_INSTANCE_METHODS_SearchTableViewController
+OBJC_METH_VAR_TYPE_38
+OBJC_METH_VAR_TYPE_39
+l_OBJC_$_INSTANCE_VARIABLES_SearchTableViewController
+OBJC_PROP_NAME_ATTR_40
+OBJC_PROP_NAME_ATTR_41
+OBJC_PROP_NAME_ATTR_42
+l_OBJC_$_PROP_LIST_SearchTableViewController
+l_OBJC_CLASS_RO_$_SearchTableViewController
+-[SearchTableViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/SearchTableViewController.m
+-[SearchTableViewController setScreen:]
+/Users/sweeharng/Desktop/What's left?/What's left?/SearchTableViewController.h
+-[SearchTableViewController screen]
+-[SearchTableViewController setHundredRelativePts:]
+-[SearchTableViewController hundredRelativePts]
+-[SearchTableViewController SizingMisc]
+-[SearchTableViewController tableView:didSelectRowAtIndexPath:]
+-[SearchTableViewController tableView:titleForHeaderInSection:]
+-[SearchTableViewController tableView:canEditRowAtIndexPath:]
+-[SearchTableViewController tableView:cellForRowAtIndexPath:]
+-[SearchTableViewController numberOfSectionsInTableView:]
+-[SearchTableViewController tableView:numberOfRowsInSection:]
+-[SearchTableViewController didReceiveMemoryWarning]
+-[SearchTableViewController viewDidLoad]
+-[EditSettingsValuesViewController init]
+-[EditSettingsValuesViewController viewDidLoad]
+-[EditSettingsValuesViewController didReceiveMemoryWarning]
+-[EditSettingsValuesViewController textField:shouldChangeCharactersInRange:replacementString:]
+-[EditSettingsValuesViewController textFieldShouldReturn:]
+-[EditSettingsValuesViewController addDoneAndCancelBar]
+-[EditSettingsValuesViewController doneWithNumberPad]
+-[EditSettingsValuesViewController cancelNumberPad]
+-[EditSettingsValuesViewController mainTextField]
+-[EditSettingsValuesViewController setMainTextField:]
+-[EditSettingsValuesViewController settingInEdit]
+-[EditSettingsValuesViewController setSettingInEdit:]
+-[EditSettingsValuesViewController thisSettings]
+-[EditSettingsValuesViewController setThisSettings:]
+-[EditSettingsValuesViewController moneyManager]
+-[EditSettingsValuesViewController setMoneyManager:]
+-[EditSettingsValuesViewController delegate]
+-[EditSettingsValuesViewController setDelegate:]
+-[EditSettingsValuesViewController .cxx_destruct]
+OBJC_IVAR_$_EditSettingsValuesViewController.moneyManager
+OBJC_CLASSLIST_REFERENCES_$_3
+OBJC_IVAR_$_EditSettingsValuesViewController.thisSettings
+OBJC_SELECTOR_REFERENCES_5
+OBJC_CLASSLIST_REFERENCES_$_6
+OBJC_IVAR_$_EditSettingsValuesViewController.mainTextField
+OBJC_CLASSLIST_REFERENCES_$_40
+OBJC_CLASSLIST_REFERENCES_$_47
+OBJC_CLASSLIST_REFERENCES_$_56
+OBJC_CLASSLIST_REFERENCES_$_61
+.str62
+_unnamed_cfstring_63
+OBJC_CLASSLIST_REFERENCES_$_68
+OBJC_CLASSLIST_REFERENCES_$_69
+OBJC_CLASSLIST_REFERENCES_$_80
+.str91
+_unnamed_cfstring_92
+OBJC_SELECTOR_REFERENCES_94
+OBJC_IVAR_$_EditSettingsValuesViewController.settingInEdit
+OBJC_METH_VAR_NAME_99
+OBJC_SELECTOR_REFERENCES_100
+OBJC_METH_VAR_NAME_101
+OBJC_SELECTOR_REFERENCES_102
+OBJC_IVAR_$_EditSettingsValuesViewController._delegate
+OBJC_METH_VAR_TYPE_112
+OBJC_METH_VAR_TYPE_114
+OBJC_METH_VAR_TYPE_115
+OBJC_CLASS_NAME_123
+OBJC_METH_VAR_NAME_125
+OBJC_METH_VAR_TYPE_128
+OBJC_METH_VAR_NAME_129
+OBJC_METH_VAR_TYPE_132
+OBJC_METH_VAR_TYPE_138
+OBJC_METH_VAR_TYPE_141
+OBJC_METH_VAR_NAME_144
+OBJC_METH_VAR_TYPE_149
+OBJC_METH_VAR_NAME_150
+OBJC_METH_VAR_TYPE_151
+OBJC_METH_VAR_NAME_152
+OBJC_METH_VAR_NAME_154
+OBJC_METH_VAR_TYPE_155
+OBJC_METH_VAR_NAME_156
+OBJC_CLASS_NAME_157
+OBJC_PROP_NAME_ATTR_158
+OBJC_PROP_NAME_ATTR_159
+OBJC_PROP_NAME_ATTR_160
+OBJC_PROP_NAME_ATTR_161
+OBJC_PROP_NAME_ATTR_162
+OBJC_PROP_NAME_ATTR_163
+l_OBJC_CLASS_PROTOCOLS_$_EditSettingsValuesViewController
+l_OBJC_METACLASS_RO_$_EditSettingsValuesViewController
+OBJC_METACLASS_$_EditSettingsValuesViewController
+OBJC_CLASS_NAME_164
+OBJC_METH_VAR_TYPE_170
+OBJC_METH_VAR_TYPE_172
+l_OBJC_$_INSTANCE_METHODS_EditSettingsValuesViewController
+OBJC_METH_VAR_TYPE_178
+OBJC_METH_VAR_TYPE_180
+OBJC_METH_VAR_TYPE_182
+l_OBJC_$_INSTANCE_VARIABLES_EditSettingsValuesViewController
+OBJC_CLASS_NAME_183
+OBJC_PROP_NAME_ATTR_186
+OBJC_PROP_NAME_ATTR_187
+OBJC_PROP_NAME_ATTR_188
+OBJC_PROP_NAME_ATTR_189
+OBJC_PROP_NAME_ATTR_190
+OBJC_PROP_NAME_ATTR_191
+OBJC_PROP_NAME_ATTR_192
+OBJC_PROP_NAME_ATTR_193
+l_OBJC_$_PROP_LIST_EditSettingsValuesViewController
+l_OBJC_CLASS_RO_$_EditSettingsValuesViewController
+-[EditSettingsValuesViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/EditSettingsValuesViewController.m
+-[EditSettingsValuesViewController setDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/EditSettingsValuesViewController.h
+-[EditSettingsValuesViewController delegate]
+-[EditSettingsValuesViewController setMoneyManager:]
+-[EditSettingsValuesViewController moneyManager]
+-[EditSettingsValuesViewController setThisSettings:]
+-[EditSettingsValuesViewController thisSettings]
+-[EditSettingsValuesViewController setSettingInEdit:]
+-[EditSettingsValuesViewController settingInEdit]
+-[EditSettingsValuesViewController setMainTextField:]
+-[EditSettingsValuesViewController mainTextField]
+-[EditSettingsValuesViewController cancelNumberPad]
+-[EditSettingsValuesViewController doneWithNumberPad]
+-[EditSettingsValuesViewController addDoneAndCancelBar]
+-[EditSettingsValuesViewController textFieldShouldReturn:]
+-[EditSettingsValuesViewController textField:shouldChangeCharactersInRange:replacementString:]
+-[EditSettingsValuesViewController didReceiveMemoryWarning]
+-[EditSettingsValuesViewController viewDidLoad]
+-[EditSettingsValuesViewController init]
+-[Widget initWithFrame:]
+-[Widget SizingMisc]
+-[Widget UpdateDisplay]
+-[Widget screen]
+-[Widget setScreen:]
+-[Widget hundredRelativePts]
+-[Widget setHundredRelativePts:]
+-[Widget displayMode]
+-[Widget setDisplayMode:]
+-[Widget displayValue]
+-[Widget setDisplayValue:]
+-[Widget thisSettings]
+-[Widget setThisSettings:]
+-[Widget displayString]
+-[Widget setDisplayString:]
+-[Widget .cxx_destruct]
+OBJC_CLASS_$_Widget
+OBJC_IVAR_$_Widget.thisSettings
+OBJC_IVAR_$_Widget.hundredRelativePts
+OBJC_CLASSLIST_REFERENCES_$_24
+OBJC_SELECTOR_REFERENCES_28
+OBJC_METH_VAR_NAME_31
+OBJC_SELECTOR_REFERENCES_32
+OBJC_CLASSLIST_REFERENCES_$_57
+OBJC_IVAR_$_Widget.screen
+OBJC_IVAR_$_Widget.displayMode
+OBJC_IVAR_$_Widget.displayValue
+OBJC_IVAR_$_Widget.displayString
+l_OBJC_METACLASS_RO_$_Widget
+OBJC_METACLASS_$_Widget
+OBJC_CLASS_NAME_69
+OBJC_METH_VAR_TYPE_70
+OBJC_METH_VAR_TYPE_79
+OBJC_METH_VAR_TYPE_81
+OBJC_METH_VAR_TYPE_83
+l_OBJC_$_INSTANCE_METHODS_Widget
+OBJC_METH_VAR_TYPE_90
+OBJC_METH_VAR_TYPE_91
+OBJC_METH_VAR_TYPE_93
+l_OBJC_$_INSTANCE_VARIABLES_Widget
+OBJC_PROP_NAME_ATTR_95
+OBJC_PROP_NAME_ATTR_96
+OBJC_PROP_NAME_ATTR_97
+OBJC_PROP_NAME_ATTR_98
+OBJC_PROP_NAME_ATTR_99
+OBJC_PROP_NAME_ATTR_100
+OBJC_PROP_NAME_ATTR_101
+OBJC_PROP_NAME_ATTR_102
+OBJC_PROP_NAME_ATTR_103
+OBJC_PROP_NAME_ATTR_104
+OBJC_PROP_NAME_ATTR_105
+l_OBJC_$_PROP_LIST_Widget
+l_OBJC_CLASS_RO_$_Widget
+CGSizeMake
+-[Widget .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/Widget.m
+-[Widget setDisplayString:]
+/Users/sweeharng/Desktop/What's left?/What's left?/Widget.h
+-[Widget displayString]
+-[Widget setThisSettings:]
+-[Widget thisSettings]
+-[Widget setDisplayValue:]
+-[Widget displayValue]
+-[Widget setDisplayMode:]
+-[Widget displayMode]
+-[Widget setHundredRelativePts:]
+-[Widget hundredRelativePts]
+-[Widget setScreen:]
+-[Widget screen]
+-[Widget UpdateDisplay]
+-[Widget SizingMisc]
+-[Widget initWithFrame:]
+-[MoneyManager init]
+-[MoneyManager DaysLeftInMonth]
+-[MoneyManager DaysPassedInMonth]
+-[MoneyManager LeftToSpendThisMonth]
+-[MoneyManager CalculateExpenditure:]
+-[MoneyManager CalculateBalance:]
+-[MoneyManager CalculateClaimable:]
+-[MoneyManager LeftToSpendEachDayAverage]
+-[MoneyManager SpentEachDayAverage]
+-[MoneyManager spentThisMonth]
+-[MoneyManager setSpentThisMonth:]
+-[MoneyManager expenditureLimitGoal]
+-[MoneyManager setExpenditureLimitGoal:]
+-[MoneyManager payAmount]
+-[MoneyManager setPayAmount:]
+-[MoneyManager payDate]
+-[MoneyManager setPayDate:]
+-[MoneyManager savingsGoal]
+-[MoneyManager setSavingsGoal:]
+-[MoneyManager lastExpGoalSetDate]
+-[MoneyManager setLastExpGoalSetDate:]
+-[MoneyManager lastSavingsGoalSetDate]
+-[MoneyManager setLastSavingsGoalSetDate:]
+-[MoneyManager .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_1
+OBJC_METH_VAR_NAME_2
+OBJC_SELECTOR_REFERENCES_3
+OBJC_CLASS_$_Bank
+OBJC_IVAR_$_MoneyManager.spentThisMonth
+OBJC_IVAR_$_MoneyManager.expenditureLimitGoal
+OBJC_IVAR_$_MoneyManager.payAmount
+OBJC_IVAR_$_MoneyManager.payDate
+OBJC_IVAR_$_MoneyManager.savingsGoal
+OBJC_IVAR_$_MoneyManager._lastExpGoalSetDate
+OBJC_IVAR_$_MoneyManager._lastSavingsGoalSetDate
+l_OBJC_METACLASS_RO_$_MoneyManager
+OBJC_METACLASS_$_MoneyManager
+OBJC_CLASS_NAME_34
+OBJC_METH_VAR_TYPE_44
+OBJC_METH_VAR_TYPE_47
+l_OBJC_$_INSTANCE_METHODS_MoneyManager
+OBJC_METH_VAR_TYPE_62
+l_OBJC_$_INSTANCE_VARIABLES_MoneyManager
+OBJC_PROP_NAME_ATTR_65
+OBJC_PROP_NAME_ATTR_66
+OBJC_PROP_NAME_ATTR_67
+OBJC_PROP_NAME_ATTR_68
+OBJC_PROP_NAME_ATTR_69
+OBJC_PROP_NAME_ATTR_70
+OBJC_PROP_NAME_ATTR_71
+OBJC_PROP_NAME_ATTR_72
+OBJC_PROP_NAME_ATTR_73
+OBJC_PROP_NAME_ATTR_74
+OBJC_PROP_NAME_ATTR_75
+OBJC_PROP_NAME_ATTR_76
+OBJC_PROP_NAME_ATTR_77
+l_OBJC_$_PROP_LIST_MoneyManager
+l_OBJC_CLASS_RO_$_MoneyManager
+-[MoneyManager .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/MoneyManager.m
+-[MoneyManager setLastSavingsGoalSetDate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/MoneyManager.h
+-[MoneyManager lastSavingsGoalSetDate]
+-[MoneyManager setLastExpGoalSetDate:]
+-[MoneyManager lastExpGoalSetDate]
+-[MoneyManager setSavingsGoal:]
+-[MoneyManager savingsGoal]
+-[MoneyManager setPayDate:]
+-[MoneyManager payDate]
+-[MoneyManager setPayAmount:]
+-[MoneyManager payAmount]
+-[MoneyManager setExpenditureLimitGoal:]
+-[MoneyManager expenditureLimitGoal]
+-[MoneyManager setSpentThisMonth:]
+-[MoneyManager spentThisMonth]
+-[MoneyManager SpentEachDayAverage]
+-[MoneyManager LeftToSpendEachDayAverage]
+-[MoneyManager CalculateClaimable:]
+-[MoneyManager CalculateBalance:]
+-[MoneyManager CalculateExpenditure:]
+-[MoneyManager LeftToSpendThisMonth]
+-[MoneyManager DaysPassedInMonth]
+-[MoneyManager DaysLeftInMonth]
+-[MoneyManager init]
+-[SummaryCellData encodeWithCoder:]
+-[SummaryCellData initWithCoder:]
+-[SummaryCellData displayMode]
+-[SummaryCellData setDisplayMode:]
+-[SummaryCellData timeFrame]
+-[SummaryCellData setTimeFrame:]
+OBJC_IVAR_$_SummaryCellData._displayMode
+OBJC_IVAR_$_SummaryCellData._timeFrame
+l_OBJC_METACLASS_RO_$_SummaryCellData
+OBJC_METACLASS_$_SummaryCellData
+OBJC_METH_VAR_TYPE_17
+OBJC_METH_VAR_TYPE_19
+l_OBJC_$_INSTANCE_METHODS_SummaryCellData
+OBJC_METH_VAR_TYPE_21
+l_OBJC_$_INSTANCE_VARIABLES_SummaryCellData
+l_OBJC_$_PROP_LIST_SummaryCellData
+l_OBJC_CLASS_RO_$_SummaryCellData
+-[SummaryCellData setTimeFrame:]
+/Users/sweeharng/Desktop/What's left?/SummaryCellData.h
+-[SummaryCellData timeFrame]
+-[SummaryCellData setDisplayMode:]
+-[SummaryCellData displayMode]
+-[SummaryCellData initWithCoder:]
+/Users/sweeharng/Desktop/What's left?/SummaryCellData.m
+-[SummaryCellData encodeWithCoder:]
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+OBJC_IVAR_$_AppDelegate._window
+OBJC_METH_VAR_TYPE_1
+OBJC_METH_VAR_TYPE_3
+OBJC_METH_VAR_TYPE_4
+OBJC_METH_VAR_NAME_8
+OBJC_METH_VAR_TYPE_9
+OBJC_METH_VAR_TYPE_11
+OBJC_METH_VAR_TYPE_14
+OBJC_METH_VAR_TYPE_15
+OBJC_METH_VAR_TYPE_23
+OBJC_METH_VAR_TYPE_27
+OBJC_METH_VAR_TYPE_30
+OBJC_METH_VAR_TYPE_41
+OBJC_METH_VAR_TYPE_42
+OBJC_METH_VAR_TYPE_45
+OBJC_METH_VAR_TYPE_51
+OBJC_METH_VAR_TYPE_55
+OBJC_METH_VAR_TYPE_68
+OBJC_METH_VAR_TYPE_76
+OBJC_METH_VAR_TYPE_84
+OBJC_METH_VAR_TYPE_87
+OBJC_METH_VAR_TYPE_89
+OBJC_CLASS_NAME_95
+OBJC_METH_VAR_NAME_98
+OBJC_METH_VAR_TYPE_102
+OBJC_METH_VAR_TYPE_104
+OBJC_METH_VAR_TYPE_106
+OBJC_METH_VAR_TYPE_108
+OBJC_METH_VAR_TYPE_110
+OBJC_METH_VAR_TYPE_113
+OBJC_METH_VAR_TYPE_118
+OBJC_METH_VAR_TYPE_121
+OBJC_METH_VAR_TYPE_127
+OBJC_CLASS_NAME_129
+OBJC_PROP_NAME_ATTR_130
+OBJC_PROP_NAME_ATTR_131
+OBJC_PROP_NAME_ATTR_132
+OBJC_PROP_NAME_ATTR_133
+OBJC_PROP_NAME_ATTR_134
+OBJC_PROP_NAME_ATTR_135
+l_OBJC_$_PROTOCOL_REFS_UIApplicationDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIApplicationDelegate
+OBJC_PROP_NAME_ATTR_136
+OBJC_PROP_NAME_ATTR_137
+l_OBJC_$_PROP_LIST_UIApplicationDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIApplicationDelegate
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_CLASS_PROTOCOLS_$_AppDelegate
+l_OBJC_METACLASS_RO_$_AppDelegate
+OBJC_METACLASS_$_AppDelegate
+OBJC_CLASS_NAME_138
+l_OBJC_$_INSTANCE_METHODS_AppDelegate
+l_OBJC_$_INSTANCE_VARIABLES_AppDelegate
+OBJC_PROP_NAME_ATTR_143
+l_OBJC_$_PROP_LIST_AppDelegate
+l_OBJC_CLASS_RO_$_AppDelegate
+OBJC_CLASS_$_AppDelegate
+-[AppDelegate .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/AppDelegate.m
+-[AppDelegate setWindow:]
+/Users/sweeharng/Desktop/What's left?/What's left?/AppDelegate.h
+-[AppDelegate window]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[Settings init]
+-[Settings initFromLoad]
+-[Settings SaveSettings]
+-[Settings LoadSettings]
+-[Settings LoadBankInitial]
+-[Settings SetBank:]
+-[Settings SaveBank]
+-[Settings ResetBank]
+-[Settings SaveBackup]
+-[Settings LoadBackup]
+-[Settings SaveMisc]
+-[Settings LoadMisc]
+-[Settings SaveDoneIntro]
+-[Settings SaveTags]
+-[Settings LoadTags]
+-[Settings SaveFavorites]
+-[Settings LoadFavorites]
+-[Settings SaveRecents]
+-[Settings LoadRecents]
+-[Settings AddFavEvent:withAmount:withDate:witheventType:withTags:]
+-[Settings AddRecEvent:withAmount:withDate:witheventType:withTags:]
+-[Settings EditFavEvent:withName:withAmount:withDate:witheventType:withTags:]
+-[Settings thisBank]
+-[Settings setThisBank:]
+-[Settings ShowByTagGroups]
+-[Settings setShowByTagGroups:]
+-[Settings favEvents]
+-[Settings setFavEvents:]
+-[Settings recEvents]
+-[Settings setRecEvents:]
+-[Settings favTags]
+-[Settings setFavTags:]
+-[Settings recTags]
+-[Settings setRecTags:]
+-[Settings hasDoneIntro]
+-[Settings setHasDoneIntro:]
+-[Settings lastBackupDate]
+-[Settings setLastBackupDate:]
+-[Settings moneyManager]
+-[Settings setMoneyManager:]
+-[Settings Delegate]
+-[Settings setDelegate:]
+-[Settings displayMode]
+-[Settings setDisplayMode:]
+-[Settings .cxx_destruct]
+mainSettings
+OBJC_IVAR_$_Settings.favEvents
+OBJC_IVAR_$_Settings.recEvents
+OBJC_IVAR_$_Settings.favTags
+OBJC_IVAR_$_Settings.recTags
+OBJC_IVAR_$_Settings.moneyManager
+OBJC_CLASSLIST_REFERENCES_$_4
+OBJC_IVAR_$_Settings.thisBank
+OBJC_CLASS_$_Event
+OBJC_CLASSLIST_REFERENCES_$_9
+OBJC_CLASSLIST_REFERENCES_$_10
+.str19
+_unnamed_cfstring_20
+.str25
+_unnamed_cfstring_26
+.str29
+_unnamed_cfstring_30
+OBJC_CLASSLIST_REFERENCES_$_49
+OBJC_CLASSLIST_REFERENCES_$_50
+.str53
+_unnamed_cfstring_54
+OBJC_CLASSLIST_REFERENCES_$_70
+OBJC_SELECTOR_REFERENCES_76
+.str77
+_unnamed_cfstring_78
+.str79
+_unnamed_cfstring_80
+OBJC_CLASSLIST_REFERENCES_$_81
+OBJC_CLASSLIST_REFERENCES_$_88
+OBJC_CLASSLIST_REFERENCES_$_89
+.str96
+_unnamed_cfstring_97
+OBJC_SELECTOR_REFERENCES_99
+OBJC_IVAR_$_Settings.lastBackupDate
+.str100
+_unnamed_cfstring_101
+.str104
+_unnamed_cfstring_105
+.str110
+_unnamed_cfstring_111
+.str114
+_unnamed_cfstring_115
+.str118
+_unnamed_cfstring_119
+.str122
+_unnamed_cfstring_123
+.str128
+_unnamed_cfstring_129
+.str134
+_unnamed_cfstring_135
+OBJC_SELECTOR_REFERENCES_145
+OBJC_IVAR_$_Settings.hasDoneIntro
+OBJC_SELECTOR_REFERENCES_151
+OBJC_SELECTOR_REFERENCES_157
+.str158
+_unnamed_cfstring_159
+.str160
+_unnamed_cfstring_161
+OBJC_SELECTOR_REFERENCES_163
+OBJC_IVAR_$_Settings.ShowByTagGroups
+OBJC_IVAR_$_Settings._Delegate
+OBJC_IVAR_$_Settings._displayMode
+l_OBJC_METACLASS_RO_$_Settings
+OBJC_METACLASS_$_Settings
+OBJC_CLASS_NAME_174
+OBJC_METH_VAR_TYPE_185
+OBJC_METH_VAR_TYPE_188
+OBJC_METH_VAR_TYPE_193
+OBJC_METH_VAR_TYPE_195
+OBJC_METH_VAR_NAME_209
+l_OBJC_$_INSTANCE_METHODS_Settings
+OBJC_METH_VAR_TYPE_211
+OBJC_METH_VAR_TYPE_214
+OBJC_METH_VAR_TYPE_215
+OBJC_METH_VAR_TYPE_217
+OBJC_METH_VAR_NAME_218
+l_OBJC_$_INSTANCE_VARIABLES_Settings
+OBJC_CLASS_NAME_219
+OBJC_PROP_NAME_ATTR_220
+OBJC_PROP_NAME_ATTR_221
+OBJC_PROP_NAME_ATTR_222
+OBJC_PROP_NAME_ATTR_223
+OBJC_PROP_NAME_ATTR_224
+OBJC_PROP_NAME_ATTR_225
+OBJC_PROP_NAME_ATTR_226
+OBJC_PROP_NAME_ATTR_227
+OBJC_PROP_NAME_ATTR_228
+OBJC_PROP_NAME_ATTR_229
+OBJC_PROP_NAME_ATTR_230
+OBJC_PROP_NAME_ATTR_231
+OBJC_PROP_NAME_ATTR_232
+OBJC_PROP_NAME_ATTR_233
+OBJC_PROP_NAME_ATTR_234
+OBJC_PROP_NAME_ATTR_235
+OBJC_PROP_NAME_ATTR_236
+OBJC_PROP_NAME_ATTR_237
+OBJC_PROP_NAME_ATTR_238
+OBJC_PROP_NAME_ATTR_239
+OBJC_PROP_NAME_ATTR_240
+l_OBJC_$_PROP_LIST_Settings
+l_OBJC_CLASS_RO_$_Settings
+-[Settings .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/Settings.m
+-[Settings setDisplayMode:]
+/Users/sweeharng/Desktop/What's left?/What's left?/Settings.h
+-[Settings displayMode]
+-[Settings setDelegate:]
+-[Settings Delegate]
+-[Settings setMoneyManager:]
+-[Settings moneyManager]
+-[Settings setLastBackupDate:]
+-[Settings lastBackupDate]
+-[Settings setHasDoneIntro:]
+-[Settings hasDoneIntro]
+-[Settings setRecTags:]
+-[Settings recTags]
+-[Settings setFavTags:]
+-[Settings favTags]
+-[Settings setRecEvents:]
+-[Settings recEvents]
+-[Settings setFavEvents:]
+-[Settings favEvents]
+-[Settings setShowByTagGroups:]
+-[Settings ShowByTagGroups]
+-[Settings setThisBank:]
+-[Settings thisBank]
+-[Settings EditFavEvent:withName:withAmount:withDate:witheventType:withTags:]
+-[Settings AddRecEvent:withAmount:withDate:witheventType:withTags:]
+-[Settings AddFavEvent:withAmount:withDate:witheventType:withTags:]
+-[Settings LoadRecents]
+-[Settings SaveRecents]
+-[Settings LoadFavorites]
+-[Settings SaveFavorites]
+-[Settings LoadTags]
+-[Settings SaveTags]
+-[Settings SaveDoneIntro]
+-[Settings LoadMisc]
+-[Settings SaveMisc]
+-[Settings LoadBackup]
+-[Settings SaveBackup]
+-[Settings ResetBank]
+-[Settings SaveBank]
+-[Settings SetBank:]
+-[Settings LoadBankInitial]
+-[Settings LoadSettings]
+-[Settings SaveSettings]
+-[Settings initFromLoad]
+-[Settings init]
+-[Event init]
+-[Event AddTag:]
+-[Event RemoveTag:]
+-[Event encodeWithCoder:]
+-[Event initWithCoder:]
+-[Event eventName]
+-[Event setEventName:]
+-[Event eventType]
+-[Event setEventType:]
+-[Event eventValue]
+-[Event setEventValue:]
+-[Event eventDate]
+-[Event setEventDate:]
+-[Event tags]
+-[Event setTags:]
+-[Event isViewMore]
+-[Event setIsViewMore:]
+-[Event isByMonth]
+-[Event setIsByMonth:]
+-[Event .cxx_destruct]
+OBJC_IVAR_$_Event.eventName
+OBJC_IVAR_$_Event.eventValue
+OBJC_IVAR_$_Event.eventType
+OBJC_IVAR_$_Event.eventDate
+OBJC_IVAR_$_Event.isViewMore
+OBJC_IVAR_$_Event.tags
+OBJC_SELECTOR_REFERENCES_9
+.str16
+_unnamed_cfstring_17
+.str20
+_unnamed_cfstring_21
+.str22
+_unnamed_cfstring_23
+.str27
+_unnamed_cfstring_28
+OBJC_IVAR_$_Event.isByMonth
+l_OBJC_METACLASS_RO_$_Event
+OBJC_METACLASS_$_Event
+OBJC_CLASS_NAME_35
+OBJC_METH_VAR_TYPE_43
+OBJC_METH_VAR_NAME_61
+l_OBJC_$_INSTANCE_METHODS_Event
+OBJC_METH_VAR_TYPE_63
+OBJC_METH_VAR_TYPE_66
+l_OBJC_$_INSTANCE_VARIABLES_Event
+OBJC_PROP_NAME_ATTR_78
+OBJC_PROP_NAME_ATTR_79
+l_OBJC_$_PROP_LIST_Event
+l_OBJC_CLASS_RO_$_Event
+-[Event .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/Event.m
+-[Event setIsByMonth:]
+/Users/sweeharng/Desktop/What's left?/What's left?/Event.h
+-[Event isByMonth]
+-[Event setIsViewMore:]
+-[Event isViewMore]
+-[Event setTags:]
+-[Event tags]
+-[Event setEventDate:]
+-[Event eventDate]
+-[Event setEventValue:]
+-[Event eventValue]
+-[Event setEventType:]
+-[Event eventType]
+-[Event setEventName:]
+-[Event eventName]
+-[Event initWithCoder:]
+-[Event encodeWithCoder:]
+-[Event RemoveTag:]
+-[Event AddTag:]
+-[Event init]
+-[MonthReviewController viewDidLoad]
+-[MonthReviewController viewDidAppear:]
+-[MonthReviewController didReceiveMemoryWarning]
+-[MonthReviewController ToShow:withTitle:]
+-[MonthReviewController InitViews]
+-[MonthReviewController InitArrays]
+-[MonthReviewController setAllTagsInMonth]
+-[MonthReviewController SetTagsToDisplay]
+-[MonthReviewController SumOfTagExpenditureInArray:withtag:]
+-[MonthReviewController SumOfTagIncomeInArray:withtag:]
+-[MonthReviewController SumOfTagBalanceInArray:withtag:]
+-[MonthReviewController SumOfArrayExpenditure:]
+-[MonthReviewController SumOfArrayIncome:]
+-[MonthReviewController SumOfArrayBalance:]
+-[MonthReviewController PercentageExpenditureForTagInArray:withtag:]
+-[MonthReviewController PercentageIncomeForTagInArray:withtag:]
+-[MonthReviewController PercentageBalanceForTagInArray:withtag:]
+-[MonthReviewController BuildTagStatDisplays]
+-[MonthReviewController numberOfBarsInBarChartView:]
+-[MonthReviewController barChartView:heightForBarViewAtIndex:]
+-[MonthReviewController barChartView:barViewAtIndex:]
+-[MonthReviewController barChartView:colorForBarViewAtIndex:]
+-[MonthReviewController PrepBarChart]
+-[MonthReviewController BuildBarChart]
+-[MonthReviewController UpdateBarChartFrame]
+-[MonthReviewController SizingMisc]
+-[MonthReviewController DisplayModeValueChanged]
+-[MonthReviewController ValuePickControlValueChanged]
+-[MonthReviewController IsValueMode:]
+-[MonthReviewController GetMaxEventValueFromArray:]
+-[MonthReviewController GetMinEventValueFromArray:]
+-[MonthReviewController hundredRelativePts]
+-[MonthReviewController setHundredRelativePts:]
+-[MonthReviewController screen]
+-[MonthReviewController setScreen:]
+-[MonthReviewController allTagsInMonth]
+-[MonthReviewController setAllTagsInMonth:]
+-[MonthReviewController arrayOfEventsToReview]
+-[MonthReviewController setArrayOfEventsToReview:]
+-[MonthReviewController thisBarChartView]
+-[MonthReviewController setThisBarChartView:]
+-[MonthReviewController barChartScrollView]
+-[MonthReviewController setBarChartScrollView:]
+-[MonthReviewController DisplayMode]
+-[MonthReviewController setDisplayMode:]
+-[MonthReviewController valuePickControl]
+-[MonthReviewController setValuePickControl:]
+-[MonthReviewController tagsToDisplay]
+-[MonthReviewController setTagsToDisplay:]
+-[MonthReviewController TagStatsDisplays]
+-[MonthReviewController setTagStatsDisplays:]
+-[MonthReviewController .cxx_destruct]
+OBJC_CLASS_$_MonthReviewController
+OBJC_IVAR_$_MonthReviewController.bgColor
+OBJC_IVAR_$_MonthReviewController.thisBarChartView
+OBJC_IVAR_$_MonthReviewController.arrayOfEventsToReview
+OBJC_IVAR_$_MonthReviewController.barChartScrollView
+OBJC_CLASSLIST_REFERENCES_$_41
+.str42
+_unnamed_cfstring_43
+OBJC_IVAR_$_MonthReviewController.DisplayMode
+.str54
+_unnamed_cfstring_55
+.str56
+_unnamed_cfstring_57
+OBJC_IVAR_$_MonthReviewController.valuePickControl
+OBJC_CLASSLIST_REFERENCES_$_66
+OBJC_IVAR_$_MonthReviewController.allTagsInMonth
+OBJC_IVAR_$_MonthReviewController.tagsToDisplay
+OBJC_CLASSLIST_REFERENCES_$_116
+OBJC_CLASSLIST_REFERENCES_$_119
+.str120
+_unnamed_cfstring_121
+OBJC_IVAR_$_MonthReviewController.hundredRelativePts
+OBJC_IVAR_$_MonthReviewController.screen
+OBJC_SELECTOR_REFERENCES_153
+OBJC_SELECTOR_REFERENCES_155
+OBJC_CLASSLIST_REFERENCES_$_156
+.str161
+_unnamed_cfstring_162
+.str163
+_unnamed_cfstring_164
+OBJC_SELECTOR_REFERENCES_170
+OBJC_SELECTOR_REFERENCES_186
+OBJC_SELECTOR_REFERENCES_188
+OBJC_CLASSLIST_REFERENCES_$_189
+OBJC_CLASSLIST_REFERENCES_$_192
+OBJC_SELECTOR_REFERENCES_194
+OBJC_SELECTOR_REFERENCES_196
+OBJC_IVAR_$_MonthReviewController._TagStatsDisplays
+OBJC_CLASS_NAME_204
+OBJC_METH_VAR_TYPE_207
+OBJC_CLASS_NAME_209
+OBJC_METH_VAR_TYPE_216
+OBJC_METH_VAR_TYPE_220
+OBJC_METH_VAR_TYPE_222
+OBJC_METH_VAR_TYPE_229
+OBJC_METH_VAR_NAME_231
+OBJC_METH_VAR_TYPE_235
+OBJC_CLASS_NAME_243
+OBJC_PROP_NAME_ATTR_244
+OBJC_PROP_NAME_ATTR_245
+OBJC_PROP_NAME_ATTR_246
+OBJC_PROP_NAME_ATTR_247
+OBJC_PROP_NAME_ATTR_248
+OBJC_PROP_NAME_ATTR_249
+l_OBJC_$_PROTOCOL_REFS_JBChartViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_JBChartViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JBChartViewDataSource
+l_OBJC_PROTOCOL_$_JBChartViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_JBChartViewDataSource
+l_OBJC_$_PROTOCOL_REFS_JBBarChartViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_JBBarChartViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_JBBarChartViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JBBarChartViewDataSource
+l_OBJC_PROTOCOL_$_JBBarChartViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_JBBarChartViewDataSource
+OBJC_METH_VAR_TYPE_253
+OBJC_METH_VAR_TYPE_257
+OBJC_METH_VAR_TYPE_265
+OBJC_METH_VAR_TYPE_267
+OBJC_METH_VAR_TYPE_270
+OBJC_CLASS_NAME_271
+OBJC_CLASS_NAME_272
+l_OBJC_$_PROTOCOL_REFS_JBChartViewDelegate
+l_OBJC_PROTOCOL_$_JBChartViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_JBChartViewDelegate
+l_OBJC_$_PROTOCOL_REFS_JBBarChartViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_JBBarChartViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_JBBarChartViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JBBarChartViewDelegate
+l_OBJC_PROTOCOL_$_JBBarChartViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_JBBarChartViewDelegate
+l_OBJC_CLASS_PROTOCOLS_$_MonthReviewController
+l_OBJC_METACLASS_RO_$_MonthReviewController
+OBJC_METACLASS_$_MonthReviewController
+OBJC_METH_VAR_TYPE_274
+OBJC_METH_VAR_TYPE_278
+OBJC_METH_VAR_NAME_281
+OBJC_METH_VAR_TYPE_284
+OBJC_METH_VAR_TYPE_286
+l_OBJC_$_INSTANCE_METHODS_MonthReviewController
+OBJC_METH_VAR_NAME_305
+OBJC_METH_VAR_TYPE_311
+l_OBJC_$_INSTANCE_VARIABLES_MonthReviewController
+OBJC_PROP_NAME_ATTR_329
+OBJC_PROP_NAME_ATTR_330
+OBJC_PROP_NAME_ATTR_331
+OBJC_PROP_NAME_ATTR_332
+OBJC_PROP_NAME_ATTR_333
+l_OBJC_$_PROP_LIST_MonthReviewController
+l_OBJC_CLASS_RO_$_MonthReviewController
+/Users/sweeharng/Desktop/What's left?/DerivedData/ModuleCache/X0MGTAYMR60V/JBChart-2JTXNJ0N87GXW.pcm
+JBChart
+-[MonthReviewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/MonthReviewController.m
+-[MonthReviewController setTagStatsDisplays:]
+/Users/sweeharng/Desktop/What's left?/What's left?/MonthReviewController.h
+-[MonthReviewController TagStatsDisplays]
+-[MonthReviewController setTagsToDisplay:]
+-[MonthReviewController tagsToDisplay]
+-[MonthReviewController setValuePickControl:]
+-[MonthReviewController valuePickControl]
+-[MonthReviewController setDisplayMode:]
+-[MonthReviewController DisplayMode]
+-[MonthReviewController setBarChartScrollView:]
+-[MonthReviewController barChartScrollView]
+-[MonthReviewController setThisBarChartView:]
+-[MonthReviewController thisBarChartView]
+-[MonthReviewController setArrayOfEventsToReview:]
+-[MonthReviewController arrayOfEventsToReview]
+-[MonthReviewController setAllTagsInMonth:]
+-[MonthReviewController allTagsInMonth]
+-[MonthReviewController setScreen:]
+-[MonthReviewController screen]
+-[MonthReviewController setHundredRelativePts:]
+-[MonthReviewController hundredRelativePts]
+-[MonthReviewController GetMinEventValueFromArray:]
+-[MonthReviewController GetMaxEventValueFromArray:]
+-[MonthReviewController IsValueMode:]
+-[MonthReviewController ValuePickControlValueChanged]
+-[MonthReviewController DisplayModeValueChanged]
+-[MonthReviewController SizingMisc]
+-[MonthReviewController UpdateBarChartFrame]
+-[MonthReviewController BuildBarChart]
+-[MonthReviewController PrepBarChart]
+-[MonthReviewController barChartView:colorForBarViewAtIndex:]
+-[MonthReviewController barChartView:barViewAtIndex:]
+-[MonthReviewController barChartView:heightForBarViewAtIndex:]
+-[MonthReviewController numberOfBarsInBarChartView:]
+-[MonthReviewController BuildTagStatDisplays]
+-[MonthReviewController PercentageBalanceForTagInArray:withtag:]
+-[MonthReviewController PercentageIncomeForTagInArray:withtag:]
+-[MonthReviewController PercentageExpenditureForTagInArray:withtag:]
+-[MonthReviewController SumOfArrayBalance:]
+-[MonthReviewController SumOfArrayIncome:]
+-[MonthReviewController SumOfArrayExpenditure:]
+-[MonthReviewController SumOfTagBalanceInArray:withtag:]
+-[MonthReviewController SumOfTagIncomeInArray:withtag:]
+-[MonthReviewController SumOfTagExpenditureInArray:withtag:]
+-[MonthReviewController SetTagsToDisplay]
+-[MonthReviewController setAllTagsInMonth]
+-[MonthReviewController InitArrays]
+-[MonthReviewController InitViews]
+-[MonthReviewController ToShow:withTitle:]
+-[MonthReviewController didReceiveMemoryWarning]
+-[MonthReviewController viewDidAppear:]
+-[MonthReviewController viewDidLoad]
+-[ExportImportManager init]
+l_OBJC_METACLASS_RO_$_ExportImportManager
+OBJC_METACLASS_$_ExportImportManager
+l_OBJC_$_INSTANCE_METHODS_ExportImportManager
+l_OBJC_CLASS_RO_$_ExportImportManager
+OBJC_CLASS_$_ExportImportManager
+-[ExportImportManager init]
+/Users/sweeharng/Desktop/What's left?/What's left?/ExportImportManager.m
+-[FirstViewController viewDidLoad]
+-[FirstViewController viewWillAppear:]
+-[FirstViewController initArrays]
+-[FirstViewController didReceiveMemoryWarning]
+-[FirstViewController OpenControls:]
+-[FirstViewController CloseControlsWithoutEvent:]
+-[FirstViewController CloseControlsWithEvent:forEvent:]
+-[FirstViewController CloseAllExcept:]
+-[FirstViewController FavButtonAction]
+-[FirstViewController RecentsButtonAction]
+-[FirstViewController DepositButtonAction]
+-[FirstViewController WithdrawButtonAction]
+-[FirstViewController FavSubAction:]
+-[FirstViewController RecSubAction:]
+-[FirstViewController HideShadowForButton:]
+-[FirstViewController ShowShadowForButton:]
+-[FirstViewController SizingMisc]
+-[FirstViewController PrepSearchBar]
+-[FirstViewController updateSearchResultsForSearchController:]
+-[FirstViewController setTitle:]
+-[FirstViewController UpdateBankAndSettings]
+-[FirstViewController UpdateBank]
+-[FirstViewController UpdateBankDisplay]
+-[FirstViewController UpdateFavRecButtonTitles]
+-[FirstViewController UpdateNavBarTitle]
+-[FirstViewController LoadSettingsInitial]
+-[FirstViewController LoadSettings]
+-[FirstViewController UpdateSettingsData]
+-[FirstViewController searchBar:textDidChange:]
+-[FirstViewController tableView:numberOfRowsInSection:]
+-[FirstViewController numberOfSectionsInTableView:]
+-[FirstViewController tableView:canEditRowAtIndexPath:]
+-[FirstViewController tableView:heightForHeaderInSection:]
+-[FirstViewController tableView:viewForHeaderInSection:]
+-[FirstViewController tableView:cellForRowAtIndexPath:]
+-[FirstViewController tableView:didSelectRowAtIndexPath:]
+-[FirstViewController tableView:commitEditingStyle:forRowAtIndexPath:]
+__70-[FirstViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke
+__70-[FirstViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke488
+__copy_helper_block_491
+__destroy_helper_block_492
+-[FirstViewController PushEditEventController:]
+-[FirstViewController DisplayArrayByTagByMonth]
+-[FirstViewController TitlesByMonthByTag]
+-[FirstViewController ValuesByMonthByTag]
+-[FirstViewController LoadReviewControllers]
+-[FirstViewController DeleteEvent:]
+-[FirstViewController DeleteEventByTagInMonth:]
+-[FirstViewController UpdateFavouriteEventsTable]
+-[FirstViewController WithDrawButtonEnter:forEvent:]
+-[FirstViewController WithDrawButtonExit:forEvent:]
+-[FirstViewController RecentsButtonEnter:forEvent:]
+-[FirstViewController RecentsButtonExit:forEvent:]
+-[FirstViewController DepositButtonEnter:forEvent:]
+-[FirstViewController DepositButtonExit:forEvent:]
+-[FirstViewController FavoritesButtonEnter:forEvent:]
+-[FirstViewController FavoritesButtonExit:forEvent:]
+-[FirstViewController TouchDraggedOutsideControl:forEvent:]
+-[FirstViewController OpenRecentSubs]
+-[FirstViewController CloseRecentSubs]
+-[FirstViewController OpenFavSubs]
+-[FirstViewController CloseFavSubs]
+-[FirstViewController OpenDeposit]
+-[FirstViewController CloseDeposit]
+-[FirstViewController OpenWithdraw]
+-[FirstViewController CloseWithdraw]
+-[FirstViewController OpenRecents]
+-[FirstViewController CloseRecents]
+-[FirstViewController OpenFavs]
+-[FirstViewController CloseFavs]
+-[FirstViewController SetSecondViewLink]
+-[FirstViewController prepareForSegue:sender:]
+-[FirstViewController InitIntroCont]
+-[FirstViewController ShowIntro]
+-[FirstViewController FavoritesButton]
+-[FirstViewController setFavoritesButton:]
+-[FirstViewController WithdrawalButton]
+-[FirstViewController setWithdrawalButton:]
+-[FirstViewController RecentsButton]
+-[FirstViewController setRecentsButton:]
+-[FirstViewController DepositButton]
+-[FirstViewController setDepositButton:]
+-[FirstViewController ControlButton]
+-[FirstViewController setControlButton:]
+-[FirstViewController hundredRelativePts]
+-[FirstViewController setHundredRelativePts:]
+-[FirstViewController screen]
+-[FirstViewController setScreen:]
+-[FirstViewController MainBankDisplay]
+-[FirstViewController setMainBankDisplay:]
+-[FirstViewController thisSettings]
+-[FirstViewController setThisSettings:]
+-[FirstViewController FavoriteButtonIsOpen]
+-[FirstViewController setFavoriteButtonIsOpen:]
+-[FirstViewController WithdrawalButtonIsOpen]
+-[FirstViewController setWithdrawalButtonIsOpen:]
+-[FirstViewController RecentsButtonIsOpen]
+-[FirstViewController setRecentsButtonIsOpen:]
+-[FirstViewController DepositButtonIsOpen]
+-[FirstViewController setDepositButtonIsOpen:]
+-[FirstViewController RecentsButtonsAreOpen]
+-[FirstViewController setRecentsButtonsAreOpen:]
+-[FirstViewController RecentsButtons]
+-[FirstViewController setRecentsButtons:]
+-[FirstViewController FavButtons]
+-[FirstViewController setFavButtons:]
+-[FirstViewController FavButtonsAreOpen]
+-[FirstViewController setFavButtonsAreOpen:]
+-[FirstViewController searchResultsController]
+-[FirstViewController setSearchResultsController:]
+-[FirstViewController FilteredItemsBySection]
+-[FirstViewController setFilteredItemsBySection:]
+-[FirstViewController months]
+-[FirstViewController setMonths:]
+-[FirstViewController SearchSectionTitles]
+-[FirstViewController setSearchSectionTitles:]
+-[FirstViewController secondViewCont]
+-[FirstViewController setSecondViewCont:]
+-[FirstViewController exportImportManager]
+-[FirstViewController setExportImportManager:]
+-[FirstViewController nameRevCont]
+-[FirstViewController setNameRevCont:]
+-[FirstViewController tagRevCont]
+-[FirstViewController setTagRevCont:]
+-[FirstViewController viewContLink]
+-[FirstViewController setViewContLink:]
+-[FirstViewController introCont]
+-[FirstViewController setIntroCont:]
+-[FirstViewController summaryCont]
+-[FirstViewController setSummaryCont:]
+-[FirstViewController searchController]
+-[FirstViewController setSearchController:]
+-[FirstViewController monthRevCont]
+-[FirstViewController setMonthRevCont:]
+-[FirstViewController .cxx_destruct]
+OBJC_CLASS_$_FirstViewController
+OBJC_IVAR_$_FirstViewController.thisSettings
+OBJC_CLASSLIST_REFERENCES_$_17
+OBJC_IVAR_$_FirstViewController.summaryCont
+OBJC_CLASSLIST_REFERENCES_$_18
+OBJC_IVAR_$_FirstViewController.screen
+OBJC_IVAR_$_FirstViewController.addEventViewCont
+OBJC_IVAR_$_FirstViewController.MainBankDisplay
+OBJC_IVAR_$_FirstViewController.secondViewCont
+OBJC_CLASSLIST_REFERENCES_$_55
+OBJC_IVAR_$_FirstViewController.viewContLink
+OBJC_IVAR_$_FirstViewController.exportImportManager
+OBJC_SELECTOR_REFERENCES_62
+OBJC_CLASSLIST_REFERENCES_$_63
+OBJC_IVAR_$_FirstViewController.introCont
+.str81
+_unnamed_cfstring_82
+.str83
+_unnamed_cfstring_84
+.str85
+_unnamed_cfstring_86
+_unnamed_cfstring_88
+.str89
+_unnamed_cfstring_90
+.str93
+_unnamed_cfstring_94
+.str95
+_unnamed_cfstring_96
+.str97
+_unnamed_cfstring_98
+OBJC_IVAR_$_FirstViewController.months
+OBJC_CLASSLIST_REFERENCES_$_101
+OBJC_IVAR_$_FirstViewController.FilteredItemsBySection
+OBJC_IVAR_$_FirstViewController.SearchSectionTitles
+OBJC_METH_VAR_NAME_123
+OBJC_SELECTOR_REFERENCES_124
+OBJC_SELECTOR_REFERENCES_126
+OBJC_SELECTOR_REFERENCES_128
+OBJC_SELECTOR_REFERENCES_130
+OBJC_IVAR_$_FirstViewController.FavoritesButton
+OBJC_SELECTOR_REFERENCES_132
+OBJC_SELECTOR_REFERENCES_136
+OBJC_IVAR_$_FirstViewController.RecentsButton
+OBJC_IVAR_$_FirstViewController.DepositButton
+OBJC_IVAR_$_FirstViewController.WithdrawalButton
+OBJC_IVAR_$_FirstViewController.FavButtons
+OBJC_IVAR_$_FirstViewController.RecentsButtons
+OBJC_SELECTOR_REFERENCES_162
+OBJC_CLASSLIST_REFERENCES_$_171
+OBJC_IVAR_$_FirstViewController.hundredRelativePts
+OBJC_IVAR_$_FirstViewController.ControlButton
+OBJC_CLASSLIST_REFERENCES_$_176
+.str179
+_unnamed_cfstring_180
+OBJC_SELECTOR_REFERENCES_190
+OBJC_SELECTOR_REFERENCES_192
+OBJC_CLASSLIST_REFERENCES_$_193
+OBJC_CLASSLIST_REFERENCES_$_200
+OBJC_IVAR_$_FirstViewController.searchResultsController
+OBJC_SELECTOR_REFERENCES_210
+.str215
+_unnamed_cfstring_216
+OBJC_SELECTOR_REFERENCES_220
+.str227
+_unnamed_cfstring_228
+OBJC_SELECTOR_REFERENCES_232
+.str233
+_unnamed_cfstring_234
+OBJC_SELECTOR_REFERENCES_236
+.str249
+_unnamed_cfstring_250
+.str253
+_unnamed_cfstring_254
+OBJC_CLASSLIST_REFERENCES_$_259
+OBJC_CLASSLIST_REFERENCES_$_264
+.str265
+_unnamed_cfstring_266
+.str269
+_unnamed_cfstring_270
+OBJC_CLASSLIST_REFERENCES_$_271
+OBJC_SELECTOR_REFERENCES_287
+.str290
+_unnamed_cfstring_291
+.str296
+_unnamed_cfstring_297
+.str300
+_unnamed_cfstring_301
+.str304
+_unnamed_cfstring_305
+OBJC_CLASSLIST_REFERENCES_$_314
+OBJC_SELECTOR_REFERENCES_316
+OBJC_CLASSLIST_REFERENCES_$_317
+OBJC_CLASSLIST_REFERENCES_$_322
+OBJC_SELECTOR_REFERENCES_324
+OBJC_SELECTOR_REFERENCES_326
+OBJC_CLASSLIST_REFERENCES_$_327
+OBJC_SELECTOR_REFERENCES_329
+OBJC_SELECTOR_REFERENCES_331
+OBJC_SELECTOR_REFERENCES_333
+OBJC_SELECTOR_REFERENCES_335
+OBJC_SELECTOR_REFERENCES_337
+OBJC_SELECTOR_REFERENCES_339
+OBJC_SELECTOR_REFERENCES_341
+OBJC_SELECTOR_REFERENCES_343
+OBJC_SELECTOR_REFERENCES_345
+OBJC_SELECTOR_REFERENCES_347
+OBJC_SELECTOR_REFERENCES_349
+OBJC_SELECTOR_REFERENCES_351
+OBJC_SELECTOR_REFERENCES_353
+OBJC_SELECTOR_REFERENCES_355
+OBJC_SELECTOR_REFERENCES_357
+OBJC_IVAR_$_FirstViewController.tagRevCont
+OBJC_SELECTOR_REFERENCES_359
+.str360
+_unnamed_cfstring_361
+OBJC_SELECTOR_REFERENCES_363
+OBJC_SELECTOR_REFERENCES_365
+OBJC_METH_VAR_NAME_366
+OBJC_SELECTOR_REFERENCES_367
+OBJC_SELECTOR_REFERENCES_369
+OBJC_SELECTOR_REFERENCES_371
+OBJC_METH_VAR_NAME_372
+OBJC_SELECTOR_REFERENCES_373
+OBJC_SELECTOR_REFERENCES_375
+OBJC_SELECTOR_REFERENCES_377
+OBJC_SELECTOR_REFERENCES_379
+.str380
+_unnamed_cfstring_381
+OBJC_SELECTOR_REFERENCES_383
+.str384
+_unnamed_cfstring_385
+OBJC_SELECTOR_REFERENCES_387
+OBJC_SELECTOR_REFERENCES_389
+OBJC_SELECTOR_REFERENCES_391
+OBJC_SELECTOR_REFERENCES_393
+OBJC_METH_VAR_NAME_394
+OBJC_SELECTOR_REFERENCES_395
+OBJC_CLASSLIST_REFERENCES_$_396
+.str397
+_unnamed_cfstring_398
+OBJC_SELECTOR_REFERENCES_400
+OBJC_SELECTOR_REFERENCES_402
+OBJC_SELECTOR_REFERENCES_404
+OBJC_SELECTOR_REFERENCES_406
+OBJC_SELECTOR_REFERENCES_408
+.str409
+_unnamed_cfstring_410
+OBJC_SELECTOR_REFERENCES_412
+.str413
+_unnamed_cfstring_414
+OBJC_SELECTOR_REFERENCES_416
+OBJC_SELECTOR_REFERENCES_418
+OBJC_METH_VAR_NAME_419
+OBJC_SELECTOR_REFERENCES_420
+OBJC_CLASSLIST_REFERENCES_$_421
+OBJC_METH_VAR_NAME_422
+OBJC_SELECTOR_REFERENCES_423
+.str424
+_unnamed_cfstring_425
+OBJC_SELECTOR_REFERENCES_427
+OBJC_CLASSLIST_REFERENCES_$_428
+OBJC_METH_VAR_NAME_429
+OBJC_SELECTOR_REFERENCES_430
+OBJC_SELECTOR_REFERENCES_432
+OBJC_METH_VAR_NAME_433
+OBJC_SELECTOR_REFERENCES_434
+OBJC_SELECTOR_REFERENCES_436
+OBJC_METH_VAR_NAME_437
+OBJC_SELECTOR_REFERENCES_438
+.str439
+_unnamed_cfstring_440
+OBJC_METH_VAR_NAME_441
+OBJC_SELECTOR_REFERENCES_442
+OBJC_SELECTOR_REFERENCES_444
+OBJC_SELECTOR_REFERENCES_446
+OBJC_SELECTOR_REFERENCES_448
+OBJC_SELECTOR_REFERENCES_450
+OBJC_METH_VAR_NAME_451
+OBJC_SELECTOR_REFERENCES_452
+OBJC_METH_VAR_NAME_453
+OBJC_SELECTOR_REFERENCES_454
+OBJC_METH_VAR_NAME_455
+OBJC_SELECTOR_REFERENCES_456
+OBJC_METH_VAR_NAME_457
+OBJC_SELECTOR_REFERENCES_458
+OBJC_METH_VAR_NAME_459
+OBJC_SELECTOR_REFERENCES_460
+OBJC_SELECTOR_REFERENCES_462
+OBJC_CLASSLIST_REFERENCES_$_463
+.str464
+_unnamed_cfstring_465
+.str466
+_unnamed_cfstring_467
+OBJC_METH_VAR_NAME_468
+OBJC_SELECTOR_REFERENCES_469
+OBJC_CLASSLIST_REFERENCES_$_470
+.str471
+_unnamed_cfstring_472
+OBJC_SELECTOR_REFERENCES_474
+OBJC_SELECTOR_REFERENCES_476
+OBJC_SELECTOR_REFERENCES_478
+OBJC_SELECTOR_REFERENCES_480
+OBJC_SELECTOR_REFERENCES_482
+.str483
+OBJC_SELECTOR_REFERENCES_485
+.str486
+_unnamed_cfstring_487
+OBJC_SELECTOR_REFERENCES_490
+__block_descriptor_tmp493
+OBJC_SELECTOR_REFERENCES_495
+OBJC_SELECTOR_REFERENCES_497
+OBJC_SELECTOR_REFERENCES_499
+.str500
+_unnamed_cfstring_501
+OBJC_SELECTOR_REFERENCES_503
+OBJC_SELECTOR_REFERENCES_505
+OBJC_CLASSLIST_REFERENCES_$_506
+OBJC_IVAR_$_FirstViewController.nameRevCont
+OBJC_CLASS_$_TagReviewController
+OBJC_CLASSLIST_REFERENCES_$_507
+OBJC_SELECTOR_REFERENCES_509
+OBJC_METH_VAR_NAME_510
+OBJC_SELECTOR_REFERENCES_511
+OBJC_METH_VAR_NAME_512
+OBJC_SELECTOR_REFERENCES_513
+OBJC_METH_VAR_NAME_514
+OBJC_SELECTOR_REFERENCES_515
+OBJC_METH_VAR_NAME_516
+OBJC_SELECTOR_REFERENCES_517
+OBJC_IVAR_$_FirstViewController.RecentsButtonsAreOpen
+OBJC_METH_VAR_NAME_518
+OBJC_SELECTOR_REFERENCES_519
+OBJC_METH_VAR_NAME_520
+OBJC_SELECTOR_REFERENCES_521
+OBJC_SELECTOR_REFERENCES_523
+OBJC_METH_VAR_NAME_524
+OBJC_SELECTOR_REFERENCES_525
+OBJC_IVAR_$_FirstViewController.FavButtonsAreOpen
+OBJC_IVAR_$_FirstViewController.DepositButtonIsOpen
+OBJC_IVAR_$_FirstViewController.WithdrawalButtonIsOpen
+OBJC_IVAR_$_FirstViewController.RecentsButtonIsOpen
+OBJC_METH_VAR_NAME_526
+OBJC_SELECTOR_REFERENCES_527
+OBJC_IVAR_$_FirstViewController.FavoriteButtonIsOpen
+OBJC_METH_VAR_NAME_528
+OBJC_SELECTOR_REFERENCES_529
+.str530
+_unnamed_cfstring_531
+OBJC_METH_VAR_NAME_532
+OBJC_SELECTOR_REFERENCES_533
+OBJC_METH_VAR_NAME_534
+OBJC_SELECTOR_REFERENCES_535
+OBJC_METH_VAR_NAME_536
+OBJC_SELECTOR_REFERENCES_537
+OBJC_CLASSLIST_REFERENCES_$_538
+OBJC_METH_VAR_NAME_539
+OBJC_SELECTOR_REFERENCES_540
+OBJC_CLASSLIST_REFERENCES_$_541
+OBJC_METH_VAR_NAME_542
+OBJC_SELECTOR_REFERENCES_543
+OBJC_METH_VAR_NAME_544
+OBJC_SELECTOR_REFERENCES_545
+OBJC_METH_VAR_NAME_546
+OBJC_SELECTOR_REFERENCES_547
+OBJC_METH_VAR_NAME_548
+OBJC_SELECTOR_REFERENCES_549
+OBJC_METH_VAR_NAME_550
+OBJC_SELECTOR_REFERENCES_551
+OBJC_METH_VAR_NAME_552
+OBJC_SELECTOR_REFERENCES_553
+OBJC_IVAR_$_FirstViewController._searchController
+OBJC_IVAR_$_FirstViewController._monthRevCont
+OBJC_METH_VAR_NAME_554
+OBJC_CLASS_NAME_555
+OBJC_METH_VAR_NAME_556
+OBJC_METH_VAR_TYPE_557
+OBJC_METH_VAR_NAME_558
+OBJC_METH_VAR_TYPE_559
+OBJC_METH_VAR_NAME_560
+OBJC_METH_VAR_TYPE_561
+OBJC_METH_VAR_NAME_562
+OBJC_METH_VAR_TYPE_563
+OBJC_METH_VAR_NAME_564
+OBJC_METH_VAR_TYPE_565
+OBJC_METH_VAR_NAME_566
+OBJC_METH_VAR_TYPE_567
+OBJC_METH_VAR_NAME_568
+OBJC_METH_VAR_TYPE_569
+OBJC_METH_VAR_NAME_570
+OBJC_METH_VAR_TYPE_571
+OBJC_METH_VAR_NAME_572
+OBJC_METH_VAR_NAME_573
+OBJC_METH_VAR_TYPE_574
+OBJC_METH_VAR_NAME_575
+OBJC_METH_VAR_TYPE_576
+OBJC_METH_VAR_NAME_577
+OBJC_METH_VAR_NAME_578
+OBJC_METH_VAR_TYPE_579
+OBJC_METH_VAR_NAME_580
+OBJC_METH_VAR_NAME_581
+OBJC_METH_VAR_TYPE_582
+OBJC_METH_VAR_NAME_583
+OBJC_METH_VAR_TYPE_584
+OBJC_METH_VAR_NAME_585
+OBJC_METH_VAR_NAME_586
+OBJC_METH_VAR_NAME_587
+OBJC_METH_VAR_TYPE_588
+OBJC_METH_VAR_NAME_589
+OBJC_CLASS_NAME_590
+OBJC_PROP_NAME_ATTR_591
+OBJC_PROP_NAME_ATTR_592
+OBJC_PROP_NAME_ATTR_593
+OBJC_PROP_NAME_ATTR_594
+OBJC_PROP_NAME_ATTR_595
+OBJC_PROP_NAME_ATTR_596
+l_OBJC_$_PROTOCOL_REFS_addEventContDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_addEventContDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_addEventContDelegate
+l_OBJC_PROTOCOL_$_addEventContDelegate
+l_OBJC_LABEL_PROTOCOL_$_addEventContDelegate
+OBJC_CLASS_NAME_597
+l_OBJC_$_PROTOCOL_REFS_bankDelegate
+l_OBJC_PROTOCOL_$_bankDelegate
+l_OBJC_LABEL_PROTOCOL_$_bankDelegate
+OBJC_METH_VAR_TYPE_598
+OBJC_METH_VAR_TYPE_599
+OBJC_CLASS_NAME_600
+l_OBJC_$_PROTOCOL_REFS_UISearchResultsUpdating
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_UISearchResultsUpdating
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UISearchResultsUpdating
+l_OBJC_PROTOCOL_$_UISearchResultsUpdating
+l_OBJC_LABEL_PROTOCOL_$_UISearchResultsUpdating
+OBJC_METH_VAR_NAME_601
+OBJC_METH_VAR_TYPE_602
+OBJC_METH_VAR_NAME_603
+OBJC_METH_VAR_TYPE_604
+OBJC_METH_VAR_NAME_605
+OBJC_METH_VAR_NAME_606
+OBJC_METH_VAR_NAME_607
+OBJC_METH_VAR_TYPE_608
+OBJC_METH_VAR_TYPE_609
+OBJC_METH_VAR_NAME_610
+OBJC_METH_VAR_TYPE_611
+OBJC_METH_VAR_TYPE_612
+OBJC_METH_VAR_NAME_613
+OBJC_METH_VAR_NAME_614
+OBJC_METH_VAR_NAME_615
+OBJC_METH_VAR_NAME_616
+OBJC_METH_VAR_NAME_617
+OBJC_METH_VAR_TYPE_618
+OBJC_METH_VAR_TYPE_619
+OBJC_CLASS_NAME_620
+OBJC_METH_VAR_NAME_621
+OBJC_METH_VAR_TYPE_622
+OBJC_METH_VAR_TYPE_623
+OBJC_CLASS_NAME_624
+l_OBJC_$_PROTOCOL_REFS_UIBarPositioningDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIBarPositioningDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIBarPositioningDelegate
+l_OBJC_PROTOCOL_$_UIBarPositioningDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIBarPositioningDelegate
+l_OBJC_$_PROTOCOL_REFS_UISearchBarDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UISearchBarDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UISearchBarDelegate
+l_OBJC_PROTOCOL_$_UISearchBarDelegate
+l_OBJC_LABEL_PROTOCOL_$_UISearchBarDelegate
+OBJC_METH_VAR_NAME_625
+OBJC_METH_VAR_TYPE_626
+OBJC_METH_VAR_TYPE_627
+OBJC_METH_VAR_NAME_628
+OBJC_METH_VAR_TYPE_629
+OBJC_METH_VAR_TYPE_630
+OBJC_METH_VAR_NAME_631
+OBJC_METH_VAR_TYPE_632
+OBJC_METH_VAR_NAME_633
+OBJC_METH_VAR_TYPE_634
+OBJC_METH_VAR_TYPE_635
+OBJC_METH_VAR_NAME_636
+OBJC_METH_VAR_NAME_637
+OBJC_METH_VAR_TYPE_638
+OBJC_METH_VAR_TYPE_639
+OBJC_METH_VAR_NAME_640
+OBJC_METH_VAR_NAME_641
+OBJC_METH_VAR_TYPE_642
+OBJC_METH_VAR_TYPE_643
+OBJC_METH_VAR_NAME_644
+OBJC_METH_VAR_TYPE_645
+OBJC_METH_VAR_TYPE_646
+OBJC_METH_VAR_NAME_647
+OBJC_METH_VAR_TYPE_648
+OBJC_METH_VAR_TYPE_649
+OBJC_METH_VAR_NAME_650
+OBJC_METH_VAR_TYPE_651
+OBJC_METH_VAR_TYPE_652
+OBJC_CLASS_NAME_653
+OBJC_METH_VAR_NAME_654
+OBJC_METH_VAR_TYPE_655
+OBJC_METH_VAR_NAME_656
+OBJC_METH_VAR_TYPE_657
+OBJC_METH_VAR_TYPE_658
+OBJC_METH_VAR_NAME_659
+OBJC_METH_VAR_NAME_660
+OBJC_METH_VAR_NAME_661
+OBJC_METH_VAR_NAME_662
+OBJC_METH_VAR_NAME_663
+OBJC_METH_VAR_TYPE_664
+OBJC_METH_VAR_TYPE_665
+OBJC_METH_VAR_NAME_666
+OBJC_METH_VAR_TYPE_667
+OBJC_METH_VAR_TYPE_668
+OBJC_METH_VAR_NAME_669
+OBJC_METH_VAR_NAME_670
+OBJC_METH_VAR_NAME_671
+OBJC_METH_VAR_NAME_672
+OBJC_METH_VAR_NAME_673
+OBJC_METH_VAR_TYPE_674
+OBJC_METH_VAR_NAME_675
+OBJC_METH_VAR_NAME_676
+OBJC_METH_VAR_TYPE_677
+OBJC_METH_VAR_TYPE_678
+OBJC_METH_VAR_NAME_679
+OBJC_METH_VAR_TYPE_680
+OBJC_METH_VAR_NAME_681
+OBJC_METH_VAR_NAME_682
+OBJC_METH_VAR_NAME_683
+OBJC_METH_VAR_NAME_684
+OBJC_METH_VAR_TYPE_685
+OBJC_METH_VAR_NAME_686
+OBJC_METH_VAR_NAME_687
+OBJC_METH_VAR_NAME_688
+OBJC_METH_VAR_NAME_689
+OBJC_METH_VAR_NAME_690
+OBJC_METH_VAR_TYPE_691
+OBJC_METH_VAR_NAME_692
+OBJC_METH_VAR_TYPE_693
+OBJC_METH_VAR_NAME_694
+OBJC_METH_VAR_NAME_695
+OBJC_METH_VAR_NAME_696
+OBJC_METH_VAR_NAME_697
+OBJC_METH_VAR_TYPE_698
+OBJC_METH_VAR_TYPE_699
+OBJC_METH_VAR_NAME_700
+OBJC_METH_VAR_NAME_701
+OBJC_METH_VAR_NAME_702
+OBJC_METH_VAR_TYPE_703
+OBJC_METH_VAR_TYPE_704
+OBJC_METH_VAR_NAME_705
+OBJC_METH_VAR_TYPE_706
+OBJC_METH_VAR_TYPE_707
+OBJC_METH_VAR_NAME_708
+OBJC_METH_VAR_NAME_709
+OBJC_METH_VAR_TYPE_710
+OBJC_METH_VAR_NAME_711
+OBJC_METH_VAR_TYPE_712
+OBJC_METH_VAR_NAME_713
+OBJC_METH_VAR_TYPE_714
+OBJC_CLASS_NAME_715
+OBJC_METH_VAR_NAME_716
+OBJC_METH_VAR_TYPE_717
+OBJC_METH_VAR_NAME_718
+OBJC_METH_VAR_NAME_719
+OBJC_METH_VAR_NAME_720
+OBJC_METH_VAR_TYPE_721
+OBJC_METH_VAR_TYPE_722
+OBJC_METH_VAR_NAME_723
+OBJC_METH_VAR_TYPE_724
+OBJC_METH_VAR_TYPE_725
+OBJC_METH_VAR_NAME_726
+OBJC_METH_VAR_NAME_727
+OBJC_METH_VAR_NAME_728
+OBJC_METH_VAR_NAME_729
+OBJC_METH_VAR_TYPE_730
+OBJC_METH_VAR_NAME_731
+OBJC_METH_VAR_TYPE_732
+OBJC_METH_VAR_NAME_733
+OBJC_METH_VAR_TYPE_734
+OBJC_METH_VAR_TYPE_735
+OBJC_METH_VAR_NAME_736
+OBJC_METH_VAR_TYPE_737
+OBJC_METH_VAR_NAME_738
+OBJC_CLASS_NAME_739
+OBJC_METH_VAR_NAME_740
+OBJC_METH_VAR_NAME_741
+OBJC_METH_VAR_NAME_742
+OBJC_METH_VAR_NAME_743
+OBJC_METH_VAR_NAME_744
+OBJC_CLASS_NAME_745
+l_OBJC_$_PROTOCOL_REFS_UISearchControllerDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UISearchControllerDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UISearchControllerDelegate
+l_OBJC_PROTOCOL_$_UISearchControllerDelegate
+l_OBJC_LABEL_PROTOCOL_$_UISearchControllerDelegate
+OBJC_METH_VAR_NAME_746
+OBJC_METH_VAR_TYPE_747
+OBJC_CLASS_NAME_748
+l_OBJC_$_PROTOCOL_REFS_TagReviewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_TagReviewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_TagReviewDelegate
+l_OBJC_PROTOCOL_$_TagReviewDelegate
+l_OBJC_LABEL_PROTOCOL_$_TagReviewDelegate
+OBJC_CLASS_NAME_749
+l_OBJC_$_PROTOCOL_REFS_firstViewContDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_firstViewContDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_firstViewContDelegate
+l_OBJC_PROTOCOL_$_firstViewContDelegate
+l_OBJC_LABEL_PROTOCOL_$_firstViewContDelegate
+l_OBJC_CLASS_PROTOCOLS_$_FirstViewController
+l_OBJC_METACLASS_RO_$_FirstViewController
+OBJC_METACLASS_$_FirstViewController
+OBJC_CLASS_NAME_750
+OBJC_METH_VAR_NAME_751
+OBJC_METH_VAR_TYPE_752
+OBJC_METH_VAR_NAME_753
+OBJC_METH_VAR_NAME_754
+OBJC_METH_VAR_NAME_755
+OBJC_METH_VAR_TYPE_756
+OBJC_METH_VAR_NAME_757
+OBJC_METH_VAR_NAME_758
+OBJC_METH_VAR_NAME_759
+OBJC_METH_VAR_NAME_760
+OBJC_METH_VAR_NAME_761
+OBJC_METH_VAR_NAME_762
+OBJC_METH_VAR_NAME_763
+OBJC_METH_VAR_NAME_764
+OBJC_METH_VAR_NAME_765
+OBJC_METH_VAR_NAME_766
+OBJC_METH_VAR_NAME_767
+OBJC_METH_VAR_NAME_768
+OBJC_METH_VAR_NAME_769
+OBJC_METH_VAR_NAME_770
+OBJC_METH_VAR_NAME_771
+OBJC_METH_VAR_NAME_772
+OBJC_METH_VAR_NAME_773
+OBJC_METH_VAR_NAME_774
+OBJC_METH_VAR_NAME_775
+OBJC_METH_VAR_NAME_776
+OBJC_METH_VAR_NAME_777
+OBJC_METH_VAR_NAME_778
+OBJC_METH_VAR_TYPE_779
+OBJC_METH_VAR_NAME_780
+OBJC_METH_VAR_TYPE_781
+OBJC_METH_VAR_NAME_782
+OBJC_METH_VAR_NAME_783
+OBJC_METH_VAR_NAME_784
+OBJC_METH_VAR_NAME_785
+OBJC_METH_VAR_NAME_786
+OBJC_METH_VAR_NAME_787
+OBJC_METH_VAR_NAME_788
+OBJC_METH_VAR_NAME_789
+OBJC_METH_VAR_NAME_790
+OBJC_METH_VAR_NAME_791
+OBJC_METH_VAR_NAME_792
+OBJC_METH_VAR_NAME_793
+OBJC_METH_VAR_NAME_794
+OBJC_METH_VAR_NAME_795
+OBJC_METH_VAR_NAME_796
+OBJC_METH_VAR_NAME_797
+OBJC_METH_VAR_NAME_798
+OBJC_METH_VAR_NAME_799
+OBJC_METH_VAR_NAME_800
+OBJC_METH_VAR_NAME_801
+OBJC_METH_VAR_NAME_802
+OBJC_METH_VAR_NAME_803
+OBJC_METH_VAR_NAME_804
+OBJC_METH_VAR_NAME_805
+OBJC_METH_VAR_NAME_806
+OBJC_METH_VAR_NAME_807
+OBJC_METH_VAR_NAME_808
+OBJC_METH_VAR_NAME_809
+OBJC_METH_VAR_NAME_810
+OBJC_METH_VAR_NAME_811
+OBJC_METH_VAR_NAME_812
+OBJC_METH_VAR_NAME_813
+OBJC_METH_VAR_NAME_814
+OBJC_METH_VAR_NAME_815
+OBJC_METH_VAR_NAME_816
+OBJC_METH_VAR_NAME_817
+OBJC_METH_VAR_NAME_818
+OBJC_METH_VAR_NAME_819
+OBJC_METH_VAR_NAME_820
+OBJC_METH_VAR_NAME_821
+OBJC_METH_VAR_NAME_822
+OBJC_METH_VAR_NAME_823
+l_OBJC_$_INSTANCE_METHODS_FirstViewController
+OBJC_METH_VAR_NAME_824
+OBJC_METH_VAR_TYPE_825
+OBJC_METH_VAR_TYPE_826
+OBJC_METH_VAR_TYPE_827
+OBJC_METH_VAR_TYPE_828
+OBJC_METH_VAR_TYPE_829
+OBJC_METH_VAR_TYPE_830
+OBJC_METH_VAR_TYPE_831
+OBJC_METH_VAR_TYPE_832
+OBJC_METH_VAR_TYPE_833
+OBJC_METH_VAR_TYPE_834
+OBJC_METH_VAR_TYPE_835
+OBJC_METH_VAR_TYPE_836
+OBJC_METH_VAR_TYPE_837
+OBJC_METH_VAR_TYPE_838
+OBJC_METH_VAR_TYPE_839
+OBJC_METH_VAR_TYPE_840
+OBJC_METH_VAR_TYPE_841
+OBJC_METH_VAR_NAME_842
+OBJC_METH_VAR_TYPE_843
+OBJC_METH_VAR_NAME_844
+OBJC_METH_VAR_TYPE_845
+l_OBJC_$_INSTANCE_VARIABLES_FirstViewController
+OBJC_CLASS_NAME_846
+OBJC_PROP_NAME_ATTR_847
+OBJC_PROP_NAME_ATTR_848
+OBJC_PROP_NAME_ATTR_849
+OBJC_PROP_NAME_ATTR_850
+OBJC_PROP_NAME_ATTR_851
+OBJC_PROP_NAME_ATTR_852
+OBJC_PROP_NAME_ATTR_853
+OBJC_PROP_NAME_ATTR_854
+OBJC_PROP_NAME_ATTR_855
+OBJC_PROP_NAME_ATTR_856
+OBJC_PROP_NAME_ATTR_857
+OBJC_PROP_NAME_ATTR_858
+OBJC_PROP_NAME_ATTR_859
+OBJC_PROP_NAME_ATTR_860
+OBJC_PROP_NAME_ATTR_861
+OBJC_PROP_NAME_ATTR_862
+OBJC_PROP_NAME_ATTR_863
+OBJC_PROP_NAME_ATTR_864
+OBJC_PROP_NAME_ATTR_865
+OBJC_PROP_NAME_ATTR_866
+OBJC_PROP_NAME_ATTR_867
+OBJC_PROP_NAME_ATTR_868
+OBJC_PROP_NAME_ATTR_869
+OBJC_PROP_NAME_ATTR_870
+OBJC_PROP_NAME_ATTR_871
+OBJC_PROP_NAME_ATTR_872
+OBJC_PROP_NAME_ATTR_873
+OBJC_PROP_NAME_ATTR_874
+OBJC_PROP_NAME_ATTR_875
+OBJC_PROP_NAME_ATTR_876
+OBJC_PROP_NAME_ATTR_877
+OBJC_PROP_NAME_ATTR_878
+OBJC_PROP_NAME_ATTR_879
+OBJC_PROP_NAME_ATTR_880
+OBJC_PROP_NAME_ATTR_881
+OBJC_PROP_NAME_ATTR_882
+OBJC_PROP_NAME_ATTR_883
+OBJC_PROP_NAME_ATTR_884
+OBJC_PROP_NAME_ATTR_885
+OBJC_PROP_NAME_ATTR_886
+OBJC_PROP_NAME_ATTR_887
+OBJC_PROP_NAME_ATTR_888
+OBJC_PROP_NAME_ATTR_889
+OBJC_PROP_NAME_ATTR_890
+OBJC_PROP_NAME_ATTR_891
+OBJC_PROP_NAME_ATTR_892
+OBJC_PROP_NAME_ATTR_893
+OBJC_PROP_NAME_ATTR_894
+OBJC_PROP_NAME_ATTR_895
+OBJC_PROP_NAME_ATTR_896
+OBJC_PROP_NAME_ATTR_897
+OBJC_PROP_NAME_ATTR_898
+OBJC_PROP_NAME_ATTR_899
+OBJC_PROP_NAME_ATTR_900
+OBJC_PROP_NAME_ATTR_901
+OBJC_PROP_NAME_ATTR_902
+OBJC_PROP_NAME_ATTR_903
+OBJC_PROP_NAME_ATTR_904
+OBJC_PROP_NAME_ATTR_905
+OBJC_PROP_NAME_ATTR_906
+l_OBJC_$_PROP_LIST_FirstViewController
+l_OBJC_CLASS_RO_$_FirstViewController
+-[FirstViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/FirstViewController.m
+-[FirstViewController setMonthRevCont:]
+/Users/sweeharng/Desktop/What's left?/What's left?/FirstViewController.h
+-[FirstViewController monthRevCont]
+-[FirstViewController setSearchController:]
+-[FirstViewController searchController]
+-[FirstViewController setSummaryCont:]
+-[FirstViewController summaryCont]
+-[FirstViewController setIntroCont:]
+-[FirstViewController introCont]
+-[FirstViewController setViewContLink:]
+-[FirstViewController viewContLink]
+-[FirstViewController setTagRevCont:]
+-[FirstViewController tagRevCont]
+-[FirstViewController setNameRevCont:]
+-[FirstViewController nameRevCont]
+-[FirstViewController setExportImportManager:]
+-[FirstViewController exportImportManager]
+-[FirstViewController setSecondViewCont:]
+-[FirstViewController secondViewCont]
+-[FirstViewController setSearchSectionTitles:]
+-[FirstViewController SearchSectionTitles]
+-[FirstViewController setMonths:]
+-[FirstViewController months]
+-[FirstViewController setFilteredItemsBySection:]
+-[FirstViewController FilteredItemsBySection]
+-[FirstViewController setSearchResultsController:]
+-[FirstViewController searchResultsController]
+-[FirstViewController setFavButtonsAreOpen:]
+-[FirstViewController FavButtonsAreOpen]
+-[FirstViewController setFavButtons:]
+-[FirstViewController FavButtons]
+-[FirstViewController setRecentsButtons:]
+-[FirstViewController RecentsButtons]
+-[FirstViewController setRecentsButtonsAreOpen:]
+-[FirstViewController RecentsButtonsAreOpen]
+-[FirstViewController setDepositButtonIsOpen:]
+-[FirstViewController DepositButtonIsOpen]
+-[FirstViewController setRecentsButtonIsOpen:]
+-[FirstViewController RecentsButtonIsOpen]
+-[FirstViewController setWithdrawalButtonIsOpen:]
+-[FirstViewController WithdrawalButtonIsOpen]
+-[FirstViewController setFavoriteButtonIsOpen:]
+-[FirstViewController FavoriteButtonIsOpen]
+-[FirstViewController setThisSettings:]
+-[FirstViewController thisSettings]
+-[FirstViewController setMainBankDisplay:]
+-[FirstViewController MainBankDisplay]
+-[FirstViewController setScreen:]
+-[FirstViewController screen]
+-[FirstViewController setHundredRelativePts:]
+-[FirstViewController hundredRelativePts]
+-[FirstViewController setControlButton:]
+-[FirstViewController ControlButton]
+-[FirstViewController setDepositButton:]
+-[FirstViewController DepositButton]
+-[FirstViewController setRecentsButton:]
+-[FirstViewController RecentsButton]
+-[FirstViewController setWithdrawalButton:]
+-[FirstViewController WithdrawalButton]
+-[FirstViewController setFavoritesButton:]
+-[FirstViewController FavoritesButton]
+-[FirstViewController ShowIntro]
+-[FirstViewController InitIntroCont]
+-[FirstViewController prepareForSegue:sender:]
+-[FirstViewController SetSecondViewLink]
+-[FirstViewController CloseFavs]
+-[FirstViewController OpenFavs]
+-[FirstViewController CloseRecents]
+-[FirstViewController OpenRecents]
+-[FirstViewController CloseWithdraw]
+-[FirstViewController OpenWithdraw]
+-[FirstViewController CloseDeposit]
+-[FirstViewController OpenDeposit]
+-[FirstViewController CloseFavSubs]
+-[FirstViewController OpenFavSubs]
+-[FirstViewController CloseRecentSubs]
+-[FirstViewController OpenRecentSubs]
+-[FirstViewController TouchDraggedOutsideControl:forEvent:]
+-[FirstViewController FavoritesButtonExit:forEvent:]
+-[FirstViewController FavoritesButtonEnter:forEvent:]
+-[FirstViewController DepositButtonExit:forEvent:]
+-[FirstViewController DepositButtonEnter:forEvent:]
+-[FirstViewController RecentsButtonExit:forEvent:]
+-[FirstViewController RecentsButtonEnter:forEvent:]
+-[FirstViewController WithDrawButtonExit:forEvent:]
+-[FirstViewController WithDrawButtonEnter:forEvent:]
+-[FirstViewController UpdateFavouriteEventsTable]
+-[FirstViewController DeleteEventByTagInMonth:]
+-[FirstViewController DeleteEvent:]
+-[FirstViewController LoadReviewControllers]
+-[FirstViewController ValuesByMonthByTag]
+-[FirstViewController TitlesByMonthByTag]
+-[FirstViewController DisplayArrayByTagByMonth]
+-[FirstViewController PushEditEventController:]
+-[FirstViewController tableView:commitEditingStyle:forRowAtIndexPath:]
+-[FirstViewController tableView:didSelectRowAtIndexPath:]
+-[FirstViewController tableView:cellForRowAtIndexPath:]
+-[FirstViewController tableView:viewForHeaderInSection:]
+-[FirstViewController tableView:heightForHeaderInSection:]
+-[FirstViewController tableView:canEditRowAtIndexPath:]
+-[FirstViewController numberOfSectionsInTableView:]
+-[FirstViewController tableView:numberOfRowsInSection:]
+-[FirstViewController searchBar:textDidChange:]
+-[FirstViewController UpdateSettingsData]
+-[FirstViewController LoadSettings]
+-[FirstViewController LoadSettingsInitial]
+-[FirstViewController UpdateNavBarTitle]
+-[FirstViewController UpdateFavRecButtonTitles]
+-[FirstViewController UpdateBankDisplay]
+-[FirstViewController UpdateBank]
+-[FirstViewController UpdateBankAndSettings]
+-[FirstViewController setTitle:]
+-[FirstViewController updateSearchResultsForSearchController:]
+-[FirstViewController PrepSearchBar]
+-[FirstViewController SizingMisc]
+-[FirstViewController ShowShadowForButton:]
+-[FirstViewController HideShadowForButton:]
+-[FirstViewController RecSubAction:]
+-[FirstViewController FavSubAction:]
+-[FirstViewController WithdrawButtonAction]
+-[FirstViewController DepositButtonAction]
+-[FirstViewController RecentsButtonAction]
+-[FirstViewController FavButtonAction]
+-[FirstViewController CloseAllExcept:]
+-[FirstViewController CloseControlsWithEvent:forEvent:]
+-[FirstViewController CloseControlsWithoutEvent:]
+-[FirstViewController OpenControls:]
+-[FirstViewController didReceiveMemoryWarning]
+-[FirstViewController initArrays]
+-[FirstViewController viewWillAppear:]
+-[FirstViewController viewDidLoad]
+main
+/Users/sweeharng/Desktop/What's left?/What's left?/main.m
+-[customSegue perform]
+l_OBJC_METACLASS_RO_$_customSegue
+OBJC_METACLASS_$_customSegue
+l_OBJC_$_INSTANCE_METHODS_customSegue
+l_OBJC_CLASS_RO_$_customSegue
+OBJC_CLASS_$_customSegue
+-[customSegue perform]
+/Users/sweeharng/Desktop/What's left?/What's left?/customSegue.m
+-[SummaryCell init]
+-[SummaryCell initFromLoad]
+-[SummaryCell awakeFromNib]
+-[SummaryCell setSelected:animated:]
+-[SummaryCell SizingMisc]
+-[SummaryCell UpdateDisplay]
+-[SummaryCell HalfBoldStringWithValues:withsecondValue:withextension:]
+-[SummaryCell screen]
+-[SummaryCell setScreen:]
+-[SummaryCell hundredRelativePts]
+-[SummaryCell setHundredRelativePts:]
+-[SummaryCell displayMode]
+-[SummaryCell setDisplayMode:]
+-[SummaryCell timeFrame]
+-[SummaryCell setTimeFrame:]
+-[SummaryCell displayValue]
+-[SummaryCell setDisplayValue:]
+-[SummaryCell displayMaxValue]
+-[SummaryCell setDisplayMaxValue:]
+-[SummaryCell thisSettings]
+-[SummaryCell setThisSettings:]
+-[SummaryCell displayString]
+-[SummaryCell setDisplayString:]
+-[SummaryCell progressBar]
+-[SummaryCell setProgressBar:]
+-[SummaryCell CellText]
+-[SummaryCell setCellText:]
+-[SummaryCell type2MainLabel]
+-[SummaryCell setType2MainLabel:]
+-[SummaryCell type2SecLabel]
+-[SummaryCell setType2SecLabel:]
+-[SummaryCell .cxx_destruct]
+OBJC_IVAR_$_SummaryCell.thisSettings
+OBJC_IVAR_$_SummaryCell.displayMode
+OBJC_IVAR_$_SummaryCell.timeFrame
+OBJC_IVAR_$_SummaryCell.type2MainLabel
+OBJC_CLASSLIST_REFERENCES_$_26
+OBJC_IVAR_$_SummaryCell.type2SecLabel
+OBJC_IVAR_$_SummaryCell.green
+OBJC_IVAR_$_SummaryCell.red
+OBJC_IVAR_$_SummaryCell.progressBar
+OBJC_CLASS_$_SummaryCell
+OBJC_IVAR_$_SummaryCell.displayValue
+OBJC_IVAR_$_SummaryCell.displayString
+OBJC_IVAR_$_SummaryCell.displayMaxValue
+OBJC_IVAR_$_SummaryCell.CellText
+.str68
+_unnamed_cfstring_69
+.str90
+_unnamed_cfstring_91
+.str94
+_unnamed_cfstring_95
+.str106
+_unnamed_cfstring_107
+.str108
+_unnamed_cfstring_109
+OBJC_CLASSLIST_REFERENCES_$_110
+OBJC_IVAR_$_SummaryCell.screen
+OBJC_IVAR_$_SummaryCell.hundredRelativePts
+l_OBJC_METACLASS_RO_$_SummaryCell
+OBJC_METACLASS_$_SummaryCell
+OBJC_CLASS_NAME_126
+OBJC_METH_VAR_TYPE_144
+OBJC_METH_VAR_NAME_158
+l_OBJC_$_INSTANCE_METHODS_SummaryCell
+OBJC_METH_VAR_TYPE_164
+OBJC_METH_VAR_TYPE_166
+OBJC_METH_VAR_TYPE_167
+OBJC_METH_VAR_TYPE_169
+l_OBJC_$_INSTANCE_VARIABLES_SummaryCell
+OBJC_PROP_NAME_ATTR_174
+OBJC_PROP_NAME_ATTR_175
+OBJC_PROP_NAME_ATTR_176
+OBJC_PROP_NAME_ATTR_177
+OBJC_PROP_NAME_ATTR_178
+OBJC_PROP_NAME_ATTR_179
+OBJC_PROP_NAME_ATTR_194
+OBJC_PROP_NAME_ATTR_195
+OBJC_PROP_NAME_ATTR_196
+l_OBJC_$_PROP_LIST_SummaryCell
+l_OBJC_CLASS_RO_$_SummaryCell
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[SummaryCell .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/SummaryCell.m
+-[SummaryCell setType2SecLabel:]
+/Users/sweeharng/Desktop/What's left?/What's left?/SummaryCell.h
+-[SummaryCell type2SecLabel]
+-[SummaryCell setType2MainLabel:]
+-[SummaryCell type2MainLabel]
+-[SummaryCell setCellText:]
+-[SummaryCell CellText]
+-[SummaryCell setProgressBar:]
+-[SummaryCell progressBar]
+-[SummaryCell setDisplayString:]
+-[SummaryCell displayString]
+-[SummaryCell setThisSettings:]
+-[SummaryCell thisSettings]
+-[SummaryCell setDisplayMaxValue:]
+-[SummaryCell displayMaxValue]
+-[SummaryCell setDisplayValue:]
+-[SummaryCell displayValue]
+-[SummaryCell setTimeFrame:]
+-[SummaryCell timeFrame]
+-[SummaryCell setDisplayMode:]
+-[SummaryCell displayMode]
+-[SummaryCell setHundredRelativePts:]
+-[SummaryCell hundredRelativePts]
+-[SummaryCell setScreen:]
+-[SummaryCell screen]
+-[SummaryCell HalfBoldStringWithValues:withsecondValue:withextension:]
+-[SummaryCell UpdateDisplay]
+-[SummaryCell SizingMisc]
+-[SummaryCell setSelected:animated:]
+-[SummaryCell awakeFromNib]
+-[SummaryCell initFromLoad]
+-[SummaryCell init]
+-[ViewControllersLink init]
+-[ViewControllersLink delegate]
+-[ViewControllersLink setDelegate:]
+-[ViewControllersLink secondDelegate]
+-[ViewControllersLink setSecondDelegate:]
+-[ViewControllersLink .cxx_destruct]
+OBJC_IVAR_$_ViewControllersLink._delegate
+OBJC_IVAR_$_ViewControllersLink._secondDelegate
+l_OBJC_METACLASS_RO_$_ViewControllersLink
+OBJC_METACLASS_$_ViewControllersLink
+l_OBJC_$_INSTANCE_METHODS_ViewControllersLink
+l_OBJC_$_INSTANCE_VARIABLES_ViewControllersLink
+OBJC_CLASS_NAME_13
+OBJC_PROP_NAME_ATTR_14
+OBJC_PROP_NAME_ATTR_15
+OBJC_PROP_NAME_ATTR_16
+l_OBJC_$_PROP_LIST_ViewControllersLink
+l_OBJC_CLASS_RO_$_ViewControllersLink
+-[ViewControllersLink .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/ViewControllersLink.m
+-[ViewControllersLink setSecondDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/ViewControllersLink.h
+-[ViewControllersLink secondDelegate]
+-[ViewControllersLink setDelegate:]
+-[ViewControllersLink delegate]
+-[ViewControllersLink init]
+-[WidgetViewController init]
+-[WidgetViewController viewDidLoad]
+-[WidgetViewController viewWillAppear:]
+-[WidgetViewController viewDidAppear:]
+-[WidgetViewController didReceiveMemoryWarning]
+-[WidgetViewController SizingMisc]
+-[WidgetViewController InitWidgets]
+-[WidgetViewController UpdateAllWidgets]
+-[WidgetViewController imageWithColor:]
+-[WidgetViewController WidgetPressed:]
+-[WidgetViewController screen]
+-[WidgetViewController setScreen:]
+-[WidgetViewController hundredRelativePts]
+-[WidgetViewController setHundredRelativePts:]
+-[WidgetViewController headerWidget]
+-[WidgetViewController setHeaderWidget:]
+-[WidgetViewController allWidgets]
+-[WidgetViewController setAllWidgets:]
+-[WidgetViewController .cxx_destruct]
+OBJC_CLASS_$_WidgetViewController
+OBJC_IVAR_$_WidgetViewController.allWidgets
+OBJC_IVAR_$_WidgetViewController.screen
+OBJC_IVAR_$_WidgetViewController.hundredRelativePts
+OBJC_IVAR_$_WidgetViewController.headerWidget
+l_OBJC_METACLASS_RO_$_WidgetViewController
+OBJC_METACLASS_$_WidgetViewController
+OBJC_CLASS_NAME_52
+OBJC_METH_VAR_TYPE_53
+OBJC_METH_VAR_TYPE_58
+l_OBJC_$_INSTANCE_METHODS_WidgetViewController
+OBJC_METH_VAR_TYPE_72
+l_OBJC_$_INSTANCE_VARIABLES_WidgetViewController
+l_OBJC_$_PROP_LIST_WidgetViewController
+l_OBJC_CLASS_RO_$_WidgetViewController
+-[WidgetViewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/WidgetViewController.m
+-[WidgetViewController setAllWidgets:]
+/Users/sweeharng/Desktop/What's left?/WidgetViewController.h
+-[WidgetViewController allWidgets]
+-[WidgetViewController setHeaderWidget:]
+-[WidgetViewController headerWidget]
+-[WidgetViewController setHundredRelativePts:]
+-[WidgetViewController hundredRelativePts]
+-[WidgetViewController setScreen:]
+-[WidgetViewController screen]
+-[WidgetViewController WidgetPressed:]
+-[WidgetViewController imageWithColor:]
+-[WidgetViewController UpdateAllWidgets]
+-[WidgetViewController InitWidgets]
+-[WidgetViewController SizingMisc]
+-[WidgetViewController didReceiveMemoryWarning]
+-[WidgetViewController viewDidAppear:]
+-[WidgetViewController viewWillAppear:]
+-[WidgetViewController viewDidLoad]
+-[WidgetViewController init]
+-[ManageUserPreferredEvents viewDidLoad]
+-[ManageUserPreferredEvents viewWillAppear:]
+-[ManageUserPreferredEvents didReceiveMemoryWarning]
+-[ManageUserPreferredEvents initArrays]
+-[ManageUserPreferredEvents AddNewFavButton]
+-[ManageUserPreferredEvents numberOfSectionsInTableView:]
+-[ManageUserPreferredEvents tableView:numberOfRowsInSection:]
+-[ManageUserPreferredEvents tableView:cellForRowAtIndexPath:]
+-[ManageUserPreferredEvents tableView:didSelectRowAtIndexPath:]
+-[ManageUserPreferredEvents addEventViewCont]
+-[ManageUserPreferredEvents setAddEventViewCont:]
+-[ManageUserPreferredEvents thisSetting]
+-[ManageUserPreferredEvents setThisSetting:]
+-[ManageUserPreferredEvents delegate]
+-[ManageUserPreferredEvents setDelegate:]
+-[ManageUserPreferredEvents .cxx_destruct]
+OBJC_IVAR_$_ManageUserPreferredEvents.thisSetting
+OBJC_CLASSLIST_REFERENCES_$_7
+OBJC_IVAR_$_ManageUserPreferredEvents.addEventViewCont
+OBJC_CLASSLIST_REFERENCES_$_33
+OBJC_IVAR_$_ManageUserPreferredEvents._delegate
+OBJC_METH_VAR_TYPE_56
+OBJC_METH_VAR_TYPE_82
+OBJC_CLASS_NAME_83
+OBJC_METH_VAR_TYPE_85
+OBJC_METH_VAR_TYPE_95
+OBJC_METH_VAR_TYPE_107
+OBJC_METH_VAR_TYPE_116
+OBJC_CLASS_NAME_118
+OBJC_PROP_NAME_ATTR_123
+OBJC_PROP_NAME_ATTR_124
+OBJC_METH_VAR_TYPE_135
+OBJC_METH_VAR_TYPE_145
+OBJC_METH_VAR_TYPE_157
+OBJC_CLASS_NAME_187
+OBJC_METH_VAR_TYPE_194
+OBJC_METH_VAR_TYPE_205
+OBJC_METH_VAR_TYPE_208
+OBJC_CLASS_NAME_212
+l_OBJC_CLASS_PROTOCOLS_$_ManageUserPreferredEvents
+l_OBJC_METACLASS_RO_$_ManageUserPreferredEvents
+OBJC_METACLASS_$_ManageUserPreferredEvents
+OBJC_CLASS_NAME_213
+l_OBJC_$_INSTANCE_METHODS_ManageUserPreferredEvents
+l_OBJC_$_INSTANCE_VARIABLES_ManageUserPreferredEvents
+OBJC_CLASS_NAME_228
+l_OBJC_$_PROP_LIST_ManageUserPreferredEvents
+l_OBJC_CLASS_RO_$_ManageUserPreferredEvents
+-[ManageUserPreferredEvents .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/ManageUserPreferredEvents.m
+-[ManageUserPreferredEvents setDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/ManageUserPreferredEvents.h
+-[ManageUserPreferredEvents delegate]
+-[ManageUserPreferredEvents setThisSetting:]
+-[ManageUserPreferredEvents thisSetting]
+-[ManageUserPreferredEvents setAddEventViewCont:]
+-[ManageUserPreferredEvents addEventViewCont]
+-[ManageUserPreferredEvents tableView:didSelectRowAtIndexPath:]
+-[ManageUserPreferredEvents tableView:cellForRowAtIndexPath:]
+-[ManageUserPreferredEvents tableView:numberOfRowsInSection:]
+-[ManageUserPreferredEvents numberOfSectionsInTableView:]
+-[ManageUserPreferredEvents AddNewFavButton]
+-[ManageUserPreferredEvents initArrays]
+-[ManageUserPreferredEvents didReceiveMemoryWarning]
+-[ManageUserPreferredEvents viewWillAppear:]
+-[ManageUserPreferredEvents viewDidLoad]
+-[Bank init]
++[Bank Singleton]
+__17+[Bank Singleton]_block_invoke
+-[Bank initFromLoad]
+-[Bank CalculateBalance]
+-[Bank MonthFromDate:]
+-[Bank YearFromDate:]
+-[Bank MonthAndYearFromDate:]
+-[Bank LoadAllMonthsArray]
+__26-[Bank LoadAllMonthsArray]_block_invoke
+-[Bank ArrangeAndSplitByPayCycle:withOutput:]
+__45-[Bank ArrangeAndSplitByPayCycle:withOutput:]_block_invoke
+-[Bank IsFromSamePayCycle:witheventB:]
+-[Bank ArrangeAndSplitByMonth:withOutput:]
+__42-[Bank ArrangeAndSplitByMonth:withOutput:]_block_invoke
+-[Bank CalculateSpendingByMonthByTag:withMonthAndYear:]
+-[Bank CalculateSpendingByTag:]
+-[Bank CalculateSpendingByMonthAndYear:]
+-[Bank CalculateMonthBalance:]
+-[Bank CalculateMonthExpenditure:]
+-[Bank CalculateMonthClaimable:]
+-[Bank NumberOfMonths]
+-[Bank AddEvent:withAmount:withDate:witheventType:withTags:]
+-[Bank EditEvent:withName:withAmount:withDate:witheventType:withTags:]
+-[Bank LoadAllTags]
+-[Bank ThisMonthEvents]
+-[Bank ThisMonthExpenditure]
+-[Bank encodeWithCoder:]
+-[Bank initWithCoder:]
+-[Bank events]
+-[Bank setEvents:]
+-[Bank noOfMonths]
+-[Bank setNoOfMonths:]
+-[Bank noOfPayCycles]
+-[Bank setNoOfPayCycles:]
+-[Bank Balance]
+-[Bank setBalance:]
+-[Bank eventsInMonths]
+-[Bank setEventsInMonths:]
+-[Bank allTags]
+-[Bank setAllTags:]
+-[Bank allMonthsDatesString]
+-[Bank setAllMonthsDatesString:]
+-[Bank claimableBalance]
+-[Bank setClaimableBalance:]
+-[Bank eventsInPayCycle]
+-[Bank setEventsInPayCycle:]
+-[Bank delegate]
+-[Bank setDelegate:]
+-[Bank .cxx_destruct]
+Singleton.bankSingleton
+Singleton.onceToken
+OBJC_IVAR_$_Bank.events
+OBJC_IVAR_$_Bank.eventsInMonths
+OBJC_IVAR_$_Bank.allTags
+OBJC_IVAR_$_Bank.allMonthsDatesString
+OBJC_IVAR_$_Bank.Balance
+OBJC_IVAR_$_Bank.claimableBalance
+__block_descriptor_tmp45
+__block_literal_global46
+OBJC_IVAR_$_Bank.noOfPayCycles
+__block_descriptor_tmp54
+__block_literal_global55
+OBJC_CLASSLIST_REFERENCES_$_58
+OBJC_IVAR_$_Bank.noOfMonths
+__block_descriptor_tmp69
+__block_literal_global70
+OBJC_CLASSLIST_REFERENCES_$_92
+.str99
+OBJC_IVAR_$_Bank._eventsInPayCycle
+OBJC_IVAR_$_Bank._delegate
+l_OBJC_$_CLASS_METHODS_Bank
+l_OBJC_METACLASS_RO_$_Bank
+OBJC_METACLASS_$_Bank
+OBJC_CLASS_NAME_108
+l_OBJC_$_INSTANCE_METHODS_Bank
+l_OBJC_$_INSTANCE_VARIABLES_Bank
+OBJC_CLASS_NAME_161
+OBJC_PROP_NAME_ATTR_164
+OBJC_PROP_NAME_ATTR_165
+OBJC_PROP_NAME_ATTR_166
+OBJC_PROP_NAME_ATTR_167
+OBJC_PROP_NAME_ATTR_168
+OBJC_PROP_NAME_ATTR_169
+OBJC_PROP_NAME_ATTR_170
+OBJC_PROP_NAME_ATTR_171
+OBJC_PROP_NAME_ATTR_172
+OBJC_PROP_NAME_ATTR_173
+l_OBJC_$_PROP_LIST_Bank
+l_OBJC_CLASS_RO_$_Bank
+_dispatch_once
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/dispatch/once.h
+-[Bank .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/Bank.m
+-[Bank setDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/Bank.h
+-[Bank delegate]
+-[Bank setEventsInPayCycle:]
+-[Bank eventsInPayCycle]
+-[Bank setClaimableBalance:]
+-[Bank claimableBalance]
+-[Bank setAllMonthsDatesString:]
+-[Bank allMonthsDatesString]
+-[Bank setAllTags:]
+-[Bank allTags]
+-[Bank setEventsInMonths:]
+-[Bank eventsInMonths]
+-[Bank setBalance:]
+-[Bank Balance]
+-[Bank setNoOfPayCycles:]
+-[Bank noOfPayCycles]
+-[Bank setNoOfMonths:]
+-[Bank noOfMonths]
+-[Bank setEvents:]
+-[Bank events]
+-[Bank initWithCoder:]
+-[Bank encodeWithCoder:]
+-[Bank ThisMonthExpenditure]
+-[Bank ThisMonthEvents]
+-[Bank LoadAllTags]
+-[Bank EditEvent:withName:withAmount:withDate:witheventType:withTags:]
+-[Bank AddEvent:withAmount:withDate:witheventType:withTags:]
+-[Bank NumberOfMonths]
+-[Bank CalculateMonthClaimable:]
+-[Bank CalculateMonthExpenditure:]
+-[Bank CalculateMonthBalance:]
+-[Bank CalculateSpendingByMonthAndYear:]
+-[Bank CalculateSpendingByTag:]
+-[Bank CalculateSpendingByMonthByTag:withMonthAndYear:]
+-[Bank ArrangeAndSplitByMonth:withOutput:]
+-[Bank IsFromSamePayCycle:witheventB:]
+-[Bank ArrangeAndSplitByPayCycle:withOutput:]
+-[Bank LoadAllMonthsArray]
+-[Bank MonthAndYearFromDate:]
+-[Bank YearFromDate:]
+-[Bank MonthFromDate:]
+-[Bank CalculateBalance]
+-[Bank initFromLoad]
++[Bank Singleton]
+-[Bank init]
+-[EditSummaryCellController init]
+-[EditSummaryCellController viewDidLoad]
+-[EditSummaryCellController viewWillAppear:]
+-[EditSummaryCellController didReceiveMemoryWarning]
+-[EditSummaryCellController LoadEditCellData]
+-[EditSummaryCellController SaveChanges]
+-[EditSummaryCellController numberOfComponentsInPickerView:]
+-[EditSummaryCellController pickerView:numberOfRowsInComponent:]
+-[EditSummaryCellController pickerView:titleForRow:forComponent:]
+-[EditSummaryCellController pickerView:didSelectRow:inComponent:]
+-[EditSummaryCellController pickerView:widthForComponent:]
+-[EditSummaryCellController pickerView:viewForRow:forComponent:reusingView:]
+-[EditSummaryCellController cellDataInEdit]
+-[EditSummaryCellController setCellDataInEdit:]
+-[EditSummaryCellController cellModePicker]
+-[EditSummaryCellController setCellModePicker:]
+-[EditSummaryCellController indexOfCellInEdit]
+-[EditSummaryCellController setIndexOfCellInEdit:]
+-[EditSummaryCellController thisSettings]
+-[EditSummaryCellController setThisSettings:]
+-[EditSummaryCellController delegate]
+-[EditSummaryCellController setDelegate:]
+-[EditSummaryCellController .cxx_destruct]
+OBJC_IVAR_$_EditSummaryCellController.cellModePicker
+.str18
+_unnamed_cfstring_19
+.str24
+_unnamed_cfstring_25
+OBJC_IVAR_$_EditSummaryCellController.summaryCellModes
+OBJC_IVAR_$_EditSummaryCellController.thisSettings
+OBJC_IVAR_$_EditSummaryCellController.cellDataInEdit
+OBJC_IVAR_$_EditSummaryCellController.selectedsDisp
+OBJC_IVAR_$_EditSummaryCellController.indexOfCellInEdit
+.str64
+_unnamed_cfstring_65
+OBJC_CLASSLIST_REFERENCES_$_73
+OBJC_IVAR_$_EditSummaryCellController._delegate
+OBJC_CLASS_NAME_87
+OBJC_METH_VAR_TYPE_111
+OBJC_CLASS_NAME_122
+OBJC_PROP_NAME_ATTR_125
+OBJC_PROP_NAME_ATTR_126
+OBJC_PROP_NAME_ATTR_127
+OBJC_PROP_NAME_ATTR_128
+l_OBJC_$_PROTOCOL_REFS_UIPickerViewDataSource
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_UIPickerViewDataSource
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIPickerViewDataSource
+l_OBJC_PROTOCOL_$_UIPickerViewDataSource
+l_OBJC_LABEL_PROTOCOL_$_UIPickerViewDataSource
+OBJC_METH_VAR_TYPE_131
+OBJC_CLASS_NAME_143
+l_OBJC_$_PROTOCOL_REFS_UIPickerViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIPickerViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIPickerViewDelegate
+l_OBJC_PROTOCOL_$_UIPickerViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIPickerViewDelegate
+l_OBJC_CLASS_PROTOCOLS_$_EditSummaryCellController
+l_OBJC_METACLASS_RO_$_EditSummaryCellController
+OBJC_METACLASS_$_EditSummaryCellController
+OBJC_METH_VAR_TYPE_147
+l_OBJC_$_INSTANCE_METHODS_EditSummaryCellController
+OBJC_METH_VAR_TYPE_161
+l_OBJC_$_INSTANCE_VARIABLES_EditSummaryCellController
+OBJC_CLASS_NAME_169
+l_OBJC_$_PROP_LIST_EditSummaryCellController
+l_OBJC_CLASS_RO_$_EditSummaryCellController
+-[EditSummaryCellController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/EditSummaryCellController.m
+-[EditSummaryCellController setDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/EditSummaryCellController.h
+-[EditSummaryCellController delegate]
+-[EditSummaryCellController setThisSettings:]
+-[EditSummaryCellController thisSettings]
+-[EditSummaryCellController setIndexOfCellInEdit:]
+-[EditSummaryCellController indexOfCellInEdit]
+-[EditSummaryCellController setCellModePicker:]
+-[EditSummaryCellController cellModePicker]
+-[EditSummaryCellController setCellDataInEdit:]
+-[EditSummaryCellController cellDataInEdit]
+-[EditSummaryCellController pickerView:viewForRow:forComponent:reusingView:]
+-[EditSummaryCellController pickerView:widthForComponent:]
+-[EditSummaryCellController pickerView:didSelectRow:inComponent:]
+-[EditSummaryCellController pickerView:titleForRow:forComponent:]
+-[EditSummaryCellController pickerView:numberOfRowsInComponent:]
+-[EditSummaryCellController numberOfComponentsInPickerView:]
+-[EditSummaryCellController SaveChanges]
+-[EditSummaryCellController LoadEditCellData]
+-[EditSummaryCellController didReceiveMemoryWarning]
+-[EditSummaryCellController viewWillAppear:]
+-[EditSummaryCellController viewDidLoad]
+-[EditSummaryCellController init]
+-[TagReviewController viewDidLoad]
+-[TagReviewController viewDidAppear:]
+-[TagReviewController didReceiveMemoryWarning]
+-[TagReviewController SizingMisc]
+-[TagReviewController BuildTableView]
+-[TagReviewController numberOfSectionsInTableView:]
+-[TagReviewController tableView:cellForRowAtIndexPath:]
+-[TagReviewController tableView:didSelectRowAtIndexPath:]
+-[TagReviewController tableView:numberOfRowsInSection:]
+-[TagReviewController tableView:canEditRowAtIndexPath:]
+-[TagReviewController tableView:commitEditingStyle:forRowAtIndexPath:]
+__70-[TagReviewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke
+__70-[TagReviewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke72
+__copy_helper_block_75
+__destroy_helper_block_76
+-[TagReviewController hundredRelativePts]
+-[TagReviewController setHundredRelativePts:]
+-[TagReviewController screen]
+-[TagReviewController setScreen:]
+-[TagReviewController arrayOfEventsToReview]
+-[TagReviewController setArrayOfEventsToReview:]
+-[TagReviewController tableView]
+-[TagReviewController setTableView:]
+-[TagReviewController delegate]
+-[TagReviewController setDelegate:]
+-[TagReviewController .cxx_destruct]
+OBJC_IVAR_$_TagReviewController.arrayOfEventsToReview
+OBJC_IVAR_$_TagReviewController.screen
+OBJC_IVAR_$_TagReviewController.hundredRelativePts
+OBJC_IVAR_$_TagReviewController.tableView
+OBJC_CLASSLIST_REFERENCES_$_51
+.str52
+_unnamed_cfstring_53
+__block_descriptor_tmp77
+OBJC_IVAR_$_TagReviewController._delegate
+OBJC_METH_VAR_TYPE_96
+OBJC_METH_VAR_TYPE_105
+OBJC_METH_VAR_TYPE_109
+OBJC_CLASS_NAME_110
+OBJC_METH_VAR_TYPE_124
+OBJC_CLASS_NAME_145
+OBJC_PROP_NAME_ATTR_146
+OBJC_PROP_NAME_ATTR_147
+OBJC_PROP_NAME_ATTR_148
+OBJC_PROP_NAME_ATTR_149
+OBJC_PROP_NAME_ATTR_150
+OBJC_PROP_NAME_ATTR_151
+OBJC_METH_VAR_TYPE_153
+OBJC_METH_VAR_TYPE_162
+OBJC_CLASS_NAME_214
+OBJC_METH_VAR_TYPE_221
+OBJC_CLASS_NAME_239
+l_OBJC_CLASS_PROTOCOLS_$_TagReviewController
+l_OBJC_METACLASS_RO_$_TagReviewController
+OBJC_METACLASS_$_TagReviewController
+OBJC_CLASS_NAME_240
+OBJC_METH_VAR_TYPE_246
+OBJC_METH_VAR_NAME_250
+l_OBJC_$_INSTANCE_METHODS_TagReviewController
+l_OBJC_$_INSTANCE_VARIABLES_TagReviewController
+OBJC_CLASS_NAME_261
+OBJC_PROP_NAME_ATTR_262
+OBJC_PROP_NAME_ATTR_263
+OBJC_PROP_NAME_ATTR_264
+OBJC_PROP_NAME_ATTR_265
+OBJC_PROP_NAME_ATTR_266
+OBJC_PROP_NAME_ATTR_267
+OBJC_PROP_NAME_ATTR_268
+OBJC_PROP_NAME_ATTR_269
+OBJC_PROP_NAME_ATTR_270
+OBJC_PROP_NAME_ATTR_271
+l_OBJC_$_PROP_LIST_TagReviewController
+l_OBJC_CLASS_RO_$_TagReviewController
+-[TagReviewController .cxx_destruct]
+/Users/sweeharng/Desktop/What's left?/What's left?/TagReviewController.m
+-[TagReviewController setDelegate:]
+/Users/sweeharng/Desktop/What's left?/What's left?/TagReviewController.h
+-[TagReviewController delegate]
+-[TagReviewController setTableView:]
+-[TagReviewController tableView]
+-[TagReviewController setArrayOfEventsToReview:]
+-[TagReviewController arrayOfEventsToReview]
+-[TagReviewController setScreen:]
+-[TagReviewController screen]
+-[TagReviewController setHundredRelativePts:]
+-[TagReviewController hundredRelativePts]
+-[TagReviewController tableView:commitEditingStyle:forRowAtIndexPath:]
+-[TagReviewController tableView:canEditRowAtIndexPath:]
+-[TagReviewController tableView:numberOfRowsInSection:]
+-[TagReviewController tableView:didSelectRowAtIndexPath:]
+-[TagReviewController tableView:cellForRowAtIndexPath:]
+-[TagReviewController numberOfSectionsInTableView:]
+-[TagReviewController BuildTableView]
+-[TagReviewController SizingMisc]
+-[TagReviewController didReceiveMemoryWarning]
+-[TagReviewController viewDidAppear:]
+-[TagReviewController viewDidLoad]

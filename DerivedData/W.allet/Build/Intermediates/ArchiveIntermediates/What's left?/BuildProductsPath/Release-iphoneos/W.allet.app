@@ -1,0 +1,1 @@
+/Users/sweeharng/Desktop/What's left?/DerivedData/W.allet/Build/Intermediates/ArchiveIntermediates/What's left?/InstallationBuildProductsLocation/Applications/W.allet.app

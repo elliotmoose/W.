@@ -7,7 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import "SummaryCell.h"
 @interface SummaryCellData : NSObject
+
+@property DisplayMode displayMode;
+@property TimeFrame timeFrame;
 
 @end

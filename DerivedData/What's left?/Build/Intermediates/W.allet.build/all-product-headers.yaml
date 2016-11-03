@@ -1,0 +1,93 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sweeharng/Desktop/What's left?/DerivedData/What's left?/Build/Products/Debug-iphoneos/JBChart.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JBBarChartView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Bar/JBBarChartView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBChart-Swift.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/DerivedData/What's left?/Build/Products/Debug-iphoneos/JBChart.framework/Headers/JBChart-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBChart.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/JBChart.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBChartView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Base/JBChartView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBGradientBarView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Bar/Views/JBGradientBarView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBGradientLineLayer.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Layers/JBGradientLineLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBLineChartDotView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartDotView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBLineChartDotsView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartDotsView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBLineChartLine.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Models/JBLineChartLine.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBLineChartLinesView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Views/JBLineChartLinesView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBLineChartPoint.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Models/JBLineChartPoint.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBLineChartView.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/JBLineChartView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JBShapeLineLayer.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Line/Layers/JBShapeLineLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableArray+JBStack.h",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/JBChart/Classes/Additions/NSMutableArray+JBStack.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sweeharng/Desktop/What's left?/DerivedData/What's left?/Build/Products/Debug-iphoneos/JBChart.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sweeharng/Desktop/What's left?/DerivedData/What's left?/Build/Intermediates/W.allet.build/Debug-iphoneos/JBChart.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

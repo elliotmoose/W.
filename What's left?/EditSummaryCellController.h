@@ -7,7 +7,21 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SummaryCellData.h"
+#import "IntroController.h"
+#import "Settings.h"
+@protocol cellEdtContDelegate <NSObject>
 
-@interface EditSummaryCellController : UIViewController
+-(void)ReplaceCell: (SummaryCellData*) newCellData withreplacementIndex: (int) replacementIndex;
+
+@end
+@interface EditSummaryCellController : UIViewController<UIPickerViewDataSource,UIPickerViewDelegate>
+
+@property (weak, nonatomic) IBOutlet UIPickerView *cellModePicker;
+
+@property SummaryCellData *cellDataInEdit;
+@property int indexOfCellInEdit;
+@property id<cellEdtContDelegate> delegate;
+@property Settings *thisSettings;
 
 @end

@@ -9,5 +9,16 @@
 #import <Foundation/Foundation.h>
 
 @interface Event : NSObject
+{
 
+}
+@property float eventValue;
+@property float eventType;
+@property NSString *eventName;
+@property NSDate *eventDate;
+@property NSMutableArray *tags;
+@property BOOL isViewMore;
+@property BOOL isByMonth;
+
+-(void)RemoveTag:(NSString*)TagName;
 @end

@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/sweeharng/Desktop/What's\ left?/What's\ left?/MoneyManager.m \
+  /Users/sweeharng/Desktop/What's\ left?/What's\ left?/MoneyManager.h \
+  /Users/sweeharng/Desktop/What's\ left?/What's\ left?/Bank.h \
+  /Users/sweeharng/Desktop/What's\ left?/What's\ left?/Event.h

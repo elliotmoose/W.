@@ -7,7 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AddEventViewController.h"
+#import "EventCell.h"
+@protocol SaveBankDelegate <NSObject>
 
-@interface ManageUserPreferredEvents : UITableViewController
+-(void)UpdateBank;
 
+@end
+@interface ManageUserPreferredEvents : UITableViewController<UITableViewDataSource,UITableViewDelegate>
+
+@property AddEventViewController *addEventViewCont;
+@property (strong) Settings *thisSetting;
+@property (weak,nonatomic) id<SaveBankDelegate> delegate;
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
 @end

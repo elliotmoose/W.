@@ -5,52 +5,180 @@
 //  Created by Swee Har Ng on 1/10/16.
 //  Copyright © 2016 Kohbroco. All rights reserved.
 //
-
+#define Rgb2UIColor(r, g, b)  [UIColor colorWithRed:((r) / 255.0) green:((g) / 255.0) blue:((b) / 255.0) alpha:1.0]
+#define UIColorFromRGB(rgbValue) \
+[UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 \
+green:((float)((rgbValue & 0x00FF00) >>  8))/255.0 \
+blue:((float)((rgbValue & 0x0000FF) >>  0))/255.0 \
+alpha:1.0]
 #import "SummaryTableViewController.h"
-
+static SummaryTableViewController *singleton;
 @interface SummaryTableViewController ()
 
 @end
 
 @implementation SummaryTableViewController
+{
+    int maxSummaryCells;
+}
+@synthesize noOfRows;
+@synthesize screen;
+@synthesize hundredRelativePts;
+@synthesize allSummaryCells;
+@synthesize allSummaryCellsData;
+@synthesize editCellCont;
+@synthesize thisSettings;
 
+-(instancetype)init
+{
+    if (singleton == nil) {
+        singleton = self;
+    }
+    self = singleton;
+
+    return singleton;
+}
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    // Uncomment the following line to preserve selection between presentations.
-    // self.clearsSelectionOnViewWillAppear = NO;
-    
-    // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
-    // self.navigationItem.rightBarButtonItem = self.editButtonItem;
-}
+    [self init];
+    maxSummaryCells = 6;
+    allSummaryCells = [[NSMutableArray alloc]init];
+    allSummaryCellsData = [[NSMutableArray alloc]init];
+    editCellCont = [[EditSummaryCellController alloc]init];
+    editCellCont.delegate = self;
+    thisSettings = [[Settings alloc]init];
+    [self LoadCells];
+    [self reloadData];
 
+    self.tableView.backgroundColor = UIColorFromRGB(0xF4F3F4);
+}
+-(void)viewWillAppear:(BOOL)animated
+{
+    [self reloadData];
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    
 }
 
-#pragma mark - Table view data source
+-(void)reloadData
+{
+    [allSummaryCells removeAllObjects];
+    //reload data background first
+    //set all summary cells based on all summary data
+    for (int i = 0; i < allSummaryCellsData.count; i ++) {
+        SummaryCellData *thisData = allSummaryCellsData[i];
+        DisplayMode displayMode = thisData.displayMode;
+        TimeFrame timeframe = thisData.timeFrame;
+        
+        SummaryCell *sumCell;
+        
+        
+        //if its not default view
+        if (displayMode == Balance || (displayMode == Spent && timeframe == AllTime) || displayMode == LeftToSpendPerDay || displayMode == DaysToEndOfMonth || displayMode == Claimable || timeframe == EachDayAverage) {
+            sumCell = [[[NSBundle mainBundle] loadNibNamed:@"SummaryCell2" owner:self options:nil] objectAtIndex:0];
+            
+        }
+        else
+        {
+            sumCell = [[[NSBundle mainBundle] loadNibNamed:@"SummaryCell" owner:self options:nil] objectAtIndex:0];
+        }
+        
+        sumCell.displayMode = displayMode;
+        sumCell.timeFrame = timeframe;
+        
+        [allSummaryCells addObject: sumCell];
 
+    }
+    
+    [self.tableView reloadData];
+}
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
-#warning Incomplete implementation, return the number of sections
-    return 0;
+    return 1;
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-#warning Incomplete implementation, return the number of rows
-    return 0;
+    if (allSummaryCellsData.count <=maxSummaryCells -1 ) {
+        return allSummaryCellsData.count + 1;
+    }
+    else
+    {
+        return  maxSummaryCells;
+    }
 }
 
-/*
+
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:<#@"reuseIdentifier"#> forIndexPath:indexPath];
     
-    // Configure the cell...
-    
-    return cell;
-}
-*/
+    if (indexPath.row >= allSummaryCellsData.count) {
+        UITableViewCell * cell = [tableView dequeueReusableCellWithIdentifier:@"Cell"];
+        
+        if (cell == nil) {
+            cell = [[UITableViewCell alloc]init];
+            cell.textLabel.textAlignment = NSTextAlignmentCenter;
+            cell.textLabel.text = @"+";
+            [cell.textLabel setFont:[[cell.textLabel font] fontWithSize:cell.bounds.size.height]];
+        }
+        
 
+        cell.backgroundColor = UIColorFromRGB(0xF4F3F4);
+
+        return cell;
+    }
+
+    SummaryCell *sumCell = allSummaryCells[indexPath.row];
+    
+    [sumCell UpdateDisplay];
+
+    return sumCell;
+}
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    if (indexPath.row == allSummaryCells.count) {
+        if (allSummaryCells.count <= maxSummaryCells -1) {
+            [self AddSummaryCell];
+        }
+        
+        //trigger intro
+        if (!thisSettings.hasDoneIntro) {
+            IntroController *introCont = [[IntroController alloc]init];
+            [introCont IntroTrigger: 2];
+        }
+        
+    }
+    else{
+    editCellCont.cellDataInEdit = allSummaryCellsData[indexPath.row];
+    editCellCont.indexOfCellInEdit = (int)indexPath.row;
+    [self.navigationController pushViewController:editCellCont animated:YES];
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+        
+    }
+    
+}
+- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
+    if (indexPath.row == allSummaryCells.count) {
+        return  NO;
+    }
+    
+    return YES;
+}
+- (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath {
+    if (editingStyle == UITableViewCellEditingStyleDelete) {
+        
+        
+        [allSummaryCellsData removeObjectAtIndex:indexPath.row];
+        [self reloadData];
+        [self SaveCells];
+    }
+}
+
+
+//- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
+//{
+//    tableView.rowHeight = hundredRelativePts * 0.4;
+//    return hundredRelativePts*0.4;
+//}
 /*
 // Override to support conditional editing of the table view.
 - (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -94,5 +222,50 @@
     // Pass the selected object to the new view controller.
 }
 */
+-(void)AddSummaryCell
+{
+    SummaryCellData *cellData = [[SummaryCellData alloc] init];
+    cellData.displayMode = Spent;
+    cellData.timeFrame = ThisMonth;
+    
+  
+    [allSummaryCellsData addObject:cellData];
+    [self SaveCells];
+    [self reloadData];
+}
+-(void)SizingMisc
+{
+    screen = [UIScreen mainScreen];
+    hundredRelativePts = screen.bounds.size.width/375 * 100;
+}
 
+-(void)ReplaceCell: (SummaryCellData*) newCellData withreplacementIndex: (int) replacementIndex
+{
+    [allSummaryCellsData setObject: newCellData atIndexedSubscript:replacementIndex];
+    [self SaveCells];
+    [self reloadData];
+}
+
+-(void)SaveCells
+{
+    NSUserDefaults *save = [NSUserDefaults standardUserDefaults];
+   
+    NSData *archivedArray = [NSKeyedArchiver archivedDataWithRootObject:allSummaryCellsData];
+    [save setObject:archivedArray forKey:@"allSunmaryCellsData"];
+    [save synchronize];
+}
+
+-(void)LoadCells
+{
+    NSUserDefaults *save = [NSUserDefaults standardUserDefaults];
+    NSData *archivedArray = [save objectForKey:@"allSunmaryCellsData"];
+    if (archivedArray != nil) {
+        allSummaryCellsData = [NSKeyedUnarchiver unarchiveObjectWithData:archivedArray];
+        
+    }
+    if (allSummaryCellsData == nil) {
+        allSummaryCellsData = [[NSMutableArray alloc]init];
+    }
+    
+    }
 @end
